@@ -1,0 +1,76 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1130" height="520" viewBox="35 0 1130 520" role="img" aria-labelledby="title desc">
+  <title id="title">Engineering memory lifecycle</title>
+  <desc id="desc">A six-stage lifecycle from observing an evaluated outcome through extracting, validating, promoting, reusing, and monitoring engineering memory, with requalification, revision, or retirement when conditions change.</desc>
+  <defs>
+    <marker id="arrow" markerWidth="10" markerHeight="10" refX="9" refY="3" orient="auto" markerUnits="strokeWidth">
+      <path d="M0,0 L0,6 L9,3 z" fill="#2F6B8A"/>
+    </marker>
+    <style>
+      .title { font-family: 'Noto Sans', Arial, Helvetica, sans-serif; font-size: 30px; font-weight: 700; fill: #17212B; }
+      .box-title { font-family: 'Noto Sans', Arial, Helvetica, sans-serif; font-size: 18px; font-weight: 700; fill: #17212B; }
+      .box-copy { font-family: 'Noto Sans', Arial, Helvetica, sans-serif; font-size: 15px; font-weight: 400; fill: #5D6973; }
+      .arrow-label { font-family: 'Noto Sans', Arial, Helvetica, sans-serif; font-size: 14px; font-weight: 700; fill: #2F6B8A; }
+      .stage { fill: #EAF4FA; stroke: #2F6B8A; stroke-width: 2; rx: 14; }
+      .gate { fill: #EAF4FA; stroke: #2F6B8A; stroke-width: 2.5; }
+      .loop { fill: none; stroke: #2F6B8A; stroke-width: 3; marker-end: url(#arrow); }
+      .main-arrow { fill: none; stroke: #2F6B8A; stroke-width: 3; marker-end: url(#arrow); }
+      .boundary { fill: #FFFFFF; stroke: #2F6B8A; stroke-width: 2; stroke-dasharray: 7 6; rx: 12; }
+    </style>
+  </defs>
+
+  <rect x="0" y="0" width="1200" height="520" fill="#FFFFFF"/>
+
+  <text x="42" y="42" text-anchor="start" class="title" font-family="'Noto Sans', Arial, Helvetica, sans-serif" font-size="30" font-weight="700" fill="#17212B">Engineering memory is a controlled reuse lifecycle</text>
+
+  <rect x="42" y="88" width="160" height="112" class="stage"/>
+  <text x="122" y="120" text-anchor="middle" class="box-title" font-family="'Noto Sans', Arial, Helvetica, sans-serif" font-size="18" font-weight="700">Observe</text>
+  <text x="122" y="148" text-anchor="middle" class="box-copy" font-family="'Noto Sans', Arial, Helvetica, sans-serif" font-size="15" font-weight="400">Evaluated outcome</text>
+  <text x="122" y="172" text-anchor="middle" class="box-copy" font-family="'Noto Sans', Arial, Helvetica, sans-serif" font-size="15" font-weight="400">and context</text>
+
+  <rect x="240" y="88" width="160" height="112" class="stage"/>
+  <text x="320" y="120" text-anchor="middle" class="box-title" font-family="'Noto Sans', Arial, Helvetica, sans-serif" font-size="18" font-weight="700">Extract</text>
+  <text x="320" y="148" text-anchor="middle" class="box-copy" font-family="'Noto Sans', Arial, Helvetica, sans-serif" font-size="15" font-weight="400">Candidate skill,</text>
+  <text x="320" y="172" text-anchor="middle" class="box-copy" font-family="'Noto Sans', Arial, Helvetica, sans-serif" font-size="15" font-weight="400">procedure, or rule</text>
+
+  <polygon points="495,88 575,144 495,200 415,144" class="gate"/>
+  <text x="495" y="137" text-anchor="middle" class="box-title" font-family="'Noto Sans', Arial, Helvetica, sans-serif" font-size="18" font-weight="700">Validate</text>
+  <text x="495" y="161" text-anchor="middle" class="box-copy" font-family="'Noto Sans', Arial, Helvetica, sans-serif" font-size="15" font-weight="400">and authorize</text>
+
+  <rect x="590" y="88" width="170" height="112" class="stage"/>
+  <text x="675" y="120" text-anchor="middle" class="box-title" font-family="'Noto Sans', Arial, Helvetica, sans-serif" font-size="18" font-weight="700">Promote</text>
+  <text x="675" y="148" text-anchor="middle" class="box-copy" font-family="'Noto Sans', Arial, Helvetica, sans-serif" font-size="15" font-weight="400">Qualified memory</text>
+  <text x="675" y="172" text-anchor="middle" class="box-copy" font-family="'Noto Sans', Arial, Helvetica, sans-serif" font-size="15" font-weight="400">with provenance</text>
+
+  <rect x="798" y="88" width="170" height="112" class="stage"/>
+  <text x="883" y="120" text-anchor="middle" class="box-title" font-family="'Noto Sans', Arial, Helvetica, sans-serif" font-size="18" font-weight="700">Reuse</text>
+  <text x="883" y="148" text-anchor="middle" class="box-copy" font-family="'Noto Sans', Arial, Helvetica, sans-serif" font-size="15" font-weight="400">Apply within the</text>
+  <text x="883" y="172" text-anchor="middle" class="box-copy" font-family="'Noto Sans', Arial, Helvetica, sans-serif" font-size="15" font-weight="400">stated boundary</text>
+
+  <rect x="1006" y="88" width="152" height="112" class="stage"/>
+  <text x="1082" y="120" text-anchor="middle" class="box-title" font-family="'Noto Sans', Arial, Helvetica, sans-serif" font-size="18" font-weight="700">Monitor</text>
+  <text x="1082" y="148" text-anchor="middle" class="box-copy" font-family="'Noto Sans', Arial, Helvetica, sans-serif" font-size="15" font-weight="400">Compare new</text>
+  <text x="1082" y="172" text-anchor="middle" class="box-copy" font-family="'Noto Sans', Arial, Helvetica, sans-serif" font-size="15" font-weight="400">evidence</text>
+
+  <path d="M202 144 H232" class="main-arrow"/>
+  <path d="M400 144 H407" class="main-arrow"/>
+  <path d="M575 144 H582" class="main-arrow"/>
+  <path d="M760 144 H790" class="main-arrow"/>
+  <path d="M968 144 H998" class="main-arrow"/>
+
+  <rect x="315" y="270" width="570" height="112" class="boundary"/>
+  <text x="600" y="304" text-anchor="middle" class="box-title" font-family="'Noto Sans', Arial, Helvetica, sans-serif" font-size="18" font-weight="700">Applicability boundary travels with the memory</text>
+  <text x="600" y="334" text-anchor="middle" class="box-copy" font-family="'Noto Sans', Arial, Helvetica, sans-serif" font-size="15" font-weight="400">design family · constraints · tools · PDK and libraries</text>
+  <text x="600" y="358" text-anchor="middle" class="box-copy" font-family="'Noto Sans', Arial, Helvetica, sans-serif" font-size="15" font-weight="400">evaluator · organization · authorization</text>
+
+  <rect x="865" y="408" width="293" height="78" class="stage"/>
+  <text x="1012" y="439" text-anchor="middle" class="box-title" font-family="'Noto Sans', Arial, Helvetica, sans-serif" font-size="18" font-weight="700">Requalify, revise, or retire</text>
+  <text x="1012" y="464" text-anchor="middle" class="box-copy" font-family="'Noto Sans', Arial, Helvetica, sans-serif" font-size="15" font-weight="400">when evidence or conditions change</text>
+
+  <path d="M1082 200 V400" class="main-arrow"/>
+  <text x="1035" y="300" text-anchor="middle" class="arrow-label" font-family="'Noto Sans', Arial, Helvetica, sans-serif" font-size="14" font-weight="700">change detected</text>
+  <path d="M865 447 H675 C645 447 630 432 630 402 V208" class="loop"/>
+  <text x="742" y="433" text-anchor="middle" class="arrow-label" font-family="'Noto Sans', Arial, Helvetica, sans-serif" font-size="14" font-weight="700">return to validation</text>
+
+  <path d="M883 208 V268" class="main-arrow"/>
+  <text x="900" y="244" class="arrow-label" font-family="'Noto Sans', Arial, Helvetica, sans-serif" font-size="14" font-weight="700">scope check</text>
+</svg>

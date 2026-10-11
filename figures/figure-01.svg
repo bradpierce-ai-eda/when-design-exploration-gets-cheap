@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="850" viewBox="0 0 1400 850" role="img" aria-labelledby="fig01-title fig01-desc">
+<title id="fig01-title">Optionality is upstream; authority accumulates downstream</title>
+<desc id="fig01-desc">AI can make proposal and exploration dramatically cheaper while reducing the cost of authoritative physical and manufacturing evidence much less. The resulting opportunity is asymmetric: search can move rapidly without similarly dispersing qualification, process integration, and trusted downstream evaluation.</desc>
+<rect width="1400" height="850" fill="#FFFFFF"/>
+<defs>
+<marker id="arroworange" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto" markerUnits="strokeWidth"><path d="M0,0 L0,6 L9,3 z" fill="#B56B3C"/></marker>
+<marker id="arrowgreen" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto" markerUnits="strokeWidth"><path d="M0,0 L0,6 L9,3 z" fill="#5E7E6E"/></marker>
+<marker id="arrowblue" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto" markerUnits="strokeWidth"><path d="M0,0 L0,6 L9,3 z" fill="#2F6B8A"/></marker>
+</defs>
+<text x="70" y="62" font-family="'Noto Sans', Arial, Helvetica, sans-serif" font-size="34" font-weight="700" fill="#17212B">Optionality is upstream; authority accumulates downstream</text>
+<line x1="70" y1="82" x2="1330" y2="82" stroke="#AAB3BB" stroke-width="2"/>
+<rect x="390" y="112" width="620" height="610" rx="26" fill="#F7FAFC" stroke="none"/>
+<text x="700" y="108" font-family="'Noto Sans', Arial, Helvetica, sans-serif" font-size="20" font-weight="700" font-style="normal" fill="#5D6973" text-anchor="middle">increasingly programmable</text>
+<rect x="430" y="125" width="540" height="66" rx="12" fill="#F7FAFC" stroke="#AAB3BB" stroke-width="2"/>
+<text x="454" y="166" font-family="'Noto Sans', Arial, Helvetica, sans-serif" font-size="24" font-weight="600" font-style="normal" fill="#17212B" text-anchor="start">Specification / architecture</text>
+<rect x="430" y="203" width="540" height="66" rx="12" fill="#F7FAFC" stroke="#AAB3BB" stroke-width="2"/>
+<text x="454" y="244" font-family="'Noto Sans', Arial, Helvetica, sans-serif" font-size="24" font-weight="600" font-style="normal" fill="#17212B" text-anchor="start">RTL</text>
+<rect x="430" y="281" width="540" height="66" rx="12" fill="#F7FAFC" stroke="#AAB3BB" stroke-width="2"/>
+<text x="454" y="322" font-family="'Noto Sans', Arial, Helvetica, sans-serif" font-size="24" font-weight="600" font-style="normal" fill="#17212B" text-anchor="start">Verification</text>
+<rect x="430" y="359" width="540" height="66" rx="12" fill="#F7FAFC" stroke="#AAB3BB" stroke-width="2"/>
+<text x="454" y="400" font-family="'Noto Sans', Arial, Helvetica, sans-serif" font-size="24" font-weight="600" font-style="normal" fill="#17212B" text-anchor="start">Synthesis</text>
+<rect x="430" y="437" width="540" height="66" rx="12" fill="#F7FAFC" stroke="#AAB3BB" stroke-width="2"/>
+<text x="454" y="478" font-family="'Noto Sans', Arial, Helvetica, sans-serif" font-size="24" font-weight="600" font-style="normal" fill="#17212B" text-anchor="start">Physical implementation</text>
+<rect x="430" y="515" width="540" height="66" rx="12" fill="#F7FAFC" stroke="#AAB3BB" stroke-width="2"/>
+<text x="454" y="556" font-family="'Noto Sans', Arial, Helvetica, sans-serif" font-size="24" font-weight="600" font-style="normal" fill="#17212B" text-anchor="start">Signoff</text>
+<rect x="430" y="593" width="540" height="66" rx="12" fill="#F7FAFC" stroke="#AAB3BB" stroke-width="2"/>
+<text x="454" y="634" font-family="'Noto Sans', Arial, Helvetica, sans-serif" font-size="24" font-weight="600" font-style="normal" fill="#17212B" text-anchor="start">Foundry / manufacturing constraints</text>
+<rect x="430" y="671" width="540" height="66" rx="12" fill="#F7FAFC" stroke="#AAB3BB" stroke-width="2"/>
+<text x="454" y="712" font-family="'Noto Sans', Arial, Helvetica, sans-serif" font-size="24" font-weight="600" font-style="normal" fill="#17212B" text-anchor="start">Silicon</text>
+<line x1="260" y1="160" x2="260" y2="690" stroke="#2F6B8A" stroke-width="6" marker-end="url(#arrowblue)"/>
+<text x="250" y="142" font-family="'Noto Sans', Arial, Helvetica, sans-serif" font-size="21" font-weight="700" font-style="normal" fill="#2F6B8A" text-anchor="middle">OPTIONALITY / REVERSIBILITY</text>
+<text x="245" y="195" font-family="'Noto Sans', Arial, Helvetica, sans-serif" font-size="19" font-weight="700" font-style="normal" fill="#2F6B8A" text-anchor="end">HIGH</text>
+<text x="245" y="690" font-family="'Noto Sans', Arial, Helvetica, sans-serif" font-size="19" font-weight="700" font-style="normal" fill="#5D6973" text-anchor="end">LOW</text>
+<line x1="1135" y1="690" x2="1135" y2="160" stroke="#B56B3C" stroke-width="6" marker-end="url(#arroworange)"/>
+<text x="1145" y="142" font-family="'Noto Sans', Arial, Helvetica, sans-serif" font-size="21" font-weight="700" font-style="normal" fill="#B56B3C" text-anchor="middle">AUTHORITY / COST OF TRUTH</text>
+<text x="1155" y="195" font-family="'Noto Sans', Arial, Helvetica, sans-serif" font-size="19" font-weight="700" font-style="normal" fill="#5D6973" text-anchor="start">LOW</text>
+<text x="1155" y="690" font-family="'Noto Sans', Arial, Helvetica, sans-serif" font-size="19" font-weight="700" font-style="normal" fill="#B56B3C" text-anchor="start">HIGH</text>
+<path d="M 1015 620 C 1210 620, 1210 300, 1000 300" fill="none" stroke="#5E7E6E" stroke-width="3" marker-end="url(#arrowgreen)"/>
+<path d="M 1015 520 C 1210 520, 1210 230, 1000 230" fill="none" stroke="#5E7E6E" stroke-width="3" marker-end="url(#arrowgreen)"/>
+<path d="M 1015 690 C 1210 690, 1210 380, 1000 380" fill="none" stroke="#5E7E6E" stroke-width="3" marker-end="url(#arrowgreen)"/>
+<text x="1030" y="755" font-family="'Noto Sans', Arial, Helvetica, sans-serif" font-size="19" font-weight="400" fill="#5D6973" text-anchor="start">
+<tspan x="1030" dy="0">Downstream evidence feeds</tspan>
+<tspan x="1030" dy="23.75">earlier choices; the stack is</tspan>
+<tspan x="1030" dy="23.75">not a one-way waterfall.</tspan>
+</text>
+</svg>

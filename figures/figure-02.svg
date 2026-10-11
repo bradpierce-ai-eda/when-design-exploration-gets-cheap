@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="850" viewBox="0 0 1400 850" role="img" aria-labelledby="fig02-title fig02-desc">
+<title id="fig02-title">A machine actor creates a learning loop around trusted evaluators</title>
+<desc id="fig02-desc">The new actor is not automatically the judge. It proposes and adapts around executable tools and evaluators while humans still set goals, govern risk and budgets, decide when to escalate, and retain the right to commit.</desc>
+<rect width="1400" height="850" fill="#FFFFFF"/>
+<defs>
+<marker id="arrow" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto" markerUnits="strokeWidth"><path d="M0,0 L0,6 L9,3 z" fill="#5D6973"/></marker>
+<marker id="arrowblue" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto" markerUnits="strokeWidth"><path d="M0,0 L0,6 L9,3 z" fill="#2F6B8A"/></marker>
+<linearGradient id="fadeBlue" x1="0" y1="0" x2="0" y2="1"><stop offset="0%" stop-color="#EAF4FA" stop-opacity="0.9"/><stop offset="100%" stop-color="#EAF4FA" stop-opacity="0.15"/></linearGradient>
+</defs>
+<text x="70" y="62" font-family="'Noto Sans', Arial, Helvetica, sans-serif" font-size="34" font-weight="700" fill="#17212B">A machine actor creates a learning loop around trusted evaluators</text>
+<line x1="70" y1="82" x2="1330" y2="82" stroke="#AAB3BB" stroke-width="2"/>
+<rect x="540" y="113" width="220" height="84" rx="18" fill="#EAF4FA" stroke="#2F6B8A" stroke-width="2"/>
+<text x="650" y="164" font-family="'Noto Sans', Arial, Helvetica, sans-serif" font-size="24" font-weight="700" font-style="normal" fill="#17212B" text-anchor="middle">PROPOSE</text>
+<rect x="820" y="238" width="220" height="84" rx="18" fill="#F7FAFC" stroke="#AAB3BB" stroke-width="2"/>
+<text x="930" y="289" font-family="'Noto Sans', Arial, Helvetica, sans-serif" font-size="24" font-weight="700" font-style="normal" fill="#17212B" text-anchor="middle">EXECUTE</text>
+<rect x="820" y="503" width="220" height="84" rx="18" fill="#F7FAFC" stroke="#AAB3BB" stroke-width="2"/>
+<text x="930" y="554" font-family="'Noto Sans', Arial, Helvetica, sans-serif" font-size="24" font-weight="700" font-style="normal" fill="#17212B" text-anchor="middle">EVALUATE</text>
+<rect x="540" y="638" width="220" height="84" rx="18" fill="#F7FAFC" stroke="#AAB3BB" stroke-width="2"/>
+<text x="650" y="689" font-family="'Noto Sans', Arial, Helvetica, sans-serif" font-size="24" font-weight="700" font-style="normal" fill="#17212B" text-anchor="middle">RECORD</text>
+<rect x="260" y="503" width="220" height="84" rx="18" fill="#EAF4FA" stroke="#2F6B8A" stroke-width="2"/>
+<text x="370" y="554" font-family="'Noto Sans', Arial, Helvetica, sans-serif" font-size="24" font-weight="700" font-style="normal" fill="#17212B" text-anchor="middle">ADAPT</text>
+<rect x="260" y="238" width="220" height="84" rx="18" fill="#EAF4FA" stroke="#2F6B8A" stroke-width="2"/>
+<text x="370" y="289" font-family="'Noto Sans', Arial, Helvetica, sans-serif" font-size="24" font-weight="700" font-style="normal" fill="#17212B" text-anchor="middle">SELECT / ROUTE</text>
+<line x1="757.7502701276263" y1="174.56724033794666" x2="822.2497298723737" y2="260.43275966205334" stroke="#5D6973" stroke-width="3" marker-end="url(#arrow)"/>
+<line x1="930.0" y1="328.0" x2="930.0" y2="497.0" stroke="#5D6973" stroke-width="3" marker-end="url(#arrow)"/>
+<line x1="823.7092955984704" y1="565.8463609116801" x2="756.2907044015296" y2="659.1536390883199" stroke="#5D6973" stroke-width="3" marker-end="url(#arrow)"/>
+<line x1="543.7092955984704" y1="659.1536390883199" x2="476.29070440152964" y2="565.8463609116801" stroke="#5D6973" stroke-width="3" marker-end="url(#arrow)"/>
+<line x1="370.0" y1="497.0" x2="370.0" y2="328.0" stroke="#5D6973" stroke-width="3" marker-end="url(#arrow)"/>
+<line x1="477.7502701276263" y1="260.43275966205334" x2="542.2497298723737" y2="174.56724033794666" stroke="#5D6973" stroke-width="3" marker-end="url(#arrow)"/>
+<circle cx="650" cy="420" r="112" fill="#FFF1E8" stroke="#B56B3C" stroke-width="2.5"/>
+<text x="650" y="412" font-family="'Noto Sans', Arial, Helvetica, sans-serif" font-size="28" font-weight="700" font-style="normal" fill="#17212B" text-anchor="middle">MACHINE</text>
+<text x="650" y="448" font-family="'Noto Sans', Arial, Helvetica, sans-serif" font-size="28" font-weight="700" font-style="normal" fill="#17212B" text-anchor="middle">ACTOR</text>
+<rect x="1090" y="320" width="240" height="180" rx="16" fill="#EDF5F0" stroke="#5E7E6E" stroke-width="2"/>
+<text x="1210" y="355" font-family="'Noto Sans', Arial, Helvetica, sans-serif" font-size="22" font-weight="700" font-style="normal" fill="#5E7E6E" text-anchor="middle">TRUSTED</text>
+<text x="1210" y="385" font-family="'Noto Sans', Arial, Helvetica, sans-serif" font-size="22" font-weight="700" font-style="normal" fill="#5E7E6E" text-anchor="middle">ENGINES /</text>
+<text x="1210" y="415" font-family="'Noto Sans', Arial, Helvetica, sans-serif" font-size="22" font-weight="700" font-style="normal" fill="#5E7E6E" text-anchor="middle">EVALUATORS</text>
+<text x="1210" y="455" font-family="'Noto Sans', Arial, Helvetica, sans-serif" font-size="18" font-weight="400" fill="#5D6973" text-anchor="middle">
+<tspan x="1210" dy="0">executable tools and</tspan>
+<tspan x="1210" dy="23">authoritative checks</tspan>
+</text>
+<line x1="1040" y1="305" x2="1090" y2="355" stroke="#5E7E6E" stroke-width="2.5" marker-end="url(#arrow)"/>
+<line x1="1040" y1="520" x2="1090" y2="465" stroke="#5E7E6E" stroke-width="2.5" marker-end="url(#arrow)"/>
+<rect x="105" y="108" width="1190" height="640" rx="28" fill="none" stroke="#2F6B8A" stroke-width="2.5" stroke-dasharray="10 10"/>
+<text x="700" y="785" font-family="'Noto Sans', Arial, Helvetica, sans-serif" font-size="20" font-weight="700" font-style="normal" fill="#2F6B8A" text-anchor="middle">GOALS  •  AUTHORITY  •  BUDGETS  •  RISK  •  ACCOUNTABILITY  •  ESCALATION  •  COMMITMENT</text>
+</svg>

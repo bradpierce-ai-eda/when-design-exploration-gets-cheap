@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="700" viewBox="0 0 1200 700" role="img" aria-labelledby="fig14-title fig14-desc">
+<title id="fig14-title">Scarcity can move toward what AI doesn’t make easier</title>
+<desc id="fig14-desc">Reducing the cost of one engineering activity shifts relative scarcity to other parts of the engineering process.</desc>
+<defs><marker id="arr" markerWidth="10" markerHeight="10" refX="8.6" refY="5" orient="auto" markerUnits="strokeWidth"><path d="M1,1 L8.6,5 L1,9" fill="none" stroke="#AAB3BB" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/></marker></defs>
+<rect x="0" y="0" width="1200" height="700" rx="0" fill="#FCFBF8" stroke="none" stroke-width="1"/>
+<text x="58" y="54" font-family="'Noto Sans', Arial, Helvetica, sans-serif" font-size="31" font-weight="700" fill="#17212B" text-anchor="start">Scarcity can move toward what AI doesn’t make easier</text>
+<text x="58" y="86" font-family="'Noto Sans', Arial, Helvetica, sans-serif" font-size="20" font-weight="400" fill="#5D6973" text-anchor="start">Five independent examples of movement in relative scarcity</text>
+<line x1="58" y1="112" x2="1142" y2="112" stroke="#AAB3BB" stroke-width="1" stroke-linecap="round"/>
+<text x="600" y="144" font-family="'Noto Sans', Arial, Helvetica, sans-serif" font-size="17" font-weight="700" fill="#5D6973" text-anchor="middle">relative scarcity</text>
+<text x="600" y="166" font-family="'Noto Sans', Arial, Helvetica, sans-serif" font-size="16" font-weight="500" fill="#5D6973" text-anchor="middle">can shift toward</text>
+<rect x="62" y="190" width="320" height="77" rx="11" fill="#EAF4FA" stroke="#2F6B8A" stroke-width="1.5"/>
+<text x="222" y="237" font-family="'Noto Sans', Arial, Helvetica, sans-serif" font-size="20" font-weight="600" fill="#17212B" text-anchor="middle">Proposal + search</text>
+<line x1="430" y1="228.5" x2="758" y2="228.5" stroke="#AAB3BB" stroke-width="2.0" stroke-linecap="round" marker-end="url(#arr)"/>
+<rect x="810" y="190" width="328" height="77" rx="11" fill="#FFF1E8" stroke="#B56B3C" stroke-width="1.5"/>
+<text x="974" y="237" font-family="'Noto Sans', Arial, Helvetica, sans-serif" font-size="20" font-weight="600" fill="#17212B" text-anchor="middle">Authoritative evaluation</text>
+<rect x="62" y="289" width="320" height="77" rx="11" fill="#EAF4FA" stroke="#2F6B8A" stroke-width="1.5"/>
+<text x="222" y="336" font-family="'Noto Sans', Arial, Helvetica, sans-serif" font-size="20" font-weight="600" fill="#17212B" text-anchor="middle">Generic intelligence</text>
+<line x1="430" y1="327.5" x2="758" y2="327.5" stroke="#AAB3BB" stroke-width="2.0" stroke-linecap="round" marker-end="url(#arr)"/>
+<rect x="810" y="289" width="328" height="77" rx="11" fill="#FFF1E8" stroke="#B56B3C" stroke-width="1.5"/>
+<text x="974" y="321" font-family="'Noto Sans', Arial, Helvetica, sans-serif" font-size="19" font-weight="600" fill="#17212B" text-anchor="middle"><tspan x="974" dy="0">Accumulated context +</tspan><tspan x="974" dy="21.8">engineering memory</tspan></text>
+<rect x="62" y="388" width="320" height="77" rx="11" fill="#EAF4FA" stroke="#2F6B8A" stroke-width="1.5"/>
+<text x="222" y="435" font-family="'Noto Sans', Arial, Helvetica, sans-serif" font-size="20" font-weight="600" fill="#17212B" text-anchor="middle">Autonomous action</text>
+<line x1="430" y1="426.5" x2="758" y2="426.5" stroke="#AAB3BB" stroke-width="2.0" stroke-linecap="round" marker-end="url(#arr)"/>
+<rect x="810" y="388" width="328" height="77" rx="11" fill="#FFF1E8" stroke="#B56B3C" stroke-width="1.5"/>
+<text x="974" y="435" font-family="'Noto Sans', Arial, Helvetica, sans-serif" font-size="20" font-weight="600" fill="#17212B" text-anchor="middle">Provenance + authorization</text>
+<rect x="62" y="487" width="320" height="77" rx="11" fill="#EAF4FA" stroke="#2F6B8A" stroke-width="1.5"/>
+<text x="222" y="534" font-family="'Noto Sans', Arial, Helvetica, sans-serif" font-size="20" font-weight="600" fill="#17212B" text-anchor="middle">Experimentation</text>
+<line x1="430" y1="525.5" x2="758" y2="525.5" stroke="#AAB3BB" stroke-width="2.0" stroke-linecap="round" marker-end="url(#arr)"/>
+<rect x="810" y="487" width="328" height="77" rx="11" fill="#FFF1E8" stroke="#B56B3C" stroke-width="1.5"/>
+<text x="974" y="519" font-family="'Noto Sans', Arial, Helvetica, sans-serif" font-size="19" font-weight="600" fill="#17212B" text-anchor="middle"><tspan x="974" dy="0">Failure history +</tspan><tspan x="974" dy="21.8">routing policy</tspan></text>
+<rect x="62" y="586" width="320" height="77" rx="11" fill="#EAF4FA" stroke="#2F6B8A" stroke-width="1.5"/>
+<text x="222" y="633" font-family="'Noto Sans', Arial, Helvetica, sans-serif" font-size="20" font-weight="600" fill="#17212B" text-anchor="middle">Evaluation</text>
+<line x1="430" y1="624.5" x2="758" y2="624.5" stroke="#AAB3BB" stroke-width="2.0" stroke-linecap="round" marker-end="url(#arr)"/>
+<rect x="810" y="586" width="328" height="77" rx="11" fill="#FFF1E8" stroke="#B56B3C" stroke-width="1.5"/>
+<text x="974" y="618" font-family="'Noto Sans', Arial, Helvetica, sans-serif" font-size="19" font-weight="600" fill="#17212B" text-anchor="middle"><tspan x="974" dy="0">Commitment +</tspan><tspan x="974" dy="21.8">decision rights</tspan></text>
+</svg>

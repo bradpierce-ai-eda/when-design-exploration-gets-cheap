@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="860" viewBox="0 0 1400 860" role="img" aria-labelledby="svg-title svg-desc">
+  <title id="svg-title">How routing decisions can become routing capital</title>
+  <desc id="svg-desc">A two-timescale model of how repeated routing decisions create value while experience remains valid. Within one engineering decision, the engineering question and current design state lead to a routing choice, evaluator evidence, and a decision to act, escalate, or stop. Across decisions, observed outcomes and overrides are preserved with provenance and pass through a validity gate. Supported experience updates validated organizational capability and guides the next route. Uncertain or changed conditions trigger retesting, requalification, or retirement. Invalid experience used anyway becomes accumulated error.</desc>
+  <defs>
+    <marker id="arrow-navy" markerWidth="16" markerHeight="16" refX="14" refY="8" orient="auto" markerUnits="userSpaceOnUse">
+      <path d="M0,0 L16,8 L0,16 Z" fill="#17212B"/>
+    </marker>
+    <marker id="arrow-teal" markerWidth="16" markerHeight="16" refX="14" refY="8" orient="auto" markerUnits="userSpaceOnUse">
+      <path d="M0,0 L16,8 L0,16 Z" fill="#5E7E6E"/>
+    </marker>
+    <marker id="arrow-amber" markerWidth="16" markerHeight="16" refX="14" refY="8" orient="auto" markerUnits="userSpaceOnUse">
+      <path d="M0,0 L16,8 L0,16 Z" fill="#B36A16"/>
+    </marker>
+    <marker id="arrow-rust" markerWidth="16" markerHeight="16" refX="14" refY="8" orient="auto" markerUnits="userSpaceOnUse">
+      <path d="M0,0 L16,8 L0,16 Z" fill="#9B4738"/>
+    </marker>
+    <style><![CDATA[
+      .sans { font-family: 'Noto Sans', Arial, Helvetica, sans-serif; }
+      .title { font-size: 34px; font-weight: 700; fill: #17212B; }
+      .subtitle { font-size: 24px; font-weight: 400; fill: #5D6973; }
+      .band-label { font-size: 21px; font-weight: 700; letter-spacing: 1.5px; fill: #2F6B8A; }
+      .node-title { font-size: 27px; font-weight: 700; fill: #17212B; }
+      .node-body { font-size: 23px; font-weight: 400; fill: #17212B; }
+      .small { font-size: 21px; font-weight: 400; fill: #5D6973; }
+      .tag { font-size: 18px; font-weight: 700; letter-spacing: 1px; fill: #2F6B8A; }
+      .arrow-label { font-size: 19px; font-weight: 700; fill: #5D6973; }
+      .teal { fill: #5E7E6E; }
+      .amber { fill: #9A5B13; }
+      .rust { fill: #8F3F32; }
+    ]]></style>
+  </defs>
+
+  <rect width="1400" height="860" fill="#FFFFFF"/>
+  <text x="60" y="58" class="sans title">How routing decisions can become routing capital</text>
+  <text x="60" y="94" class="sans subtitle">Repetition creates value only while experience remains valid</text>
+
+  <!-- Within-decision band -->
+  <rect x="45" y="125" width="1310" height="275" rx="24" fill="#F7FAFC" stroke="#AAB3BB" stroke-width="2"/>
+  <rect x="65" y="145" width="330" height="38" rx="19" fill="#EAF4FA"/>
+  <text x="86" y="171" class="sans band-label">WITHIN ONE ENGINEERING DECISION</text>
+
+  <rect x="80" y="210" width="275" height="145" rx="18" fill="#FFFFFF" stroke="#2F6B8A" stroke-width="2.5"/>
+  <text x="105" y="245" class="sans node-title">Question + current</text>
+  <text x="105" y="277" class="sans node-title">design state</text>
+  <text x="105" y="313" class="sans node-body">What must be settled?</text>
+  <text x="105" y="343" class="sans small">What is the cost of error?</text>
+
+  <rect x="410" y="210" width="275" height="145" rx="18" fill="#FFFFFF" stroke="#2F6B8A" stroke-width="3"/>
+  <text x="435" y="238" class="sans tag">ROUTER INFRASTRUCTURE</text>
+  <text x="435" y="274" class="sans node-title">Routing choice</text>
+  <text x="435" y="309" class="sans node-body">Evaluator • fidelity</text>
+  <text x="435" y="340" class="sans node-body">Sequence • escalation</text>
+
+  <rect x="740" y="210" width="275" height="145" rx="18" fill="#FFFFFF" stroke="#2F6B8A" stroke-width="2.5"/>
+  <text x="765" y="252" class="sans node-title">Evaluator evidence</text>
+  <text x="765" y="292" class="sans node-body">Result • authority</text>
+  <text x="765" y="326" class="sans node-body">Cost • assumptions</text>
+
+  <rect x="1070" y="210" width="250" height="145" rx="18" fill="#FFFFFF" stroke="#2F6B8A" stroke-width="2.5"/>
+  <text x="1095" y="252" class="sans node-title">Decision</text>
+  <text x="1095" y="292" class="sans node-body">Act • escalate</text>
+  <text x="1095" y="326" class="sans node-body">or stop</text>
+
+  <line x1="355" y1="282" x2="398" y2="282" stroke="#17212B" stroke-width="5" marker-end="url(#arrow-navy)"/>
+  <line x1="685" y1="282" x2="728" y2="282" stroke="#17212B" stroke-width="5" marker-end="url(#arrow-navy)"/>
+  <line x1="1015" y1="282" x2="1058" y2="282" stroke="#17212B" stroke-width="5" marker-end="url(#arrow-navy)"/>
+
+  <!-- Across-decisions band -->
+  <rect x="45" y="440" width="1310" height="370" rx="24" fill="#FBFAF7" stroke="#D5CCBC" stroke-width="2"/>
+  <rect x="65" y="460" width="245" height="38" rx="19" fill="#ECE6DA"/>
+  <text x="86" y="486" class="sans band-label">ACROSS DECISIONS</text>
+
+  <!-- Operational outcome enters at the right and flows left -->
+  <rect x="1080" y="535" width="240" height="125" rx="18" fill="#FFFFFF" stroke="#2F6B8A" stroke-width="2.5"/>
+  <text x="1105" y="575" class="sans node-title">Observed outcome</text>
+  <text x="1105" y="612" class="sans node-body">Decision changed?</text>
+  <text x="1105" y="642" class="sans small">Override • failure • cost</text>
+
+  <rect x="780" y="535" width="245" height="125" rx="18" fill="#FFFFFF" stroke="#2F6B8A" stroke-width="2.5"/>
+  <text x="805" y="575" class="sans node-title">Preserve provenance</text>
+  <text x="805" y="612" class="sans node-body">State • tool / PDK</text>
+  <text x="805" y="642" class="sans small">Assumptions • history</text>
+
+  <polygon points="650,520 755,598 650,676 545,598" fill="#FFFFFF" stroke="#B36A16" stroke-width="3"/>
+  <text x="650" y="581" text-anchor="middle" class="sans node-title">Validity</text>
+  <text x="650" y="613" text-anchor="middle" class="sans node-title">gate</text>
+  <text x="650" y="643" text-anchor="middle" class="sans small">Still valid here?</text>
+
+  <rect x="85" y="510" width="380" height="190" rx="20" fill="#E8F3F1" stroke="#5E7E6E" stroke-width="3.5"/>
+  <text x="115" y="546" class="sans tag teal">ROUTING CAPITAL</text>
+  <text x="115" y="586" class="sans node-title">Validated organizational</text>
+  <text x="115" y="618" class="sans node-title">capability</text>
+  <text x="115" y="654" class="sans small">expressed through records • policies</text>
+  <text x="115" y="682" class="sans small">and integrations</text>
+
+  <line x1="1080" y1="598" x2="1037" y2="598" stroke="#17212B" stroke-width="5" marker-end="url(#arrow-navy)"/>
+  <line x1="780" y1="598" x2="767" y2="598" stroke="#17212B" stroke-width="5" marker-end="url(#arrow-navy)"/>
+  <line x1="545" y1="598" x2="477" y2="598" stroke="#5E7E6E" stroke-width="6" marker-end="url(#arrow-teal)"/>
+  <text x="490" y="575" class="sans arrow-label teal">valid</text>
+
+  <!-- Handoff between timescales -->
+  <path d="M1195 355 C1195 420 1200 455 1200 523" fill="none" stroke="#17212B" stroke-width="5" marker-end="url(#arrow-navy)"/>
+  <text x="1217" y="424" class="sans arrow-label">observe</text>
+
+  <path d="M275 510 C275 440 535 450 548 367" fill="none" stroke="#5E7E6E" stroke-width="6" marker-end="url(#arrow-teal)"/>
+  <text x="310" y="441" class="sans arrow-label teal">guides the next route</text>
+
+  <!-- Context drift, retest, and error paths -->
+  <text x="650" y="472" text-anchor="middle" class="sans arrow-label amber">tool • PDK • design • method drift</text>
+  <path d="M650 481 L650 508" fill="none" stroke="#B36A16" stroke-width="4" stroke-dasharray="10 7" marker-end="url(#arrow-amber)"/>
+
+  <rect x="875" y="720" width="390" height="68" rx="16" fill="#FFF3DF" stroke="#B36A16" stroke-width="3"/>
+  <text x="1070" y="751" text-anchor="middle" class="sans node-title amber">Retest • requalify • retire</text>
+  <text x="1070" y="779" text-anchor="middle" class="sans small">when validity is uncertain</text>
+
+  <rect x="420" y="720" width="350" height="68" rx="16" fill="#FBECE8" stroke="#9B4738" stroke-width="3"/>
+  <text x="595" y="751" text-anchor="middle" class="sans node-title rust">Accumulated error</text>
+  <text x="595" y="779" text-anchor="middle" class="sans small">can misguide future routes</text>
+
+  <path d="M712 652 C780 678 826 714 862 742" fill="none" stroke="#B36A16" stroke-width="5" marker-end="url(#arrow-amber)"/>
+  <text x="755" y="697" class="sans arrow-label amber">uncertain / changed</text>
+
+  <path d="M625 672 C616 689 608 703 602 713" fill="none" stroke="#9B4738" stroke-width="5" marker-end="url(#arrow-rust)"/>
+  <text x="445" y="705" class="sans arrow-label rust">gate bypassed</text>
+</svg>

@@ -1,0 +1,48 @@
+{
+  "schema_version": "1.0",
+  "title": "When Design Exploration Gets Cheap",
+  "subtitle": "Upstream Search, Downstream Truth, and the Migration of Scarcity in Chip Design",
+  "author": [
+    {
+      "name": "Brad Pierce",
+      "orcid": "https://orcid.org/0009-0009-7427-2969"
+    }
+  ],
+  "doi": "10.5281/zenodo.23256253",
+  "doi_url": "https://doi.org/10.5281/zenodo.23256253",
+  "zenodo_record": "https://zenodo.org/records/23256253",
+  "publication_date": "2026-10-09",
+  "version": "1.0",
+  "resource_type": "Report",
+  "language": "en",
+  "license": {
+    "spdx": "CC-BY-NC-4.0",
+    "name": "Creative Commons Attribution-NonCommercial 4.0 International",
+    "url": "https://creativecommons.org/licenses/by-nc/4.0/"
+  },
+  "keywords": [
+    "electronic design automation",
+    "EDA",
+    "artificial intelligence",
+    "agentic AI",
+    "evaluator economics",
+    "routing capital",
+    "technical capital",
+    "technical capital intelligence",
+    "techcap",
+    "semiconductor design",
+    "design-space exploration"
+  ],
+  "abstract": "When AI lowers the cost of design exploration faster than it lowers the cost of authoritative evaluation, chip design reorganizes around what becomes relatively scarce: trusted evidence, accumulated context, engineering memory, and ultimately the authority to commit. The allocation problem is evaluator economics: deciding what evidence to obtain next, which evaluator has enough authority for the question at hand, when stronger evidence is worth its cost, and when to stop or escalate. EDA makes this evaluator-allocation problem unusually visible because its evaluators differ sharply in cost, latency, coverage, fidelity, authority, and consequence. The same cost asymmetry reorganizes control and value. Who controls the workflow, whose capability is difficult to substitute, and where economic value accrues are distinct questions and can have different answers. State, methodology, failure history, routing knowledge, and qualified integration can accumulate into technical capital even when they never become standalone software products. Separately owned technical capital can also operate as one engineering system when governed interfaces preserve authority, provenance, qualification, and ownership while allowing external evaluators to contribute authoritative evidence. Public evidence already shows the layered architecture in real deployment. That leaves four linked questions: where scarcity moves as exploration becomes cheap, what capital forms around the new scarcities, which ownership structures those conditions favor, and which of those assets can support durable economic value.",
+  "repository": "https://github.com/bradpierce-ai-eda/when-design-exploration-gets-cheap",
+  "pages_url": "https://bradpierce-ai-eda.github.io/when-design-exploration-gets-cheap/",
+  "preferred_citation": "Pierce, Brad. When Design Exploration Gets Cheap: Upstream Search, Downstream Truth, and the Migration of Scarcity in Chip Design. Zenodo, 2026. DOI: 10.5281/zenodo.23256253.",
+  "content_counts": {
+    "figures": 19,
+    "references": 212,
+    "reference_slots": 212,
+    "bibliographic_works": 216,
+    "reference_work_links": 231,
+    "tables": 97
+  }
+}

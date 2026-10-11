@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="760" viewBox="0 0 1200 760" role="img" aria-labelledby="fig17-title fig17-desc">
+<title id="fig17-title">Governed interaction across separate ownership domains</title>
+<desc id="fig17-desc">Separately owned technical capital can still operate as one engineering system through a governed interface. Bounded context can pass to an external authoritative evaluator and evidence can return without transferring ownership of the underlying capital. In the figure, ‘customer-controlled’ refers to ownership and authority over the technical capital, not to where it is deployed.</desc>
+<defs><marker id="arr" markerWidth="10" markerHeight="10" refX="8.6" refY="5" orient="auto" markerUnits="strokeWidth"><path d="M1,1 L8.6,5 L1,9" fill="none" stroke="#AAB3BB" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/></marker></defs>
+<rect x="0" y="0" width="1200" height="760" rx="0" fill="#FCFBF8" stroke="none" stroke-width="1"/>
+<text x="58" y="54" font-family="'Noto Sans', Arial, Helvetica, sans-serif" font-size="31" font-weight="700" fill="#17212B" text-anchor="start">Governed interaction across separate ownership domains</text>
+<text x="58" y="86" font-family="'Noto Sans', Arial, Helvetica, sans-serif" font-size="20" font-weight="400" fill="#5D6973" text-anchor="start">External evaluation can contribute evidence without transferring customer technical capital</text>
+<line x1="58" y1="112" x2="1142" y2="112" stroke="#AAB3BB" stroke-width="1" stroke-linecap="round"/>
+<rect x="58" y="142" width="422" height="550" rx="11" fill="#EDF5F0" stroke="#5E7E6E" stroke-width="1.5"/>
+<rect x="505" y="142" width="218" height="550" rx="11" fill="#F1EDF7" stroke="#6B46C1" stroke-width="1.5"/>
+<rect x="748" y="142" width="394" height="550" rx="11" fill="#FFF1E8" stroke="#B56B3C" stroke-width="1.5"/>
+<text x="269.0" y="188" font-family="'Noto Sans', Arial, Helvetica, sans-serif" font-size="24" font-weight="700" fill="#17212B" text-anchor="middle"><tspan x="269.0" dy="0">Customer-controlled</tspan><tspan x="269.0" dy="27.6">technical capital</tspan></text>
+<text x="269.0" y="253" font-family="'Noto Sans', Arial, Helvetica, sans-serif" font-size="15" font-weight="500" fill="#5D6973" text-anchor="middle">asset ownership / authority</text>
+<text x="614.0" y="188" font-family="'Noto Sans', Arial, Helvetica, sans-serif" font-size="23" font-weight="700" fill="#17212B" text-anchor="middle"><tspan x="614.0" dy="0">Governed</tspan><tspan x="614.0" dy="26.2">interface</tspan></text>
+<text x="614.0" y="251" font-family="'Noto Sans', Arial, Helvetica, sans-serif" font-size="14" font-weight="500" fill="#5D6973" text-anchor="middle">interface properties</text>
+<text x="945.0" y="210" font-family="'Noto Sans', Arial, Helvetica, sans-serif" font-size="24" font-weight="700" fill="#17212B" text-anchor="middle"><tspan x="945.0" dy="0">External authoritative</tspan><tspan x="945.0" dy="27.6">evaluator</tspan></text>
+<text x="945.0" y="294" font-family="'Noto Sans', Arial, Helvetica, sans-serif" font-size="15" font-weight="500" fill="#5D6973" text-anchor="middle"><tspan x="945.0" dy="0">authoritative engineering</tspan><tspan x="945.0" dy="17.4">evidence</tspan></text>
+<circle cx="92" cy="326" r="4.3" fill="#5E7E6E"/>
+<text x="112" y="332" font-family="'Noto Sans', Arial, Helvetica, sans-serif" font-size="18" font-weight="600" fill="#17212B" text-anchor="start"><tspan x="112" dy="0">Authoritative state + methodology</tspan></text>
+<circle cx="92" cy="394" r="4.3" fill="#5E7E6E"/>
+<text x="112" y="400" font-family="'Noto Sans', Arial, Helvetica, sans-serif" font-size="18" font-weight="600" fill="#17212B" text-anchor="start"><tspan x="112" dy="0">History + engineering memory</tspan></text>
+<circle cx="92" cy="462" r="4.3" fill="#5E7E6E"/>
+<text x="112" y="468" font-family="'Noto Sans', Arial, Helvetica, sans-serif" font-size="18" font-weight="600" fill="#17212B" text-anchor="start"><tspan x="112" dy="0">Routing + qualification</tspan><tspan x="112" dy="20.9">knowledge</tspan></text>
+<circle cx="533" cy="323" r="4.1" fill="#6B46C1"/>
+<text x="550" y="330" font-family="'Noto Sans', Arial, Helvetica, sans-serif" font-size="16" font-weight="600" fill="#17212B" text-anchor="start"><tspan x="550" dy="0">Authorization +</tspan><tspan x="550" dy="18.6">scope</tspan></text>
+<circle cx="533" cy="391" r="4.1" fill="#6B46C1"/>
+<text x="550" y="398" font-family="'Noto Sans', Arial, Helvetica, sans-serif" font-size="16" font-weight="600" fill="#17212B" text-anchor="start"><tspan x="550" dy="0">Provenance +</tspan><tspan x="550" dy="18.6">reproducibility</tspan></text>
+<circle cx="533" cy="459" r="4.1" fill="#6B46C1"/>
+<text x="550" y="466" font-family="'Noto Sans', Arial, Helvetica, sans-serif" font-size="16" font-weight="600" fill="#17212B" text-anchor="start"><tspan x="550" dy="0">Qualification +</tspan><tspan x="550" dy="18.6">retention</tspan></text>
+<line x1="76" y1="512" x2="1124" y2="512" stroke="#AAB3BB" stroke-width="1" stroke-linecap="round" stroke-dasharray="4 7"/>
+<line x1="480" y1="590" x2="748" y2="590" stroke="#AAB3BB" stroke-width="2.1" stroke-linecap="round" marker-end="url(#arr)"/>
+<rect x="515" y="570" width="198" height="30" rx="7" fill="#FCFBF8" stroke="none" stroke-width="0"/>
+<text x="614" y="592" font-family="'Noto Sans', Arial, Helvetica, sans-serif" font-size="15" font-weight="650" fill="#17212B" text-anchor="middle">bounded context / query</text>
+<line x1="748" y1="649" x2="480" y2="649" stroke="#AAB3BB" stroke-width="2.1" stroke-linecap="round" marker-end="url(#arr)"/>
+<rect x="543" y="629" width="142" height="30" rx="7" fill="#FCFBF8" stroke="none" stroke-width="0"/>
+<text x="614" y="651" font-family="'Noto Sans', Arial, Helvetica, sans-serif" font-size="15" font-weight="650" fill="#17212B" text-anchor="middle">evidence / result</text>
+</svg>

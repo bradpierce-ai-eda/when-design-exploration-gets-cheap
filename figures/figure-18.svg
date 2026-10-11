@@ -1,0 +1,87 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="850" viewBox="0 0 1400 850" role="img" aria-labelledby="fig18-title fig18-desc">
+<title id="fig18-title">Technical proof and commercial proof are different ladders</title>
+<desc id="fig18-desc">Technical and commercial success follow different evidence ladders. Commercial adoption can precede evidence that technical results generalize broadly.</desc>
+<rect width="1400" height="850" fill="#FFFFFF"/>
+<defs>
+<marker id="arrow" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto" markerUnits="strokeWidth"><path d="M0,0 L0,6 L9,3 z" fill="#5D6973"/></marker>
+<marker id="arrowblue" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto" markerUnits="strokeWidth"><path d="M0,0 L0,6 L9,3 z" fill="#2F6B8A"/></marker>
+<linearGradient id="fadeBlue" x1="0" y1="0" x2="0" y2="1"><stop offset="0%" stop-color="#EAF4FA" stop-opacity="0.9"/><stop offset="100%" stop-color="#EAF4FA" stop-opacity="0.15"/></linearGradient>
+</defs>
+<text x="70" y="62" font-family="'Noto Sans', Arial, Helvetica, sans-serif" font-size="34" font-weight="700" fill="#17212B">Technical proof and commercial proof are different ladders</text>
+<line x1="70" y1="82" x2="1330" y2="82" stroke="#AAB3BB" stroke-width="2"/>
+<text x="345" y="130" font-family="'Noto Sans', Arial, Helvetica, sans-serif" font-size="23" font-weight="800" font-style="normal" fill="#2F6B8A" text-anchor="middle">TECHNICAL PROOF</text>
+<text x="875" y="130" font-family="'Noto Sans', Arial, Helvetica, sans-serif" font-size="23" font-weight="800" font-style="normal" fill="#5E7E6E" text-anchor="middle">COMMERCIAL PROOF</text>
+<rect x="90" y="180" width="510" height="54" rx="9" fill="#EAF4FA" stroke="#2F6B8A" stroke-width="1.5"/>
+<text x="115" y="214" font-family="'Noto Sans', Arial, Helvetica, sans-serif" font-size="16" font-weight="800" font-style="normal" fill="#2F6B8A" text-anchor="start">1</text>
+<text x="150" y="214" font-family="'Noto Sans', Arial, Helvetica, sans-serif" font-size="17" font-weight="600" font-style="normal" fill="#17212B" text-anchor="start">output</text>
+<rect x="620" y="180" width="510" height="54" rx="9" fill="#EDF5F0" stroke="#5E7E6E" stroke-width="1.5"/>
+<text x="645" y="214" font-family="'Noto Sans', Arial, Helvetica, sans-serif" font-size="16" font-weight="800" font-style="normal" fill="#5E7E6E" text-anchor="start">1</text>
+<text x="680" y="214" font-family="'Noto Sans', Arial, Helvetica, sans-serif" font-size="17" font-weight="600" font-style="normal" fill="#17212B" text-anchor="start">demo / design partner</text>
+<rect x="90" y="248" width="510" height="54" rx="9" fill="#EAF4FA" stroke="#2F6B8A" stroke-width="1.5"/>
+<text x="115" y="282" font-family="'Noto Sans', Arial, Helvetica, sans-serif" font-size="16" font-weight="800" font-style="normal" fill="#2F6B8A" text-anchor="start">2</text>
+<text x="150" y="282" font-family="'Noto Sans', Arial, Helvetica, sans-serif" font-size="17" font-weight="600" font-style="normal" fill="#17212B" text-anchor="start">executable checks</text>
+<rect x="620" y="248" width="510" height="54" rx="9" fill="#EDF5F0" stroke="#5E7E6E" stroke-width="1.5"/>
+<text x="645" y="282" font-family="'Noto Sans', Arial, Helvetica, sans-serif" font-size="16" font-weight="800" font-style="normal" fill="#5E7E6E" text-anchor="start">2</text>
+<text x="680" y="282" font-family="'Noto Sans', Arial, Helvetica, sans-serif" font-size="17" font-weight="600" font-style="normal" fill="#17212B" text-anchor="start">pilot</text>
+<rect x="90" y="316" width="510" height="54" rx="9" fill="#EAF4FA" stroke="#2F6B8A" stroke-width="1.5"/>
+<text x="115" y="350" font-family="'Noto Sans', Arial, Helvetica, sans-serif" font-size="16" font-weight="800" font-style="normal" fill="#2F6B8A" text-anchor="start">3</text>
+<text x="150" y="350" font-family="'Noto Sans', Arial, Helvetica, sans-serif" font-size="17" font-weight="600" font-style="normal" fill="#17212B" text-anchor="start">scoped functional correctness</text>
+<rect x="620" y="316" width="510" height="54" rx="9" fill="#EDF5F0" stroke="#5E7E6E" stroke-width="1.5"/>
+<text x="645" y="350" font-family="'Noto Sans', Arial, Helvetica, sans-serif" font-size="16" font-weight="800" font-style="normal" fill="#5E7E6E" text-anchor="start">3</text>
+<text x="680" y="350" font-family="'Noto Sans', Arial, Helvetica, sans-serif" font-size="17" font-weight="600" font-style="normal" fill="#17212B" text-anchor="start">workflow integration</text>
+<rect x="90" y="384" width="510" height="54" rx="9" fill="#EAF4FA" stroke="#2F6B8A" stroke-width="1.5"/>
+<text x="115" y="418" font-family="'Noto Sans', Arial, Helvetica, sans-serif" font-size="16" font-weight="800" font-style="normal" fill="#2F6B8A" text-anchor="start">4</text>
+<text x="150" y="418" font-family="'Noto Sans', Arial, Helvetica, sans-serif" font-size="17" font-weight="600" font-style="normal" fill="#17212B" text-anchor="start">beats strong baseline</text>
+<rect x="620" y="384" width="510" height="54" rx="9" fill="#EDF5F0" stroke="#5E7E6E" stroke-width="1.5"/>
+<text x="645" y="418" font-family="'Noto Sans', Arial, Helvetica, sans-serif" font-size="16" font-weight="800" font-style="normal" fill="#5E7E6E" text-anchor="start">4</text>
+<text x="680" y="418" font-family="'Noto Sans', Arial, Helvetica, sans-serif" font-size="17" font-weight="600" font-style="normal" fill="#17212B" text-anchor="start">repeated use</text>
+<rect x="90" y="452" width="510" height="54" rx="9" fill="#EAF4FA" stroke="#2F6B8A" stroke-width="1.5"/>
+<text x="115" y="486" font-family="'Noto Sans', Arial, Helvetica, sans-serif" font-size="16" font-weight="800" font-style="normal" fill="#2F6B8A" text-anchor="start">5</text>
+<text x="150" y="486" font-family="'Noto Sans', Arial, Helvetica, sans-serif" font-size="17" font-weight="600" font-style="normal" fill="#17212B" text-anchor="start">survives downstream implementation</text>
+<rect x="620" y="452" width="510" height="54" rx="9" fill="#EDF5F0" stroke="#5E7E6E" stroke-width="1.5"/>
+<text x="645" y="486" font-family="'Noto Sans', Arial, Helvetica, sans-serif" font-size="16" font-weight="800" font-style="normal" fill="#5E7E6E" text-anchor="start">5</text>
+<text x="680" y="486" font-family="'Noto Sans', Arial, Helvetica, sans-serif" font-size="17" font-weight="600" font-style="normal" fill="#17212B" text-anchor="start">measurable human / schedule value</text>
+<rect x="90" y="520" width="510" height="54" rx="9" fill="#EAF4FA" stroke="#2F6B8A" stroke-width="1.5"/>
+<text x="115" y="554" font-family="'Noto Sans', Arial, Helvetica, sans-serif" font-size="16" font-weight="800" font-style="normal" fill="#2F6B8A" text-anchor="start">6</text>
+<text x="150" y="554" font-family="'Noto Sans', Arial, Helvetica, sans-serif" font-size="17" font-weight="600" font-style="normal" fill="#17212B" text-anchor="start">repeats across designs</text>
+<rect x="620" y="520" width="510" height="54" rx="9" fill="#EDF5F0" stroke="#5E7E6E" stroke-width="1.5"/>
+<text x="645" y="554" font-family="'Noto Sans', Arial, Helvetica, sans-serif" font-size="16" font-weight="800" font-style="normal" fill="#5E7E6E" text-anchor="start">6</text>
+<text x="680" y="554" font-family="'Noto Sans', Arial, Helvetica, sans-serif" font-size="17" font-weight="600" font-style="normal" fill="#17212B" text-anchor="start">paid production</text>
+<rect x="90" y="588" width="510" height="54" rx="9" fill="#EAF4FA" stroke="#2F6B8A" stroke-width="1.5"/>
+<text x="115" y="622" font-family="'Noto Sans', Arial, Helvetica, sans-serif" font-size="16" font-weight="800" font-style="normal" fill="#2F6B8A" text-anchor="start">7</text>
+<text x="150" y="622" font-family="'Noto Sans', Arial, Helvetica, sans-serif" font-size="15" font-weight="600" font-style="normal" fill="#17212B" text-anchor="start">transfers with manageable adaptation and requalification</text>
+<rect x="620" y="588" width="510" height="54" rx="9" fill="#EDF5F0" stroke="#5E7E6E" stroke-width="1.5"/>
+<text x="645" y="622" font-family="'Noto Sans', Arial, Helvetica, sans-serif" font-size="16" font-weight="800" font-style="normal" fill="#5E7E6E" text-anchor="start">7</text>
+<text x="680" y="622" font-family="'Noto Sans', Arial, Helvetica, sans-serif" font-size="17" font-weight="600" font-style="normal" fill="#17212B" text-anchor="start">expansion</text>
+<rect x="90" y="656" width="510" height="54" rx="9" fill="#EAF4FA" stroke="#2F6B8A" stroke-width="1.5"/>
+<text x="115" y="690" font-family="'Noto Sans', Arial, Helvetica, sans-serif" font-size="16" font-weight="800" font-style="normal" fill="#2F6B8A" text-anchor="start">8</text>
+<text x="150" y="690" font-family="'Noto Sans', Arial, Helvetica, sans-serif" font-size="17" font-weight="600" font-style="normal" fill="#17212B" text-anchor="start">survives production constraints</text>
+<rect x="620" y="656" width="510" height="54" rx="9" fill="#EDF5F0" stroke="#5E7E6E" stroke-width="1.5"/>
+<text x="645" y="690" font-family="'Noto Sans', Arial, Helvetica, sans-serif" font-size="16" font-weight="800" font-style="normal" fill="#5E7E6E" text-anchor="start">8</text>
+<text x="680" y="690" font-family="'Noto Sans', Arial, Helvetica, sans-serif" font-size="17" font-weight="600" font-style="normal" fill="#17212B" text-anchor="start">durable economics / switching cost</text>
+<rect x="1160" y="180" width="185" height="530" rx="14" fill="#FFF1E8" stroke="#B56B3C" stroke-width="1.6"/>
+<text x="1252" y="214" font-family="'Noto Sans', Arial, Helvetica, sans-serif" font-size="13" font-weight="800" font-style="normal" fill="#B56B3C" text-anchor="middle">COSTS &amp; CONSTRAINTS</text>
+<text x="1252" y="260" font-family="'Noto Sans', Arial, Helvetica, sans-serif" font-size="15" font-weight="600" fill="#17212B" text-anchor="middle">
+<tspan x="1252" dy="0">compute</tspan>
+</text>
+<text x="1252" y="321" font-family="'Noto Sans', Arial, Helvetica, sans-serif" font-size="15" font-weight="600" fill="#17212B" text-anchor="middle">
+<tspan x="1252" dy="0">tokens / licenses</tspan>
+</text>
+<text x="1252" y="382" font-family="'Noto Sans', Arial, Helvetica, sans-serif" font-size="15" font-weight="600" fill="#17212B" text-anchor="middle">
+<tspan x="1252" dy="0">human intervention</tspan>
+</text>
+<text x="1252" y="443" font-family="'Noto Sans', Arial, Helvetica, sans-serif" font-size="15" font-weight="600" fill="#17212B" text-anchor="middle">
+<tspan x="1252" dy="0">integration</tspan>
+</text>
+<text x="1252" y="504" font-family="'Noto Sans', Arial, Helvetica, sans-serif" font-size="15" font-weight="600" fill="#17212B" text-anchor="middle">
+<tspan x="1252" dy="0">security / data</tspan>
+</text>
+<text x="1252" y="565" font-family="'Noto Sans', Arial, Helvetica, sans-serif" font-size="15" font-weight="600" fill="#17212B" text-anchor="middle">
+<tspan x="1252" dy="0">failure recovery</tspan>
+</text>
+<text x="1252" y="626" font-family="'Noto Sans', Arial, Helvetica, sans-serif" font-size="15" font-weight="600" fill="#17212B" text-anchor="middle">
+<tspan x="1252" dy="0">evidence half-life</tspan>
+</text>
+<line x1="610" y1="170" x2="610" y2="730" stroke="#AAB3BB" stroke-width="2"/>
+<text x="610" y="770" font-family="'Noto Sans', Arial, Helvetica, sans-serif" font-size="19" font-weight="800" font-style="normal" fill="#5D6973" text-anchor="middle">Track both ladders independently.</text>
+</svg>

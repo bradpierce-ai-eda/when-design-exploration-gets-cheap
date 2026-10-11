@@ -1,0 +1,3055 @@
+TY  - RPRT
+ID  - f128_ref_001
+AU  - Synopsys
+TI  - AI-designed Chips Reach Scale with First 100 Commercial Tape-outs Using Synopsys Technology
+UR  - https://investor.synopsys.com/news/news-details/2023/AI-designed-Chips-Reach-Scale-with-First-100-Commercial-Tape-outs-Using-Synopsys-Technology/default.aspx
+PY  - 2023
+DA  - 2023/2/7
+N1  - Published reference slots: ref-001
+ER  -
+
+TY  - RPRT
+ID  - f128_ref_001b
+AU  - Synopsys
+TI  - Synopsys Investor Day 2024
+UR  - https://www.sec.gov/Archives/edgar/data/883241/000119312524072735/d785364dex991.htm
+PY  - 2024
+DA  - 2024/3/20
+N1  - Published reference slots: ref-001, ref-179
+ER  -
+
+TY  - ELEC
+ID  - f128_ref_002
+AU  - Cadence Design Systems
+TI  - Q1 2025 Earnings Conference Call Prepared Remarks
+UR  - https://www.cadence.com/content/dam/cadence-www/global/en_US/documents/company/investors/1q25-earnings-conference-call-prepared-remarks.pdf
+PY  - 2025
+DA  - 2025
+N1  - Published reference slots: ref-002
+ER  -
+
+TY  - ELEC
+ID  - f128_ref_003
+AU  - Cadence Design Systems
+TI  - Cadence Unleashes ChipStack AI Super Agent, Pioneering a New Era of Agentic AI-Driven Chip Design
+UR  - https://www.cadence.com/en_US/home/company/newsroom/press-releases/pr/2026/cadence-unleashes-chipstack-ai-super-agent-pioneering-a-new.html
+PY  - 2026
+DA  - 2026
+N1  - Published reference slots: ref-003
+ER  -
+
+TY  - ELEC
+ID  - f128_ref_003b
+AU  - Cadence Design Systems
+TI  - Cadence and NVIDIA Expand Partnership to Reinvent Engineering for the Age of AI and Accelerated Computing
+UR  - https://www.cadence.com/en_US/home/company/newsroom/press-releases/pr/2026/cadence-and-nvidia-expand-partnership-to-reinvent-engineering.html
+PY  - 2026
+DA  - 2026/4/15
+N1  - Published reference slots: ref-003, ref-180
+ER  -
+
+TY  - ELEC
+ID  - f128_ref_004
+AU  - Cadence Design Systems and NVIDIA
+TI  - Cadence and NVIDIA Unveil Accelerated Engineering Solutions
+UR  - https://www.cadence.com/en_US/home/company/newsroom/press-releases/pr/2026/cadence-and-nvidia-unveil-accelerated-engineering-solutions.html
+PY  - 2026
+DA  - 2026
+N1  - Published reference slots: ref-004
+ER  -
+
+TY  - ELEC
+ID  - f128_ref_005
+AU  - Google Careers
+TI  - Staff CAD Engineer, Silicon Design Environment, Google Cloud
+UR  - https://www.google.com/about/careers/applications/jobs/results/127539175241982662-staff-cad-engineer-silicon-design-environment-google-cloud?page=107
+N1  - Published reference slots: ref-005
+ER  -
+
+TY  - ELEC
+ID  - f128_ref_006
+AU  - ChipAgents
+TI  - Newsroom
+UR  - https://chipagents.ai/newsroom
+N1  - Published reference slots: ref-006
+ER  -
+
+TY  - ELEC
+ID  - f128_ref_007
+AU  - 서울대학교
+TI  - 반도체 설계 검증 자동화하는 AI 에이전트 기술 개발
+TT  - Development of AI-Agent Technology to Automate Semiconductor Design Verification
+LA  - ko
+UR  - https://www.snu.ac.kr/research/highlights?bbsidx=173045&md=v
+PY  - 2026
+DA  - 2026/7/21
+N1  - Published reference slots: ref-007
+ER  -
+
+TY  - RPRT
+ID  - f128_ref_008
+AU  - Wang, Edward
+TI  - Artifact for Artificial Incorrectness: SMT and LLMs in Hardware Synthesis
+PB  - Zenodo
+DO  - 10.5281/zenodo.19326189
+UR  - https://doi.org/10.5281/zenodo.19326189
+PY  - 2026
+DA  - 2026
+N1  - Published reference slots: ref-008
+ER  -
+
+TY  - JOUR
+ID  - f128_ref_009
+AU  - Sakari Lahti
+AU  - Panu Sjövall
+AU  - Jarno Vanne
+AU  - Timo D. Hämäläinen
+TI  - Are We There Yet? A Study on the State of High-Level Synthesis
+T2  - IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems
+VL  - 38
+IS  - 5
+SP  - 898-911
+PB  - Institute of Electrical and Electronics Engineers (IEEE)
+DO  - 10.1109/tcad.2018.2834439
+UR  - https://doi.org/10.1109/tcad.2018.2834439
+PY  - 2019
+DA  - 2019/5
+N1  - Published reference slots: ref-009
+ER  -
+
+TY  - COMP
+ID  - f128_ref_010
+AU  - Du, Zijian
+AU  - Pinckney, Nathaniel
+TI  - Trace2Skill: Verifier-Guided Skill Evolution for Long-Context EDA Agents (MLCAD 2026 Artifact)
+PB  - Zenodo
+LA  - en
+DO  - 10.5281/zenodo.21513682
+UR  - https://doi.org/10.5281/zenodo.21513682
+PY  - 2026
+DA  - 2026
+N1  - Published reference slots: ref-010
+ER  -
+
+TY  - CPAPER
+ID  - f128_ref_011
+AU  - Kim, Joonseok
+AU  - Kim, Donggyu
+AU  - Park, Seonghyeon
+AU  - Kang, Seokhyeong
+TI  - FedEDA: Federated Learning Framework for Privacy-Preserving Machine Learning in EDA
+T2  - 2025 62nd ACM/IEEE Design Automation Conference (DAC)
+SP  - 1-7
+PB  - IEEE
+DO  - 10.1109/dac63849.2025.11132983
+UR  - https://doi.org/10.1109/dac63849.2025.11132983
+PY  - 2025
+DA  - 2025/6/22
+N1  - Published reference slots: ref-011
+ER  -
+
+TY  - ELEC
+ID  - f128_ref_012
+AU  - Synopsys
+TI  - FlexEDA
+UR  - https://www.synopsys.com/blogs/chip-design/what-is-flexeda.html
+N1  - Published reference slots: ref-012
+ER  -
+
+TY  - ELEC
+ID  - f128_ref_012b
+AU  - Synopsys
+TI  - Synopsys Cloud
+UR  - https://www.synopsys.com/cloud/platform.html
+N1  - Published reference slots: ref-012
+ER  -
+
+TY  - ELEC
+ID  - f128_ref_013
+AU  - Defacto Technologies
+TI  - SoC PLANNER: A New Generation of Automated SoC Design Exploration Managing Cost-Effectiveness and Sustainability
+UR  - https://about.defactotech.com/news/506-soc-planner-a-new-generation-of-automated-soc-design-exploration-managing-cost-effectiveness-and-sustainability
+PY  - 2026
+DA  - 2026/9/8
+N1  - Published reference slots: ref-013
+ER  -
+
+TY  - ELEC
+ID  - f128_ref_014
+AU  - Japan Science and Technology Agency
+TI  - AIによるAIのためのAI回路設計自動化技術
+TT  - AI Circuit-Design Automation Technology by AI and for AI
+LA  - ja
+UR  - https://www.jst.go.jp/program/edge-ai-semicon/files/project/JPMJES2514_kosuge.pdf
+N1  - Published reference slots: ref-014
+ER  -
+
+TY  - ELEC
+ID  - f128_ref_015
+AU  - Siemens EDA
+TI  - Self-Verifying EDA AI Agents
+UR  - https://blogs.sw.siemens.com/cicv/2026/07/29/self-verifying-eda-ai-agents
+PY  - 2026
+DA  - 2026/7/29
+N1  - Published reference slots: ref-015
+ER  -
+
+TY  - ELEC
+ID  - f128_ref_016
+AU  - iEDA Project
+TI  - iEDA软件框架
+TT  - iEDA software framework
+LA  - zh
+UR  - https://ieda.oscc.cc/tools/ieda-platform/iEDA-design-framework.html
+N1  - Published reference slots: ref-016
+ER  -
+
+TY  - UNPB
+ID  - f128_ref_017
+AU  - Ravindran, Arun
+AU  - Patra, Aditya
+AU  - Babaey, Vahid
+AU  - Purini, Suresh
+TI  - Survey and Benchmarking of Large Language Models for RTL Code Generation: Techniques and Open Challenges
+PB  - MDPI AG
+DO  - 10.20944/preprints202509.1681.v1
+UR  - https://doi.org/10.20944/preprints202509.1681.v1
+PY  - 2025
+DA  - 2025/9/19
+N1  - Published reference slots: ref-017
+ER  -
+
+TY  - ELEC
+ID  - f128_ref_018
+AU  - Apple
+TI  - CAD Engineer - Signoff Infrastructure
+UR  - https://jobs.apple.com/en-us/details/200660225-0157/cad-engineer-signoff-infrastructure
+PY  - 2026
+DA  - 2026/4/27
+N1  - Published reference slots: ref-018
+ER  -
+
+TY  - JOUR
+ID  - f128_ref_019
+AU  - Cornetta, Gianluca
+AU  - Touhafi, Abdellah
+AU  - Contreras, Jorge
+AU  - Zaragoza, Alberto
+TI  - Multi-Fidelity Surrogate Models for Accelerated Multi-Objective Analog Circuit Design and Optimization
+T2  - Electronics
+VL  - 15
+IS  - 1
+SP  - 105
+PB  - MDPI AG
+LA  - en
+DO  - 10.3390/electronics15010105
+UR  - https://doi.org/10.3390/electronics15010105
+PY  - 2025
+DA  - 2025/12/25
+N1  - Published reference slots: ref-019
+ER  -
+
+TY  - UNPB
+ID  - f128_ref_020
+AU  - Fang, Wenji
+AU  - Lu, Yao
+AU  - Liu, Shang
+AU  - Wang, Jing
+AU  - Guo, Ziyan
+AU  - He, Junxian
+AU  - Tu, Fengbin
+AU  - Xie, Zhiyao
+TI  - Dr. RTL: Autonomous Agentic RTL Optimization through Tool-Grounded Self-Improvement
+PB  - arXiv
+DO  - 10.48550/arxiv.2604.14989
+UR  - https://doi.org/10.48550/arxiv.2604.14989
+PY  - 2026
+DA  - 2026
+L2  - https://arxiv.org/abs/2604.14989
+N1  - Published reference slots: ref-020
+ER  -
+
+TY  - ELEC
+ID  - f128_ref_021
+AU  - Liz Allan
+TI  - Token Costs Are Becoming The New EDA Budget Battle
+UR  - https://semiengineering.com/token-costs-are-becoming-the-new-eda-budget-battle
+PY  - 2026
+DA  - 2026/9/9
+N1  - Published reference slots: ref-021
+ER  -
+
+TY  - CPAPER
+ID  - f128_ref_022
+AU  - Schlosser, Jeffrey
+AU  - Paredis, Christiaan J. J.
+TI  - Managing Multiple Sources of Epistemic Uncertainty in Engineering Decision Making
+T2  - SAE Technical Paper Series
+VL  - 1
+SP  - 2007-01-1481
+PB  - SAE International
+DO  - 10.4271/2007-01-1481
+UR  - https://doi.org/10.4271/2007-01-1481
+PY  - 2007
+DA  - 2007/4/16
+N1  - Published reference slots: ref-022
+ER  -
+
+TY  - JOUR
+ID  - f128_ref_022b
+AU  - Thompson, Stephanie C.
+AU  - Paredis, Christiaan J. J.
+TI  - An Investigation Into the Decision Analysis of Design Process Decisions
+T2  - Journal of Mechanical Design
+VL  - 132
+IS  - 12
+SP  - 121009
+PB  - ASME International
+LA  - en
+DO  - 10.1115/1.4002969
+UR  - https://doi.org/10.1115/1.4002969
+PY  - 2010
+DA  - 2010/12/1
+N1  - Published reference slots: ref-022, ref-188
+ER  -
+
+TY  - JOUR
+ID  - f128_ref_022c
+AU  - Ming, Zhenjun
+AU  - Balu Nellippallil, Anand
+AU  - Wang, Guoxin
+AU  - Yan, Yan
+AU  - Allen, Janet K.
+AU  - Mistree, Farrokh
+TI  - A performance based method for information acquisition in engineering design under multi-parameter uncertainty
+T2  - Information Sciences
+VL  - 546
+SP  - 1186-1207
+PB  - Elsevier BV
+LA  - en
+DO  - 10.1016/j.ins.2020.09.034
+UR  - https://doi.org/10.1016/j.ins.2020.09.034
+PY  - 2021
+DA  - 2021/2
+N1  - Published reference slots: ref-022, ref-189
+ER  -
+
+TY  - JOUR
+ID  - f128_ref_023
+AU  - Li, Ke
+AU  - Li, Fan
+TI  - Multi-Fidelity Methods for Optimization: A Survey
+T2  - ACM Computing Surveys
+VL  - 58
+IS  - 12
+SP  - 1-38
+PB  - Association for Computing Machinery (ACM)
+LA  - en
+DO  - 10.1145/3801959
+UR  - https://doi.org/10.1145/3801959
+PY  - 2026
+DA  - 2026/9/30
+N1  - Published reference slots: ref-023
+ER  -
+
+TY  - BOOK
+ID  - f128_ref_024
+AU  - Stuart J. Russell
+AU  - Eric Wefald
+TI  - Do the Right Thing: Studies in Limited Rationality
+PB  - MIT Press
+UR  - https://mitpress.mit.edu/9780262513821/do-the-right-thing
+PY  - 1991
+DA  - 1991
+N1  - Published reference slots: ref-024
+ER  -
+
+TY  - STAND
+ID  - f128_ref_025
+AU  - ASME V&V 40-2018
+TI  - Assessing Credibility of Computational Modeling through Verification and Validation: Application to Medical Devices
+UR  - https://www.asme.org/codes-standards/publications-information/verification-validation-uncertainty
+PY  - 2018
+DA  - 2018
+N1  - Published reference slots: ref-025
+ER  -
+
+TY  - ELEC
+ID  - f128_ref_026
+AU  - Bronco AI
+TI  - ASIC Verification and Debug Automation
+UR  - https://www.bronco.ai
+PY  - 2025
+DA  - 2025
+N1  - Published reference slots: ref-026
+ER  -
+
+TY  - ELEC
+ID  - f128_ref_026b
+AU  - Jesse Allen
+TI  - EDA Startups At DAC 2025
+UR  - https://semiengineering.com/eda-startups-at-dac-2025
+PY  - 2025
+DA  - 2025/7/9
+N1  - Published reference slots: ref-026, ref-031, ref-037, ref-190
+ER  -
+
+TY  - ELEC
+ID  - f128_ref_027
+AU  - Rise Design Automation
+TI  - High-level, multi-abstraction hardware-design platform and AI advisor
+UR  - https://www.rise-da.com/products
+L2  - https://www.rise-da.com/rise-high-level-platform
+N1  - Published reference slots: ref-027
+ER  -
+
+TY  - ELEC
+ID  - f128_ref_028
+AU  - Agentrys
+TI  - Agentic design-automation platform and company announcement
+UR  - https://agentrys.ai/news/agentrys-raises-24-5-million
+N1  - Published reference slots: ref-028
+ER  -
+
+TY  - ELEC
+ID  - f128_ref_029
+AU  - Chipmind
+TI  - AI Agents for Chip Design & EDA Automation
+UR  - https://www.chipmind.ai
+N1  - Published reference slots: ref-029
+ER  -
+
+TY  - ELEC
+ID  - f128_ref_030
+AU  - Siemens
+TI  - Siemens to acquire Defacto Technologies to complement its EDA portfolio with automated SoC design creation
+UR  - https://news.siemens.com/de-de/siemens-to-acquire-defacto-technologies
+PY  - 2026
+DA  - 2026/7/21
+N1  - Published reference slots: ref-030
+ER  -
+
+TY  - ELEC
+ID  - f128_ref_031
+AU  - DSM Pro Engineering
+TI  - Programmatic Chip-Design Project and Workflow State
+UR  - https://www.dsmpro.com
+PY  - 2025
+DA  - 2025
+N1  - Published reference slots: ref-031
+ER  -
+
+TY  - ELEC
+ID  - f128_ref_032
+AU  - Linksium
+TI  - Innova
+UR  - https://www.linksium.fr/projets/innova
+N1  - Published reference slots: ref-032
+ER  -
+
+TY  - ELEC
+ID  - f128_ref_033
+AU  - Astrus
+TI  - AI-assisted analog microchip design and physical-design automation
+UR  - https://www.astrus.ai
+N1  - Published reference slots: ref-033
+ER  -
+
+TY  - ELEC
+ID  - f128_ref_034
+AU  - SK hynix Newsroom
+TI  - [인터뷰] ‘AI 기술로 반도체 개발 프로세스 혁신’_하이개라지 1기 알세미를 가다
+TT  - [Interview] “Innovating the Semiconductor Development Process with AI Technology”: Visiting Alsemy, the First HiGarage Cohort
+LA  - ko
+UR  - https://news.skhynix.co.kr/with-ai-technology
+PY  - 2021
+DA  - 2021/8/19
+N1  - Published reference slots: ref-034
+ER  -
+
+TY  - ELEC
+ID  - f128_ref_035
+AU  - Good Intelligence
+TI  - Semiconductor Chip Design Solution
+UR  - https://www.goodi4u.com
+N1  - Published reference slots: ref-035
+ER  -
+
+TY  - ELEC
+ID  - f128_ref_036
+AU  - Google XLS
+TI  - Google XLS
+UR  - https://google.github.io/xls
+N1  - Published reference slots: ref-036
+ER  -
+
+TY  - ELEC
+ID  - f128_ref_036b
+AU  - Chisel
+TI  - Chisel Documentation
+UR  - https://www.chisel-lang.org/docs
+N1  - Published reference slots: ref-036, ref-193
+ER  -
+
+TY  - ELEC
+ID  - f128_ref_036c
+AU  - SpinalHDL
+TI  - SpinalHDL Documentation
+UR  - https://spinalhdl.github.io/SpinalDoc-RTD/master
+N1  - Published reference slots: ref-036, ref-194
+ER  -
+
+TY  - ELEC
+ID  - f128_ref_036d
+AU  - Amaranth HDL
+TI  - Amaranth HDL Documentation
+UR  - https://amaranth-lang.org/docs/amaranth/latest
+N1  - Published reference slots: ref-036, ref-195
+ER  -
+
+TY  - ELEC
+ID  - f128_ref_037
+AU  - ITDA Semiconductor
+TI  - SoC Design and Generation Tooling
+UR  - https://itdasemi.com
+PY  - 2025
+DA  - 2025
+N1  - Published reference slots: ref-037
+ER  -
+
+TY  - ELEC
+ID  - f128_ref_038
+AU  - OpenROAD Project
+TI  - Open RTL-to-GDS implementation platform
+UR  - https://openroad.org
+N1  - Published reference slots: ref-038
+ER  -
+
+TY  - ELEC
+ID  - f128_ref_039
+AU  - CIRCT
+TI  - LLVM/MLIR-based hardware compiler infrastructure
+UR  - https://circt.llvm.org
+N1  - Published reference slots: ref-039
+ER  -
+
+TY  - ELEC
+ID  - f128_ref_040
+AU  - OpenFASoC
+TI  - Open-source generator framework for analog and mixed-signal SoCs
+UR  - https://openfasoc.readthedocs.io/en/latest
+N1  - Published reference slots: ref-040
+ER  -
+
+TY  - ELEC
+ID  - f128_ref_041
+AU  - QiMeng project team
+TI  - 启蒙 / QiMeng
+LA  - zh
+UR  - https://qimeng-ict.github.io
+N1  - Published reference slots: ref-041
+ER  -
+
+TY  - ELEC
+ID  - f128_ref_042
+AU  - iEDA Project
+TI  - iEDA
+UR  - https://ieda.oscc.cc/en
+N1  - Published reference slots: ref-042
+ER  -
+
+TY  - ELEC
+ID  - f128_ref_043
+AU  - National Taiwan University, Graduate Institute of Electronics Engineering
+TI  - EDA Laboratory
+UR  - https://giee.ntu.edu.tw/tw/lab/eda
+N1  - Published reference slots: ref-043
+ER  -
+
+TY  - ELEC
+ID  - f128_ref_044
+AU  - Fraunhofer IAF / IIS
+TI  - Research and Innovation Center Chip AI
+UR  - https://www.iaf.fraunhofer.de/en/customers/electronic-circuits/ai-chip-design.html
+N1  - Published reference slots: ref-044
+ER  -
+
+TY  - ELEC
+ID  - f128_ref_044b
+AU  - Fraunhofer IAF
+TI  - FRAUKE
+UR  - https://www.iaf.fraunhofer.de/en/researchers/electronic-circuits/ai-chip-design/frauke.html
+N1  - Published reference slots: ref-044, ref-208
+ER  -
+
+TY  - ELEC
+ID  - f128_ref_045
+AU  - India Design Linked Incentive / ChipIN
+TI  - India Design Linked Incentive / ChipIN program
+UR  - https://chips-dli.gov.in/DLI/EDANew
+N1  - Published reference slots: ref-045
+ER  -
+
+TY  - ELEC
+ID  - f128_ref_045b
+AU  - CaretEDA
+TI  - CaretEDA Announces Commercially Available End-to-End Opensource EDA Stack, and Launches Startup Program
+UR  - https://careteda.com/news/dac-2026
+PY  - 2026
+DA  - 2026/7/24
+N1  - Published reference slots: ref-045, ref-209
+ER  -
+
+TY  - RPRT
+ID  - f128_ref_046
+AU  - UK Department for Science, Innovation and Technology
+TI  - UK AI Hardware Plan
+UR  - https://www.gov.uk/government/publications/uk-ai-hardware-plan
+PY  - 2026
+DA  - 2026/6/8
+N1  - Published reference slots: ref-046
+ER  -
+
+TY  - RPRT
+ID  - f128_ref_046b
+AU  - APRIL
+TI  - Sandpit Competition 2026 - Call for Proposals
+UR  - https://www.april.ac.uk/blog/opportunities/sandpit-competition-2026-call-for-proposals
+PY  - 2026
+DA  - 2026/8/18
+N1  - Published reference slots: ref-046, ref-210
+ER  -
+
+TY  - ELEC
+ID  - f128_ref_047
+AU  - Israel Innovation Authority
+TI  - National AI Strategy for Israeli High-Tech 2026
+UR  - https://innovationisrael.org.il/document/ai-strategy-2026
+PY  - 2026
+DA  - 2026
+N1  - Published reference slots: ref-047
+ER  -
+
+TY  - ELEC
+ID  - f128_ref_047b
+AU  - Caesarea Labs
+TI  - Post-Silicon Validation, Automated
+UR  - https://www.caesarealabs.com
+PY  - 2026
+DA  - 2026
+N1  - Published reference slots: ref-047, ref-211
+ER  -
+
+TY  - ELEC
+ID  - f128_ref_048
+AU  - Siemens Digital Industries Software
+TI  - Calibre nmDRC
+UR  - https://www.siemens.com/en-us/products/ic/calibre-design/physical-verification/design-rule-checking
+N1  - Published reference slots: ref-048
+ER  -
+
+TY  - ELEC
+ID  - f128_ref_049
+AU  - Synopsys
+TI  - Process Simulation for Semiconductor Fabrication
+UR  - https://www.synopsys.com/manufacturing/tcad/process-simulation.html
+N1  - Published reference slots: ref-049
+ER  -
+
+TY  - ELEC
+ID  - f128_ref_049b
+AU  - Synopsys
+TI  - Technology Computer-Aided Design (TCAD)
+UR  - https://www.synopsys.com/manufacturing/tcad.html
+N1  - Published reference slots: ref-049, ref-212
+ER  -
+
+TY  - UNPB
+ID  - f128_ref_050
+AU  - Zijian Ding
+AU  - Yang Zou
+AU  - Yizhou Sun
+AU  - Jason Cong
+TI  - Can Agents Design Better Chips with a Higher Level Abstraction?
+T2  - arXiv
+PB  - arXiv
+UR  - https://arxiv.org/abs/2609.21157
+PY  - 2026
+DA  - 2026/9/17
+N1  - Published reference slots: ref-050
+ER  -
+
+TY  - JOUR
+ID  - f128_ref_051
+AU  - Gorry, G. Anthony
+TI  - Sequential Diagnosis by Computer
+T2  - JAMA: The Journal of the American Medical Association
+VL  - 205
+IS  - 12
+SP  - 849
+PB  - American Medical Association (AMA)
+LA  - en
+DO  - 10.1001/jama.1968.03140380053012
+UR  - https://doi.org/10.1001/jama.1968.03140380053012
+PY  - 1968
+DA  - 1968/9/16
+N1  - Published reference slots: ref-051
+ER  -
+
+TY  - JOUR
+ID  - f128_ref_052
+AU  - Russell, Stuart
+AU  - Wefald, Eric
+TI  - Principles of metareasoning
+T2  - Artificial Intelligence
+VL  - 49
+IS  - 1-3
+SP  - 361-395
+PB  - Elsevier BV
+LA  - en
+DO  - 10.1016/0004-3702(91)90015-c
+UR  - https://doi.org/10.1016/0004-3702(91)90015-c
+PY  - 1991
+DA  - 1991/5
+N1  - Published reference slots: ref-052
+ER  -
+
+TY  - UNPB
+ID  - f128_ref_053
+AU  - Frederick Callaway
+AU  - Sayan Gul
+AU  - Paul M. Krueger
+AU  - Thomas L. Griffiths
+AU  - Falk Lieder
+TI  - Learning to select computations
+T2  - arXiv
+PB  - arXiv
+UR  - https://arxiv.org/abs/1711.06892
+PY  - 2017
+DA  - 2017/11/18
+N1  - Published reference slots: ref-053
+ER  -
+
+TY  - CHAP
+ID  - f128_ref_054
+AU  - Rice, John R.
+TI  - The Algorithm Selection Problem
+T2  - Advances in Computers
+SP  - 65-118
+PB  - Elsevier
+LA  - en
+DO  - 10.1016/s0065-2458(08)60520-3
+UR  - https://doi.org/10.1016/s0065-2458(08)60520-3
+PY  - 1976
+DA  - 1976
+N1  - Published reference slots: ref-054
+ER  -
+
+TY  - JOUR
+ID  - f128_ref_055
+AU  - Demyanova, Yulia
+AU  - Pani, Thomas
+AU  - Veith, Helmut
+AU  - Zuleger, Florian
+TI  - Empirical software metrics for benchmarking of verification tools
+T2  - Formal Methods in System Design
+VL  - 50
+IS  - 2-3
+SP  - 289-316
+PB  - Springer Science and Business Media LLC
+LA  - en
+DO  - 10.1007/s10703-016-0264-5
+UR  - https://doi.org/10.1007/s10703-016-0264-5
+PY  - 2017
+DA  - 2017/6
+N1  - Published reference slots: ref-055
+ER  -
+
+TY  - JOUR
+ID  - f128_ref_056
+AU  - Wang, Yi
+AU  - Franzon, Paul D.
+AU  - Smart, David
+AU  - Swahn, Brian
+TI  - Multi-Fidelity Surrogate-Based Optimization for Electromagnetic Simulation Acceleration
+T2  - ACM Transactions on Design Automation of Electronic Systems
+VL  - 25
+IS  - 5
+SP  - 1-21
+PB  - Association for Computing Machinery (ACM)
+LA  - en
+DO  - 10.1145/3398268
+UR  - https://doi.org/10.1145/3398268
+PY  - 2020
+DA  - 2020/9/30
+N1  - Published reference slots: ref-056
+ER  -
+
+TY  - JOUR
+ID  - f128_ref_057
+AU  - Zhou, Yanqi
+AU  - Lei, Tao
+AU  - Liu, Hanxiao
+AU  - Du, Nan
+AU  - Huang, Yanping
+AU  - Zhao, Vincent
+AU  - Dai, Andrew M.
+AU  - Chen, zhifeng
+AU  - Le, Quoc V
+AU  - Laudon, James
+TI  - Mixture-of-Experts with Expert Choice Routing
+T2  - Advances in Neural Information Processing Systems
+VL  - 35
+SP  - 7103-7114
+UR  - https://papers.neurips.cc/paper_files/paper/2022/hash/2f00ecd787b432c1d36f3de9800728eb-Abstract-Conference.html
+PY  - 2022
+DA  - 2022/12/6
+N1  - Published reference slots: ref-057
+ER  -
+
+TY  - UNPB
+ID  - f128_ref_058
+AU  - Isaac Ong
+AU  - Amjad Almahairi
+AU  - Vincent Wu
+AU  - Wei-Lin Chiang
+AU  - Tianhao Wu
+AU  - Joseph E. Gonzalez
+AU  - M Waleed Kadous
+AU  - Ion Stoica
+TI  - RouteLLM: Learning to Route LLMs with Preference Data
+T2  - arXiv
+PB  - arXiv
+UR  - https://arxiv.org/abs/2406.18665
+PY  - 2024
+DA  - 2024/6/26
+N1  - Published reference slots: ref-058
+ER  -
+
+TY  - ELEC
+ID  - f128_ref_059
+AU  - Curtis Pyke
+TI  - The Future of the Firm Is the Routing Layer
+UR  - https://kingy.ai/news/future-of-the-firm-routing-layer
+PY  - 2026
+DA  - 2026/6/14
+N1  - Published reference slots: ref-059
+ER  -
+
+TY  - JOUR
+ID  - f128_ref_060
+AU  - Argote, Linda
+AU  - Beckman, Sara L.
+AU  - Epple, Dennis
+TI  - The Persistence and Transfer of Learning in Industrial Settings
+T2  - Management Science
+VL  - 36
+IS  - 2
+SP  - 140-154
+PB  - Institute for Operations Research and the Management Sciences (INFORMS)
+LA  - en
+DO  - 10.1287/mnsc.36.2.140
+UR  - https://doi.org/10.1287/mnsc.36.2.140
+PY  - 1990
+DA  - 1990/2
+N1  - Published reference slots: ref-060
+ER  -
+
+TY  - JOUR
+ID  - f128_ref_061
+AU  - Darr, Eric D.
+AU  - Argote, Linda
+AU  - Epple, Dennis
+TI  - The Acquisition, Transfer, and Depreciation of Knowledge in Service Organizations: Productivity in Franchises
+T2  - Management Science
+VL  - 41
+IS  - 11
+SP  - 1750-1762
+PB  - Institute for Operations Research and the Management Sciences (INFORMS)
+LA  - en
+DO  - 10.1287/mnsc.41.11.1750
+UR  - https://doi.org/10.1287/mnsc.41.11.1750
+PY  - 1995
+DA  - 1995/11
+N1  - Published reference slots: ref-061
+ER  -
+
+TY  - JOUR
+ID  - f128_ref_062
+AU  - Walsh, James P.
+AU  - Ungson, Gerardo Rivera
+TI  - Organizational Memory
+T2  - The Academy of Management Review
+VL  - 16
+IS  - 1
+SP  - 57
+PB  - Academy of Management
+DO  - 10.5465/amr.1991.4278992
+UR  - https://doi.org/10.5465/amr.1991.4278992
+PY  - 1991
+DA  - 1991/1
+N1  - Published reference slots: ref-062
+ER  -
+
+TY  - JOUR
+ID  - f128_ref_063
+AU  - Grant, Robert M.
+TI  - Toward a knowledge‐based theory of the firm
+T2  - Strategic Management Journal
+VL  - 17
+IS  - S2
+SP  - 109-122
+PB  - Wiley
+LA  - en
+DO  - 10.1002/smj.4250171110
+UR  - https://doi.org/10.1002/smj.4250171110
+PY  - 1996
+DA  - 1996/12
+N1  - Published reference slots: ref-063
+ER  -
+
+TY  - JOUR
+ID  - f128_ref_064
+AU  - Arthur, W. Brian
+TI  - Competing Technologies, Increasing Returns, and Lock-In by Historical Events
+T2  - The Economic Journal
+VL  - 99
+IS  - 394
+SP  - 116
+PB  - Oxford University Press (OUP)
+DO  - 10.2307/2234208
+UR  - https://doi.org/10.2307/2234208
+PY  - 1989
+DA  - 1989/3
+N1  - Published reference slots: ref-064
+ER  -
+
+TY  - JOUR
+ID  - f128_ref_065
+AU  - Teece, David J.
+TI  - Profiting from technological innovation: Implications for integration, collaboration, licensing and public policy
+T2  - Research Policy
+VL  - 15
+IS  - 6
+SP  - 285-305
+PB  - Elsevier BV
+LA  - en
+DO  - 10.1016/0048-7333(86)90027-2
+UR  - https://doi.org/10.1016/0048-7333(86)90027-2
+PY  - 1986
+DA  - 1986/12
+N1  - Published reference slots: ref-065
+ER  -
+
+TY  - JOUR
+ID  - f128_ref_066
+AU  - Uzunca, Bilgehan
+AU  - Sharapov, Dmitry
+AU  - Tee, Richard
+TI  - Governance rigidity, industry evolution, and value capture in platform ecosystems
+T2  - Research Policy
+VL  - 51
+IS  - 7
+SP  - 104560
+PB  - Elsevier BV
+LA  - en
+DO  - 10.1016/j.respol.2022.104560
+UR  - https://doi.org/10.1016/j.respol.2022.104560
+PY  - 2022
+DA  - 2022/9
+N1  - Published reference slots: ref-066
+ER  -
+
+TY  - CPAPER
+ID  - f128_ref_067
+AU  - Ling, Jay
+AU  - Paredis, Christiaan J. J.
+TI  - An Information Economic Approach for Model Selection In Engineering Design
+T2  - Design Engineering and Computers and Information in Engineering, Parts A and B
+SP  - 1197-1210
+PB  - ASMEDC
+DO  - 10.1115/imece2006-14535
+UR  - https://doi.org/10.1115/imece2006-14535
+PY  - 2006
+DA  - 2006/1/1
+N1  - Published reference slots: ref-067
+ER  -
+
+TY  - JOUR
+ID  - f128_ref_068
+AU  - Parasuraman, R.
+AU  - Sheridan, T.B.
+AU  - Wickens, C.D.
+TI  - A model for types and levels of human interaction with automation
+T2  - IEEE Transactions on Systems, Man, and Cybernetics - Part A: Systems and Humans
+VL  - 30
+IS  - 3
+SP  - 286-297
+PB  - Institute of Electrical and Electronics Engineers (IEEE)
+DO  - 10.1109/3468.844354
+UR  - https://doi.org/10.1109/3468.844354
+PY  - 2000
+DA  - 2000/5
+N1  - Published reference slots: ref-068
+ER  -
+
+TY  - ELEC
+ID  - f128_ref_069
+AU  - Synopsys
+TI  - Synopsys Announces Synopsys.ai Copilot, Breakthrough GenAI Capability to Accelerate Chip Design
+UR  - https://investor.synopsys.com/news/news-details/2023/Synopsys-Announces-Synopsys.ai-Copilot-Breakthrough-GenAI-Capability-to-Accelerate-Chip-Design/default.aspx
+PY  - 2023
+DA  - 2023
+N1  - Published reference slots: ref-069
+ER  -
+
+TY  - ELEC
+ID  - f128_ref_070
+AU  - Synopsys
+TI  - Introducing Generative AI for Chip Design
+UR  - https://www.synopsys.com/blogs/chip-design/copilot-generative-ai-chip-design.html
+PY  - 2023
+DA  - 2023
+N1  - Published reference slots: ref-070
+ER  -
+
+TY  - ELEC
+ID  - f128_ref_071
+AU  - Stelios Diamantidis
+TI  - Generative AI to Usher in Big Opportunities in 2024
+UR  - https://www.electronicdesign.com/technologies/embedded/machine-learning/article/21282217/synopsys-generative-ai-to-usher-in-big-opportunities-in-2024
+PY  - 2024
+DA  - 2024
+N1  - Published reference slots: ref-071
+ER  -
+
+TY  - ELEC
+ID  - f128_ref_072
+AU  - Sassine Ghazi
+TI  - AgentEngineer Technology: Transforming Engineering Workflows
+UR  - https://www.synopsys.com/blogs/chip-design/agentengineer-technology-transforming-engineering-workflows.html
+PY  - 2025
+DA  - 2025/5/6
+N1  - Published reference slots: ref-072
+ER  -
+
+TY  - ELEC
+ID  - f128_ref_073
+AU  - Thomas Andersen
+TI  - Teaching Agentic AI to Think Like an Engineer
+UR  - https://www.synopsys.com/blogs/chip-design/agentic-ai-chip-design.html
+PY  - 2025
+DA  - 2025
+N1  - Published reference slots: ref-073
+ER  -
+
+TY  - ELEC
+ID  - f128_ref_074
+AU  - eval.qa
+TI  - Evaluator Economics: Building Cost-Effective Annotation Teams
+UR  - https://www.eval.qa/learn/evaluator-economics.html
+PY  - 2026
+DA  - 2026
+N1  - Published reference slots: ref-074
+ER  -
+
+TY  - JOUR
+ID  - f128_ref_075
+AU  - Gass, Saul I.
+TI  - Model accreditation: A rationale and process for determining a numerical rating
+T2  - European Journal of Operational Research
+VL  - 66
+IS  - 2
+SP  - 250-258
+PB  - Elsevier BV
+LA  - en
+DO  - 10.1016/0377-2217(93)90316-f
+UR  - https://doi.org/10.1016/0377-2217(93)90316-f
+PY  - 1993
+DA  - 1993/4
+N1  - Published reference slots: ref-075
+ER  -
+
+TY  - JOUR
+ID  - f128_ref_076
+AU  - Jensen, Michael C.
+AU  - Heckling, William H.
+TI  - SPECIFIC AND GENERAL KNOWLEDGE, AND ORGANIZATIONAL STRUCTURE
+T2  - Journal of Applied Corporate Finance
+VL  - 8
+IS  - 2
+SP  - 4-18
+PB  - Wiley
+LA  - en
+DO  - 10.1111/j.1745-6622.1995.tb00283.x
+UR  - https://doi.org/10.1111/j.1745-6622.1995.tb00283.x
+PY  - 1995
+DA  - 1995/6
+N1  - Published reference slots: ref-076
+ER  -
+
+TY  - BOOK
+ID  - f128_ref_077
+AU  - Jeffrey Pfeffer
+AU  - Gerald R. Salancik
+TI  - The External Control of Organizations: A Resource Dependence Perspective
+PB  - Harper & Row
+UR  - https://search.worldcat.org/it/title/The-external-control-of-organizations-%3A-a-resource-dependence-perspective/oclc/3327882
+PY  - 1978
+DA  - 1978
+N1  - Published reference slots: ref-077
+ER  -
+
+TY  - BOOK
+ID  - f128_ref_078
+AU  - Oliver E. Williamson
+TI  - The Economic Institutions of Capitalism: Firms, Markets, Relational Contracting
+PB  - Free Press
+UR  - https://books.google.com/books/about/The_Economic_Institutions_of_Capitalism.html?id=2B8f0QEACAAJ
+PY  - 1985
+DA  - 1985
+N1  - Published reference slots: ref-078
+ER  -
+
+TY  - JOUR
+ID  - f128_ref_079
+AU  - Ahuja, Gautam
+TI  - The duality of collaboration: inducements and opportunities in the formation of interfirm linkages
+T2  - Strategic Management Journal
+VL  - 21
+IS  - 3
+SP  - 317-343
+PB  - Wiley
+LA  - en
+DO  - 10.1002/(sici)1097-0266(200003)21:3<317::aid-smj90>3.0.co;2-b
+UR  - https://doi.org/10.1002/(sici)1097-0266(200003)21:3<317::aid-smj90>3.0.co;2-b
+PY  - 2000
+DA  - 2000/3/21
+N1  - Published reference slots: ref-079
+ER  -
+
+TY  - JOUR
+ID  - f128_ref_080
+AU  - Figueiredo, P.N
+TI  - Learning processes features and technological capability-accumulation: explaining inter-firm differences
+T2  - Technovation
+VL  - 22
+IS  - 11
+SP  - 685-698
+PB  - Elsevier BV
+LA  - en
+DO  - 10.1016/s0166-4972(01)00068-2
+UR  - https://doi.org/10.1016/s0166-4972(01)00068-2
+PY  - 2002
+DA  - 2002/11
+N1  - Published reference slots: ref-080
+ER  -
+
+TY  - JOUR
+ID  - f128_ref_081
+AU  - Wang, Hongwei
+AU  - Johnson, Aylmer L.
+AU  - Bracewell, Rob H.
+TI  - The retrieval of structured design rationale for the re-use of design knowledge with an integrated representation
+T2  - Advanced Engineering Informatics
+VL  - 26
+IS  - 2
+SP  - 251-266
+PB  - Elsevier BV
+LA  - en
+DO  - 10.1016/j.aei.2012.02.003
+UR  - https://doi.org/10.1016/j.aei.2012.02.003
+PY  - 2012
+DA  - 2012/4
+N1  - Published reference slots: ref-081
+ER  -
+
+TY  - CHAP
+ID  - f128_ref_082
+AU  - Nightingale, Paul
+TI  - Tacit Knowledge and Engineering Design
+T2  - Philosophy of Technology and Engineering Sciences
+SP  - 351-374
+PB  - Elsevier
+LA  - en
+DO  - 10.1016/b978-0-444-51667-1.50017-3
+UR  - https://doi.org/10.1016/b978-0-444-51667-1.50017-3
+PY  - 2009
+DA  - 2009
+N1  - Published reference slots: ref-082
+ER  -
+
+TY  - JOUR
+ID  - f128_ref_083
+AU  - Barney, Jay
+TI  - Firm Resources and Sustained Competitive Advantage
+T2  - Journal of Management
+VL  - 17
+IS  - 1
+SP  - 99-120
+PB  - SAGE Publications
+LA  - en
+DO  - 10.1177/014920639101700108
+UR  - https://doi.org/10.1177/014920639101700108
+PY  - 1991
+DA  - 1991/3
+N1  - Published reference slots: ref-083
+ER  -
+
+TY  - JOUR
+ID  - f128_ref_084
+AU  - Bainbridge, Lisanne
+TI  - Ironies of automation
+T2  - Automatica
+VL  - 19
+IS  - 6
+SP  - 775-779
+PB  - Elsevier BV
+LA  - en
+DO  - 10.1016/0005-1098(83)90046-8
+UR  - https://doi.org/10.1016/0005-1098(83)90046-8
+PY  - 1983
+DA  - 1983/11
+N1  - Published reference slots: ref-084
+ER  -
+
+TY  - ELEC
+ID  - f128_ref_085
+AU  - NASA
+TI  - Technology Readiness Levels
+UR  - https://www.nasa.gov/directorates/somd/space-communications-navigation-program/technology-readiness-levels
+PY  - 2023
+DA  - 2023
+N1  - Published reference slots: ref-085
+ER  -
+
+TY  - ELEC
+ID  - f128_ref_086
+AU  - Steve Blank
+TI  - How Investors Make Better Decisions: The Investment Readiness Level
+UR  - https://steveblank.com/2014/07/01/how-investors-make-better-decisions-the-investment-readiness-level
+PY  - 2014
+DA  - 2014
+N1  - Published reference slots: ref-086
+ER  -
+
+TY  - ELEC
+ID  - f128_ref_087
+AU  - Synopsys
+TI  - DSO.ai: AI-Driven Design Applications
+UR  - https://www.synopsys.com/ai/ai-powered-eda/dso-ai.html
+N1  - Published reference slots: ref-087
+ER  -
+
+TY  - ELEC
+ID  - f128_ref_088
+AU  - Synopsys
+TI  - What Is Design Space Optimization?
+UR  - https://www.synopsys.com/glossary/what-is-design-space-optimization.html
+N1  - Published reference slots: ref-088
+ER  -
+
+TY  - ELEC
+ID  - f128_ref_089
+AU  - Synopsys
+TI  - Fusion Compiler: RTL-to-GDSII Design Solution
+UR  - https://www.synopsys.com/implementation-and-signoff/physical-implementation/fusion-compiler.html
+N1  - Published reference slots: ref-089
+ER  -
+
+TY  - ELEC
+ID  - f128_ref_090
+AU  - Synopsys
+TI  - Design Signoff: Trusted Golden Solution for Chip Designs
+UR  - https://www.synopsys.com/implementation-and-signoff/signoff.html
+N1  - Published reference slots: ref-090
+ER  -
+
+TY  - ELEC
+ID  - f128_ref_091
+AU  - Rob van Blommestein
+TI  - How AI Is Enabling Digital Design Retargeting to Maximize Productivity
+UR  - https://www.synopsys.com/blogs/chip-design/ai-chip-design-retargeting.html
+PY  - 2024
+DA  - 2024/1/3
+N1  - Published reference slots: ref-091
+ER  -
+
+TY  - ELEC
+ID  - f128_ref_092
+AU  - OpenAI and Synopsys
+TI  - OpenAI and Synopsys Announce GPT-Synopsys: Frontier Intelligence to Revolutionize Chip Design
+UR  - https://investor.synopsys.com/news/news-details/2026/OpenAI-and-Synopsys-Announce-GPT-Synopsys-Frontier-Intelligence-to-Revolutionize-Chip-Design/default.aspx
+PY  - 2026
+DA  - 2026/9/30
+N1  - Published reference slots: ref-092
+ER  -
+
+TY  - ELEC
+ID  - f128_ref_093
+AU  - Synopsys
+TI  - Synopsys Details Growth Strategy and Long-term Financial Model at 2026 Investor Day
+UR  - https://news.synopsys.com/2026-09-30-Synopsys-Details-Growth-Strategy-and-Long-term-Financial-Model-at-2026-Investor-Day
+PY  - 2026
+DA  - 2026/9/30
+N1  - Published reference slots: ref-093
+ER  -
+
+TY  - ELEC
+ID  - f128_ref_094
+AU  - Synopsys
+TI  - Synopsys Powers Autonomous Engineering with a Broad Portfolio of Long-Horizon Agents and Autopilot Platform
+UR  - https://news.synopsys.com/2026-09-28-Synopsys-Powers-Autonomous-Engineering-with-a-Broad-Portfolio-of-Long-Horizon-Agents-and-Autopilot-Platform
+PY  - 2026
+DA  - 2026/9/28
+N1  - Published reference slots: ref-094
+ER  -
+
+TY  - UNPB
+ID  - f128_ref_095
+AU  - Jiawei Liu
+AU  - Peiyi Han
+AU  - Yuntao Lu
+AU  - Su Zheng
+AU  - Fengyu Yan
+AU  - Bei Yu
+TI  - Agentic Electronic Design Automation: A Handoff Perspective
+T2  - arXiv
+PB  - arXiv
+UR  - https://arxiv.org/abs/2606.19795
+PY  - 2026
+DA  - 2026/6/18
+N1  - Published reference slots: ref-095
+ER  -
+
+TY  - UNPB
+ID  - f128_ref_096
+AU  - Zelin Zang
+AU  - Yuhang Song
+AU  - Aili Wang
+AU  - Bingo Wing-Kuen Ling
+AU  - Qi Sun
+AU  - Zhen Lei
+AU  - Fuji Yang
+AU  - Cheng Zhuo
+AU  - Jiebo Luo
+TI  - The Dawn of Agentic EDA: A Survey of Autonomous Digital Chip Design
+T2  - arXiv
+PB  - arXiv
+UR  - https://arxiv.org/abs/2512.23189
+PY  - 2025
+DA  - 2025/12/29
+N1  - Published reference slots: ref-096
+ER  -
+
+TY  - UNPB
+ID  - f128_ref_097
+AU  - Deming Chen
+AU  - Vijay Ganesh
+AU  - Weikai Li
+AU  - Yingyan Celine Lin
+AU  - Yong Liu
+AU  - Subhasish Mitra
+AU  - David Z. Pan
+AU  - Ruchir Puri
+AU  - Jason Cong
+AU  - Yizhou Sun
+TI  - Report for NSF Workshop on AI for Electronic Design Automation
+T2  - arXiv
+PB  - arXiv
+UR  - https://arxiv.org/abs/2601.14541
+PY  - 2026
+DA  - 2026/1/20
+N1  - Published reference slots: ref-097
+ER  -
+
+TY  - UNPB
+ID  - f128_ref_098
+AU  - Abdulrahman AlRabah
+AU  - Joshua Mabry
+AU  - Dilek Hakkani-Tür
+AU  - Abdussalam Alawini
+AU  - Hamid Shojaei
+AU  - Kartik Hegde
+AU  - Sandesh Adhikary
+TI  - ChipMEM: Verification-Grounded Memory for EDA Agents
+T2  - arXiv
+PB  - arXiv
+UR  - https://arxiv.org/abs/2609.27067
+PY  - 2026
+DA  - 2026/9/22
+N1  - Published reference slots: ref-098
+ER  -
+
+TY  - UNPB
+ID  - f128_ref_099
+AU  - Jinyuan Deng
+AU  - Zhengrui Chen
+AU  - Xufeng Wei
+AU  - Tianyu Xing
+AU  - Chenyi Wen
+AU  - Qi Sun
+AU  - Cheng Zhuo
+TI  - Can AI Agents Really Complete RTL-to-GDS? Lessons from Benchmarking Tool-Interactive EDA Workflows
+T2  - arXiv
+PB  - arXiv
+UR  - https://arxiv.org/abs/2607.17528
+PY  - 2026
+DA  - 2026/7/20
+N1  - Published reference slots: ref-099
+ER  -
+
+TY  - JOUR
+ID  - f128_ref_100
+AU  - Peherstorfer, Benjamin
+AU  - Willcox, Karen
+AU  - Gunzburger, Max
+TI  - Survey of Multifidelity Methods in Uncertainty Propagation, Inference, and Optimization
+T2  - SIAM Review
+VL  - 60
+IS  - 3
+SP  - 550-591
+PB  - Society for Industrial & Applied Mathematics (SIAM)
+LA  - en
+DO  - 10.1137/16m1082469
+UR  - https://doi.org/10.1137/16m1082469
+PY  - 2018
+DA  - 2018/1
+N1  - Published reference slots: ref-100
+ER  -
+
+TY  - UNPB
+ID  - f128_ref_101
+AU  - Eric Hans Lee
+AU  - Valerio Perrone
+AU  - Cédric Archambeau
+AU  - Matthias Seeger
+TI  - Cost-aware Bayesian Optimization
+T2  - arXiv
+PB  - arXiv
+UR  - https://arxiv.org/abs/2003.10870
+PY  - 2020
+DA  - 2020/3/22
+N1  - Published reference slots: ref-101
+ER  -
+
+TY  - RPRT
+ID  - f128_ref_102
+AU  - Agrawal, Ajay
+AU  - Gans, Joshua
+AU  - Goldfarb, Avi
+TI  - Prediction, Judgment and Complexity: A Theory of Decision Making and Artificial Intelligence
+PB  - National Bureau of Economic Research
+DO  - 10.3386/w24243
+UR  - https://doi.org/10.3386/w24243
+PY  - 2018
+DA  - 2018/1
+N1  - Published reference slots: ref-102
+ER  -
+
+TY  - UNPB
+ID  - f128_ref_103
+AU  - Mysore, Shivaram H
+TI  - Deterministic Core, Agent Tail: A Verify-Before-Ship Architecture for Orchestrating Open Silicon Sign-Off
+PB  - Zenodo
+LA  - en
+DO  - 10.5281/zenodo.21438247
+UR  - https://doi.org/10.5281/zenodo.21438247
+PY  - 2026
+DA  - 2026
+N1  - Published reference slots: ref-103
+ER  -
+
+TY  - UNPB
+ID  - f128_ref_104
+AU  - Qingyun Zou
+AU  - Feng Yu
+AU  - Hongshi Tan
+AU  - Bingsheng He
+AU  - WengFai Wong
+TI  - Is Agentic AI Ready for Real-World Hardware Engineering? A Deep Dive with Phoenix-bench
+T2  - arXiv
+PB  - arXiv
+UR  - https://arxiv.org/abs/2605.15226
+PY  - 2026
+DA  - 2026/5/13
+N1  - Published reference slots: ref-104
+ER  -
+
+TY  - UNPB
+ID  - f128_ref_105
+AU  - Zhongkai Yu
+AU  - Chenyang Zhou
+AU  - Yichen Lin
+AU  - Hejia Zhang
+AU  - Haotian Ye
+AU  - Junxia Cui
+AU  - Zaifeng Pan
+AU  - Jishen Zhao
+AU  - Yufei Ding
+TI  - ChipBench: A Next-Step Benchmark for Evaluating LLM Performance in AI-Aided Chip Design
+T2  - arXiv
+PB  - arXiv
+UR  - https://arxiv.org/abs/2601.21448
+PY  - 2026
+DA  - 2026/1/29
+N1  - Published reference slots: ref-105
+ER  -
+
+TY  - UNPB
+ID  - f128_ref_106
+AU  - Qiufeng Li
+AU  - Rongqian Chen
+AU  - Quan Cheng
+AU  - Chengxuan Wang
+AU  - Sizhe Tang
+AU  - Chia-Tung Ho
+AU  - David Z. Pan
+AU  - Tian Lan
+AU  - Weidong Cao
+TI  - PDAGENT-BENCH: Characterizing, Grounding, and Architecting LLM/VLM Agents for VLSI Physical Design
+T2  - arXiv
+PB  - arXiv
+UR  - https://arxiv.org/abs/2606.17253
+PY  - 2026
+DA  - 2026/6/15
+N1  - Published reference slots: ref-106
+ER  -
+
+TY  - UNPB
+ID  - f128_ref_107
+AU  - Phat Tieu
+AU  - Sayanti Jana
+AU  - Matthew DeLorenzo
+AU  - Jiawen Wu
+AU  - Narendran Srinivasan
+AU  - Srinivas Shakkottai
+AU  - Jiang Hu
+AU  - Jeyavijayan Rajendran
+TI  - EDATracer: An Agentic Framework for Large-Scale EDA Artifact Analysis
+T2  - arXiv
+PB  - arXiv
+UR  - https://arxiv.org/abs/2608.04032
+PY  - 2026
+DA  - 2026/8/2
+N1  - Published reference slots: ref-107
+ER  -
+
+TY  - ELEC
+ID  - f128_ref_108
+AU  - Synopsys
+TI  - Synopsys Advances Agentic AI Chip Design with AMD and Microsoft
+UR  - https://news.synopsys.com/2026-07-27-Synopsys-Advances-Agentic-AI-Chip-Design-with-AMD-and-Microsoft
+PY  - 2026
+DA  - 2026/7/27
+N1  - Published reference slots: ref-108
+ER  -
+
+TY  - UNPB
+ID  - f128_ref_109
+AU  - Yihang Qiu
+AU  - Zengrong Huang
+AU  - Simin Tao
+AU  - Hongda Zhang
+AU  - Weiguo Li
+AU  - Xinhua Lai
+AU  - Rui Wang
+AU  - Weiqiang Wang
+AU  - Xingquan Li
+TI  - AiEDA: An Open-Source AI-Aided Design Library for Design-to-Vector
+T2  - arXiv
+PB  - arXiv
+UR  - https://arxiv.org/abs/2511.05823
+PY  - 2025
+DA  - 2025/11/8
+N1  - Published reference slots: ref-109
+ER  -
+
+TY  - ELEC
+ID  - f128_ref_110
+AU  - Japan Science and Technology Agency
+TI  - アナデジ混載型エッジAI SoC設計技術の研究開発
+TT  - Research and Development of Analog/Digital Mixed Edge-AI SoC Design Technology
+LA  - ja
+UR  - https://www.jst.go.jp/program/edge-ai-semicon/files/project/JPMJES2515_okada.pdf
+N1  - Published reference slots: ref-110
+ER  -
+
+TY  - UNPB
+ID  - f128_ref_111
+AU  - Zhuolun He
+AU  - Haoyuan Wu
+AU  - Xinyun Zhang
+AU  - Xufeng Yao
+AU  - Su Zheng
+AU  - Haisheng Zheng
+AU  - Bei Yu
+TI  - ChatEDA: A Large Language Model Powered Autonomous Agent for EDA
+T2  - arXiv
+PB  - arXiv
+UR  - https://arxiv.org/abs/2308.10204
+PY  - 2023
+DA  - 2023/8/20
+N1  - Published reference slots: ref-111
+ER  -
+
+TY  - UNPB
+ID  - f128_ref_112
+AU  - Mingjie Liu
+AU  - Teodor-Dumitru Ene
+AU  - Robert Kirby
+AU  - Chris Cheng
+AU  - Nathaniel Pinckney
+AU  - Rongjian Liang
+AU  - Jonah Alben
+AU  - Himyanshu Anand
+AU  - Sanmitra Banerjee
+AU  - Ismet Bayraktaroglu
+AU  - Bonita Bhaskaran
+AU  - Bryan Catanzaro
+AU  - Arjun Chaudhuri
+AU  - Sharon Clay
+AU  - Bill Dally
+AU  - Laura Dang
+AU  - Parikshit Deshpande
+AU  - Siddhanth Dhodhi
+AU  - Sameer Halepete
+AU  - Eric Hill
+AU  - Jiashang Hu
+AU  - Sumit Jain
+AU  - Ankit Jindal
+AU  - Brucek Khailany
+AU  - George Kokai
+AU  - Kishor Kunal
+AU  - Xiaowei Li
+AU  - Charley Lind
+AU  - Hao Liu
+AU  - Stuart Oberman
+AU  - Sujeet Omar
+AU  - Ghasem Pasandi
+AU  - Sreedhar Pratty
+AU  - Jonathan Raiman
+AU  - Ambar Sarkar
+AU  - Zhengjiang Shao
+AU  - Hanfei Sun
+AU  - Pratik P Suthar
+AU  - Varun Tej
+AU  - Walker Turner
+AU  - Kaizhe Xu
+AU  - Haoxing Ren
+TI  - ChipNeMo: Domain-Adapted LLMs for Chip Design
+T2  - arXiv
+PB  - arXiv
+UR  - https://arxiv.org/abs/2311.00176
+PY  - 2023
+DA  - 2023/10/31
+N1  - Published reference slots: ref-112
+ER  -
+
+TY  - RPRT
+ID  - f128_ref_113
+AU  - Agrawal, Ajay
+AU  - Gans, Joshua
+AU  - Goldfarb, Avi
+TI  - Exploring the Impact of Artificial Intelligence: Prediction versus Judgment
+PB  - National Bureau of Economic Research
+DO  - 10.3386/w24626
+UR  - https://doi.org/10.3386/w24626
+PY  - 2018
+DA  - 2018/5
+N1  - Published reference slots: ref-113
+ER  -
+
+TY  - JOUR
+ID  - f128_ref_114
+AU  - Iskander, Ramy
+AU  - Louërat, Marie-Minerve
+AU  - Kaiser, Andreas
+TI  - Automatic DC operating point computation and design plan generation for analog IPs
+T2  - Analog Integrated Circuits and Signal Processing
+VL  - 56
+IS  - 1-2
+SP  - 93-105
+PB  - Springer Science and Business Media LLC
+LA  - en
+DO  - 10.1007/s10470-007-9075-3
+UR  - https://doi.org/10.1007/s10470-007-9075-3
+PY  - 2008
+DA  - 2008/8
+N1  - Published reference slots: ref-114
+ER  -
+
+TY  - UNPB
+ID  - f128_ref_115
+AU  - Chen Lu
+AU  - Ke Xue
+AU  - Siyuan Xu
+AU  - Mingxuan Yuan
+AU  - Chao Qian
+TI  - Self-Evolving Algorithm-Design Agents: Escaping In-Context Evolutionary Stagnation via Population-Curated Policy Optimization
+T2  - arXiv
+PB  - arXiv
+UR  - https://arxiv.org/abs/2609.38757
+PY  - 2026
+DA  - 2026/9/30
+N1  - Published reference slots: ref-115
+ER  -
+
+TY  - UNPB
+ID  - f128_ref_116
+AU  -  Analog Design Bench Team
+TI  - Long-Horizon Analog Design Bench: Benchmarking Agents on Hours-Long Analog and Mixed-Signal Circuit Design Tasks
+T2  - arXiv
+PB  - arXiv
+UR  - https://arxiv.org/abs/2609.33356
+PY  - 2026
+DA  - 2026/9/27
+N1  - Published reference slots: ref-116
+ER  -
+
+TY  - UNPB
+ID  - f128_ref_117
+AU  - Yuheng Wu
+AU  - Berk Gokmen
+AU  - Sujeeth Jinesh
+AU  - Lauren McLane
+AU  - Aarav Wattal
+AU  - Qi Yang Huang
+AU  - Zhaozhuo Xu
+AU  - Thierry Tambe
+TI  - BEHAVE: Functional Behavior Modeling Enables Self-Improving Agents for Hardware Design and Verification
+T2  - arXiv
+PB  - arXiv
+UR  - https://arxiv.org/abs/2609.34785
+PY  - 2026
+DA  - 2026/9/28
+N1  - Published reference slots: ref-117
+ER  -
+
+TY  - UNPB
+ID  - f128_ref_118
+AU  - Kevin Tirta Wijaya
+AU  - Alston Lo
+AU  - Michael Sun
+AU  - Wojciech Matusik
+AU  - Vahid Babaei
+TI  - Scientific Discovery under Validation Congestion via Multi-Fidelity Pairwise Rankings
+T2  - arXiv
+PB  - arXiv
+UR  - https://arxiv.org/abs/2610.01827
+PY  - 2026
+DA  - 2026/10/1
+N1  - Published reference slots: ref-118
+ER  -
+
+TY  - UNPB
+ID  - f128_ref_119
+AU  - Cheng Qian
+AU  - Kunlun Zhu
+AU  - Beibin Li
+AU  - Zhenhailong Wang
+AU  - Heng Ji
+TI  - Learning Meta-Skills for Agent Harness Design in Test-Time AI4AI
+T2  - arXiv
+PB  - arXiv
+UR  - https://arxiv.org/abs/2609.38143
+PY  - 2026
+DA  - 2026/9/29
+N1  - Published reference slots: ref-119
+ER  -
+
+TY  - UNPB
+ID  - f128_ref_120
+AU  - Zhixuan Tan
+AU  - Pengjie Gu
+AU  - Zhao Li
+AU  - Yihan Hu
+AU  - Xu He
+AU  - Dong Li
+AU  - Jianye Hao
+TI  - EngramBench: A Capability-Grounded Benchmark for Skill-Evolution Harnesses
+T2  - arXiv
+PB  - arXiv
+UR  - https://arxiv.org/abs/2609.39284
+PY  - 2026
+DA  - 2026/9/30
+N1  - Published reference slots: ref-120
+ER  -
+
+TY  - UNPB
+ID  - f128_ref_121
+AU  - Longxiao Fan
+AU  - Tao Zhang
+AU  - Han Yan
+AU  - Jiajun Li
+AU  - Mingcong Song
+AU  - Guoping Long
+AU  - Hongjie Si
+AU  - Weiwei Sun
+TI  - From Experience to Expertise: Adoption-Aware Memory Learning for Data-Scarce NPU Kernel Synthesis
+T2  - arXiv
+PB  - arXiv
+UR  - https://arxiv.org/abs/2609.35568
+PY  - 2026
+DA  - 2026/9/28
+N1  - Published reference slots: ref-121
+ER  -
+
+TY  - UNPB
+ID  - f128_ref_122
+AU  - Dong Xu
+AU  - Zhangfan Yang
+AU  - Jiantao Wu
+AU  - Shipeng Zhang
+AU  - Zexuan Zhu
+AU  - Jiangqiang Li
+AU  - Jun Zhang
+AU  - Junkai Ji
+TI  - RoutePrism: Tracing Construction Order Effects in Agent Memory
+T2  - arXiv
+PB  - arXiv
+UR  - https://arxiv.org/abs/2609.34160
+PY  - 2026
+DA  - 2026/9/28
+N1  - Published reference slots: ref-122
+ER  -
+
+TY  - UNPB
+ID  - f128_ref_123
+AU  - Ali Atiah Alzahrani
+TI  - Verify Claims, Not Scores: Evidence-Based Verification of Modular Agents
+T2  - arXiv
+PB  - arXiv
+UR  - https://arxiv.org/abs/2610.01348
+PY  - 2026
+DA  - 2026/10/1
+N1  - Published reference slots: ref-123
+ER  -
+
+TY  - UNPB
+ID  - f128_ref_124
+AU  - Jayant Parashar
+AU  - Eugene F. Douglass
+AU  - William C. Bastian
+AU  - Suchendra M. Bhandarkar
+TI  - Vestrum: Improving Agent Harnesses by Adapting Their Verification, Structure and Memory
+T2  - arXiv
+PB  - arXiv
+UR  - https://arxiv.org/abs/2609.33822
+PY  - 2026
+DA  - 2026/9/27
+N1  - Published reference slots: ref-124
+ER  -
+
+TY  - UNPB
+ID  - f128_ref_125
+AU  - Zhen Xiong
+AU  - Qiaoyu Tan
+TI  - EASE: Behavior-Adaptive Skill Curation for Self-Evolving Agents
+T2  - arXiv
+PB  - arXiv
+UR  - https://arxiv.org/abs/2609.36746
+PY  - 2026
+DA  - 2026/9/29
+N1  - Published reference slots: ref-125
+ER  -
+
+TY  - UNPB
+ID  - f128_ref_126
+AU  - Huancheng Chen
+AU  - Xiaodi Sun
+AU  - Zhaoqiong Huang
+AU  - Shenyang Huang Shreya Singhal
+AU  - Jingwen Lu
+TI  - SkillSpec: Consensus-Gated Agent Skill Evolution via Representation Specialization
+T2  - arXiv
+PB  - arXiv
+UR  - https://arxiv.org/abs/2610.00704
+PY  - 2026
+DA  - 2026/9/30
+N1  - Published reference slots: ref-126
+ER  -
+
+TY  - UNPB
+ID  - f128_ref_127
+AU  - Xinke Jiang
+AU  - Tao Feng
+AU  - Weixuan Xu
+AU  - Zhixin Zhang
+AU  - Zhibang Yang
+AU  - Wentao Zhang
+AU  - Runchuan Zhu
+AU  - Xu Chu
+AU  - Junfeng Zhao
+AU  - Yasha Wang
+TI  - GenMem: Generative Symbolic Memory for Self-Evolving Harness
+T2  - arXiv
+PB  - arXiv
+UR  - https://arxiv.org/abs/2609.34633
+PY  - 2026
+DA  - 2026/9/28
+N1  - Published reference slots: ref-127
+ER  -
+
+TY  - UNPB
+ID  - f128_ref_128
+AU  - Song-Li Wu
+AU  - Jingyi Wang
+AU  - Zhaocheng Du
+AU  - Weinan Gan
+AU  - Weiwen Liu
+TI  - CodeSkill: Latent Skill Abstraction for Long-Horizon Code Agents
+T2  - arXiv
+PB  - arXiv
+UR  - https://arxiv.org/abs/2609.33243
+PY  - 2026
+DA  - 2026/9/27
+N1  - Published reference slots: ref-128
+ER  -
+
+TY  - UNPB
+ID  - f128_ref_129
+AU  - Kaiwei Liu
+AU  - Jiqian Dong
+AU  - Liran Dong
+AU  - Shuai Mao
+AU  - Mingming Zhao
+AU  - Bufang Yang
+AU  - Jie Chuai
+AU  - Zhitang Chen
+AU  - Guoliang Xing
+AU  - Zhenyu Yan
+TI  - SkillVine: Agent Skill Evolution via Branching Exploration
+T2  - arXiv
+PB  - arXiv
+UR  - https://arxiv.org/abs/2609.32731
+PY  - 2026
+DA  - 2026/9/26
+N1  - Published reference slots: ref-129
+ER  -
+
+TY  - UNPB
+ID  - f128_ref_130
+AU  - Haichuan Hu
+AU  - Quanjun Zhang
+AU  - Shengcheng Yu
+AU  - Zhifei Chen
+AU  - Tianyu Luo
+AU  - Chunrong Fang
+AU  - Zhenyu Chen
+AU  - Liang Xiao
+TI  - Beyond the Model: Demystifying Harness Effects in Software Engineering Agents
+T2  - arXiv
+PB  - arXiv
+UR  - https://arxiv.org/abs/2609.32459
+PY  - 2026
+DA  - 2026/9/26
+N1  - Published reference slots: ref-130
+ER  -
+
+TY  - UNPB
+ID  - f128_ref_131
+AU  - Ethan Lin
+AU  - Jinming Nian
+AU  - Yi Fang
+TI  - Component-Aware Feedback for Self-Evolving Programs
+T2  - arXiv
+PB  - arXiv
+UR  - https://arxiv.org/abs/2609.38639
+PY  - 2026
+DA  - 2026/9/29
+N1  - Published reference slots: ref-131
+ER  -
+
+TY  - UNPB
+ID  - f128_ref_132
+AU  - Sibo Liu
+TI  - Audience-Bound Persistent Memory: Authorization Across the Memory Lifecycle
+T2  - arXiv
+PB  - arXiv
+UR  - https://arxiv.org/abs/2609.36373
+PY  - 2026
+DA  - 2026/9/28
+N1  - Published reference slots: ref-132
+ER  -
+
+TY  - UNPB
+ID  - f128_ref_133
+AU  - Wolfgang Ecker
+AU  - Natalie Simson
+AU  - Johannes Ecker
+AU  - Endri Kaja
+TI  - From Physical Devices to RTL Models: Abstraction and Validation in Hardware Engineering
+T2  - arXiv
+PB  - arXiv
+UR  - https://arxiv.org/abs/2610.01186
+PY  - 2026
+DA  - 2026/10/1
+N1  - Published reference slots: ref-133
+ER  -
+
+TY  - ELEC
+ID  - f128_ref_134
+AU  - Synopsys and Amazon
+TI  - Strategic, Multi-year IP Agreement for Custom Silicon; Collaboration Also Extends to Cloud and AI-Powered Engineering
+UR  - https://news.synopsys.com/2026-09-30-Synopsys-and-Amazon-Announce-Strategic,-Multi-year-IP-Agreement-for-Custom-Silicon-Collaboration-Also-Extends-to-Cloud-and-AI-Powered-Engineering
+PY  - 2026
+DA  - 2026/9/30
+N1  - Published reference slots: ref-134
+ER  -
+
+TY  - ELEC
+ID  - f128_ref_135
+AU  - ChipAgents
+TI  - Agentic AI for Chip Design: How AWS and ChipAgents Tackle the Engineering Bottleneck
+UR  - https://chipagents.ai/blogs/agentic-ai-chip-design-aws-chipagents
+PY  - 2026
+DA  - 2026
+N1  - Published reference slots: ref-135
+ER  -
+
+TY  - ELEC
+ID  - f128_ref_136
+AU  - Moh Kolb
+TI  - Agentic AI Can Reach GDS. What Must It Prove Before Engineers Trust It for Tapeout?
+UR  - https://semiwiki.com/eda/agentrys/373853-agentic-ai-can-reach-gds-what-must-it-prove-before-engineers-trust-it-for-tapeout
+PY  - 2026
+DA  - 2026
+N1  - Published reference slots: ref-136
+ER  -
+
+TY  - UNPB
+ID  - f128_ref_137
+AU  - Lirui Luo
+AU  - Kelong Mao
+AU  - Heming Xia
+AU  - Rongqing Li
+AU  - Xinwei Yang
+AU  - Luyu Chen
+AU  - Kieran Wong
+AU  - Yudong Guo
+AU  - Xinrui Wang
+AU  - Jiayin Zhu
+AU  - Simiu Gu
+AU  - Sulong Xu
+AU  - Cong Fang
+TI  - Coding Agent Memory Post-training: Unlocking the Memory Potential of Pre-trained File Operations for Long-Horizon Tasks via Reinforcement Learning
+T2  - arXiv
+PB  - arXiv
+UR  - https://arxiv.org/abs/2609.34422
+PY  - 2026
+DA  - 2026/9/28
+N1  - Published reference slots: ref-137
+ER  -
+
+TY  - UNPB
+ID  - f128_ref_138
+AU  - Xiaoqiang Wang
+AU  - Bang Liu
+TI  - MemCodex: Self-Programming Hierarchical Memory for Language Agents
+T2  - arXiv
+PB  - arXiv
+UR  - https://arxiv.org/abs/2609.39765
+PY  - 2026
+DA  - 2026/9/30
+N1  - Published reference slots: ref-138
+ER  -
+
+TY  - UNPB
+ID  - f128_ref_139
+AU  - Mitchell Piehl
+AU  - Muchao Ye
+TI  - MemFit: Efficient Long-Term Agentic Memory
+T2  - arXiv
+PB  - arXiv
+UR  - https://arxiv.org/abs/2610.00872
+PY  - 2026
+DA  - 2026/10/1
+N1  - Published reference slots: ref-139
+ER  -
+
+TY  - JOUR
+ID  - f128_ref_140
+AU  - Zhang, Haoyi
+AU  - huang, jiechen
+AU  - liu, bingyang
+AU  - Yu, Wenjian
+AU  - Lin, Yibo
+AU  - Wang, Runsheng
+TI  - APEC-Route: Guiding Analog Routing with On-the-Fly Parasitic Extraction Based on a Neural Capacitance Model
+T2  - ACM Transactions on Design Automation of Electronic Systems
+SP  - 3848639
+PB  - Association for Computing Machinery (ACM)
+LA  - en
+DO  - 10.1145/3848639
+UR  - https://doi.org/10.1145/3848639
+PY  - 2026
+DA  - 2026/9/28
+N1  - Published reference slots: ref-140
+ER  -
+
+TY  - JOUR
+ID  - f128_ref_141
+AU  - Jiang, He
+AU  - Zhao, Wen
+AU  - Guo, Shikai
+AU  - Xu, Zhihao
+AU  - Li, Xiaochen
+AU  - Huang, Rubing
+TI  - Fuzzing FPGA Synthesis and Simulation Tools via LLM-Generated Syntax-Valid HDL Codes
+T2  - Proceedings of the ACM on Software Engineering
+VL  - 3
+IS  - ISSTA
+SP  - 1580-1602
+PB  - Association for Computing Machinery (ACM)
+LA  - en
+DO  - 10.1145/3832160
+UR  - https://doi.org/10.1145/3832160
+PY  - 2026
+DA  - 2026/10/1
+N1  - Published reference slots: ref-141
+ER  -
+
+TY  - UNPB
+ID  - f128_ref_142
+AU  - Feilian Huang
+TI  - SpecRead: A Benchmark for Measuring Whether Language Models Understand Hardware Specifications
+T2  - arXiv
+PB  - arXiv
+UR  - https://arxiv.org/abs/2609.33699
+PY  - 2026
+DA  - 2026/9/27
+N1  - Published reference slots: ref-142
+ER  -
+
+TY  - UNPB
+ID  - f128_ref_143
+AU  - Guoxiang Xu
+AU  - Guozhen Ji
+AU  - Zijian Luo
+AU  - Zhengrui Chen
+AU  - Qi Sun
+AU  - Cheng Zhuo
+TI  - WaveletECO: A Closed-Loop Physical ECO Platform and a Specialized Local Language Model
+T2  - arXiv
+PB  - arXiv
+UR  - https://arxiv.org/abs/2609.23444
+PY  - 2026
+DA  - 2026/9/20
+N1  - Published reference slots: ref-143
+ER  -
+
+TY  - CPAPER
+ID  - f128_ref_144
+AU  - Vidya A. Chhabria
+AU  - Atmadip Dey
+AU  - Andrew B. Kahng
+AU  - Ioannis Savidis
+AU  - Pratik Shrestha
+AU  - Bing-Yue Wu
+TI  - ResizerAgent: Agentic Strategy Selection for Timing Optimization in OpenROAD Resizer
+T2  - MLCAD 2026
+UR  - https://mlcad.org/symposium/2026/program
+PY  - 2026
+DA  - 2026
+N1  - Published reference slots: ref-144
+ER  -
+
+TY  - ELEC
+ID  - f128_ref_145
+AU  - ChipAgents
+TI  - Customer Success
+UR  - https://chipagents.ai/customers
+N1  - Published reference slots: ref-145
+ER  -
+
+TY  - ELEC
+ID  - f128_ref_146
+AU  - Andes Technology
+TI  - ChipAgents Helps Andes Technology Dramatically Accelerate Custom Processor Design and Verification
+UR  - https://www.andestech.com/en/2026/09/02/chipagents-helps-andes-technology-dramatically-accelerate-custom-processor-design-and-verification
+PY  - 2026
+DA  - 2026/9/2
+N1  - Published reference slots: ref-146
+ER  -
+
+TY  - ELEC
+ID  - f128_ref_147
+AU  - ChipAgents and Whalechip
+TI  - ChipAgents Helps Whalechip Cut Semiconductor Root-Cause Analysis from Days to Minutes
+UR  - https://www.businesswire.com/news/home/20260715897759/en/ChipAgents-Helps-Whalechip-Cut-Semiconductor-Root-Cause-Analysis-from-Days-to-Minutes
+PY  - 2026
+DA  - 2026/7/15
+N1  - Published reference slots: ref-147
+ER  -
+
+TY  - ELEC
+ID  - f128_ref_148
+AU  - ChipAgents and eMemory
+TI  - ChipAgents Helps eMemory Cut NVM IP Functional Model Verification Effort by 80%
+UR  - https://www.businesswire.com/news/home/20260921141786/en/ChipAgents-Helps-eMemory-Cut-NVM-IP-Functional-Model-Verification-Effort-by-80
+PY  - 2026
+DA  - 2026/9/21
+N1  - Published reference slots: ref-148
+ER  -
+
+TY  - ELEC
+ID  - f128_ref_149
+AU  - Ambiq and ChipAgents
+TI  - Ambiq and ChipAgents Collaborate to Advance Agentic AI for Semiconductor Engineering
+UR  - https://www.businesswire.com/news/home/20260722612365/en/Ambiq-and-ChipAgents-Collaborate-to-Advance-Agentic-AI-for-Semiconductor-Engineering
+PY  - 2026
+DA  - 2026/7/22
+N1  - Published reference slots: ref-149
+ER  -
+
+TY  - ELEC
+ID  - f128_ref_150
+AU  - ChipAgents
+TI  - Introducing Renoir: On-Premises Agentic AI for Chip Design
+UR  - https://chipagents.ai/blogs/introducing-renoir
+PY  - 2026
+DA  - 2026/6/17
+N1  - Published reference slots: ref-150
+ER  -
+
+TY  - ELEC
+ID  - f128_ref_151
+AU  - ChipAgents
+TI  - ChipAgents RCA
+UR  - https://chipagents.ai/blogs/chipagents-rca
+PY  - 2025
+DA  - 2025/11/5
+N1  - Published reference slots: ref-151
+ER  -
+
+TY  - ELEC
+ID  - f128_ref_152
+AU  - DVCon U.S
+TI  - ChipAgents in Practice: Lessons from One Year of Agentic AI EDA Deployment
+UR  - https://dvcon.org/workshop/chipagents-in-practice-lessons-from-one-year-of-agentic-ai-eda-deployment
+PY  - 2026
+DA  - 2026/3/2
+N1  - Published reference slots: ref-152
+ER  -
+
+TY  - ELEC
+ID  - f128_ref_153
+AU  - ChipAgents
+TI  - Trust Center
+UR  - https://chipagents.ai/trust-center
+N1  - Published reference slots: ref-153
+ER  -
+
+TY  - ELEC
+ID  - f128_ref_154
+AU  - Xingquan Li et al
+TI  - iEDA: An Open-Source Infrastructure of EDA
+UR  - https://ieeexplore.ieee.org/document/10473983
+PY  - 2024
+DA  - 2024
+N1  - Published reference slots: ref-154
+ER  -
+
+TY  - UNPB
+ID  - f128_ref_155
+AU  - Xingquan Li
+AU  - Simin Tao
+AU  - Zengrong Huang
+AU  - Shijian Chen
+AU  - Zhisheng Zeng
+AU  - Liwei Ni
+AU  - Zhipeng Huang
+AU  - Chunan Zhuang
+AU  - Hongxi Wu
+AU  - Weiguo Li1
+AU  - Xueyan Zhao
+AU  - He Liu
+AU  - Shuaiying Long
+AU  - Wei He
+AU  - Bojun Liu
+AU  - Sifeng Gan
+AU  - Zihao Yu
+AU  - Tong Liu
+AU  - Yuchi Miao
+AU  - Zhiyuan Yan
+AU  - Hao Wang
+AU  - Jie Zhao
+AU  - Yifan Li
+AU  - Ruizhi Liu
+AU  - Xiaoze Lin
+AU  - Bo Yang
+AU  - Zhen Xue
+AU  - Fuxing Huang
+AU  - Zonglin Yang
+AU  - Zhenggang Wu
+AU  - Jiangkao Li
+AU  - Yuezuo Liu
+AU  - Ming Peng
+AU  - Yihang Qiu
+AU  - Wenrui Wu
+AU  - Zheqing Shao
+AU  - Kai Mo
+AU  - Jikang Liu
+AU  - Yuyao Liang
+AU  - Mingzhe Zhang
+AU  - Zhuang Ma
+AU  - Xiang Cong
+AU  - Daxiang Huang
+AU  - Guojie Luo
+AU  - Huawei Li
+AU  - Haihua Shen
+AU  - Mingyu Chen
+AU  - Dongbo Bu
+AU  - Wenxing Zhu
+AU  - Ye Cai
+AU  - Xiaoming Xiong
+AU  - Ying Jiang
+AU  - Yi Heng
+AU  - Peng Zhang
+AU  - Biwei Xie
+AU  - Yungang Bao
+TI  - iEDA: An Open-Source Intelligent Physical Implementation Toolkit and Library
+T2  - arXiv
+PB  - arXiv
+UR  - https://arxiv.org/abs/2308.01857
+PY  - 2023
+DA  - 2023/8/3
+N1  - Published reference slots: ref-155
+ER  -
+
+TY  - ELEC
+ID  - f128_ref_156
+AU  - OSCC Project
+TI  - AiEDA 2.0
+UR  - https://ieda.oscc.cc/res/papers/25-ISEDA25__AiEDA_2_0.pdf
+N1  - Published reference slots: ref-156
+ER  -
+
+TY  - COMP
+ID  - f128_ref_156b
+AU  - OSCC Project
+TI  - AiEDA software repository
+UR  - https://github.com/OSCC-Project/AiEDA
+N1  - Published reference slots: ref-156
+ER  -
+
+TY  - CPAPER
+ID  - f128_ref_157
+AU  - Cheng, Shuyao
+AU  - Jin, Pengwei
+AU  - Guo, Qi
+AU  - Du, Zidong
+AU  - Zhang, Rui
+AU  - Hu, Xing
+AU  - Zhao, Yongwei
+AU  - Hao, Yifan
+AU  - Guan, Xiangtao
+AU  - Han, Husheng
+AU  - Zhao, Zhengyue
+AU  - Liu, Ximing
+AU  - Zhang, Xishan
+AU  - Chu, Yuejie
+AU  - Mao, Weilong
+AU  - Chen, Tianshi
+AU  - Chen, Yunji
+TI  - Automated CPU Design by Learning from Input-Output Examples
+T2  - Proceedings of the Thirty-ThirdInternational Joint Conference on Artificial Intelligence
+SP  - 3843-3853
+PB  - International Joint Conferences on Artificial Intelligence Organization
+DO  - 10.24963/ijcai.2024/425
+UR  - https://doi.org/10.24963/ijcai.2024/425
+PY  - 2024
+DA  - 2024/8
+N1  - Published reference slots: ref-157
+ER  -
+
+TY  - UNPB
+ID  - f128_ref_158
+AU  - Rui Zhang
+AU  - Yuanbo Wen
+AU  - Shuyao Cheng
+AU  - Di Huang
+AU  - Shaohui Peng
+AU  - Jiaming Guo
+AU  - Pengwei Jin
+AU  - Jiacheng Zhao
+AU  - Tianrui Ma
+AU  - Yaoyu Zhu
+AU  - Yifan Hao
+AU  - Yongwei Zhao
+AU  - Shengwen Liang
+AU  - Ying Wang
+AU  - Xing Hu
+AU  - Zidong Du
+AU  - Huimin Cui
+AU  - Ling Li
+AU  - Qi Guo
+AU  - Yunji Chen
+TI  - QiMeng: Fully Automated Hardware and Software Design for Processor Chip
+T2  - arXiv
+PB  - arXiv
+UR  - https://arxiv.org/abs/2506.05007
+PY  - 2025
+DA  - 2025/6/5
+N1  - Published reference slots: ref-158
+ER  -
+
+TY  - CPAPER
+ID  - f128_ref_159
+AU  - Huilai Chen
+AU  - Yuanbo Wen
+AU  - Limin Cheng
+AU  - Shouxu Kuang
+AU  - Yumeng Liu
+AU  - Weijia Li
+AU  - Ling Li
+AU  - Rui Zhang
+AU  - Xinkai Song
+AU  - Wei Li
+AU  - Qi Guo
+AU  - Yunji Chen
+TI  - AutoOS: Make Your OS More Powerful by Exploiting Large Language Models
+T2  - International Conference on Machine Learning
+SP  - 7511-7525
+PB  - PMLR
+UR  - https://proceedings.mlr.press/v235/chen24at.html
+PY  - 2024
+DA  - 2024/7/8
+N1  - Published reference slots: ref-159
+ER  -
+
+TY  - JOUR
+ID  - f128_ref_160
+AU  - Zhang, Rui
+AU  - Guo, Jiaming
+AU  - Cheng, Shuyao
+AU  - Chen, Yunji
+TI  - Fully automated processor chip design: motivation, challenges and future directions
+T2  - National Science Review
+VL  - 13
+IS  - 1
+SP  - nwaf532
+PB  - Oxford University Press (OUP)
+LA  - en
+DO  - 10.1093/nsr/nwaf532
+UR  - https://doi.org/10.1093/nsr/nwaf532
+PY  - 2026
+DA  - 2026/1/10
+N1  - Published reference slots: ref-160
+ER  -
+
+TY  - ELEC
+ID  - f128_ref_161
+AU  - Shuyao Cheng et al
+TI  - Automated Superscalar Processor Design by Learning Data Dependencies
+UR  - https://www.ijcai.org/proceedings/2025/0549.pdf
+PY  - 2025
+DA  - 2025
+N1  - Published reference slots: ref-161
+ER  -
+
+TY  - CPAPER
+ID  - f128_ref_162
+AU  - Shouyang Dong
+AU  - Jun Bi
+AU  - Di Huang
+AU  - Jiaming Guo
+AU  - Jianxing Xu
+AU  - Ruibai Xu
+AU  - Xinkai Song
+AU  - Yifan Hao
+AU  - Ling Li
+AU  - Xuehai Zhou
+AU  - Tianshi Chen
+AU  - Qi Guo
+AU  - Yunji Chen
+TI  - QiMeng-Xpiler: Transcompiling Tensor Programs for Deep Learning Systems with a Neural-Symbolic Approach
+T2  - 19th USENIX Symposium on Operating Systems Design and Implementation (OSDI 25)
+SP  - 239-255
+UR  - https://www.usenix.org/conference/osdi25/presentation/dong
+PY  - 2025
+DA  - 2025
+N1  - Published reference slots: ref-162
+ER  -
+
+TY  - COMP
+ID  - f128_ref_162b
+AU  - QiMeng-IPRC
+TI  - QiMeng-Xpiler implementation repository
+UR  - https://github.com/QiMeng-IPRC/QiMeng-Xpiler
+PY  - 2025
+DA  - 2025
+N1  - Published reference slots: ref-162
+ER  -
+
+TY  - JOUR
+ID  - f128_ref_163
+AU  - 王静
+AU  - 林立宇
+AU  - 李磊
+AU  - 陈霖谊
+AU  - 李征
+AU  - 来耀
+AU  - 李炎
+AU  - 姚佳飞
+AU  - 曾晓洋
+AU  - 郭宇锋
+TI  - 大语言模型在电子设计自动化中的应用综述
+TT  - A Survey on the Applications of Large Language Models in Electronic Design Automation
+T2  - 电子学报
+VL  - 54
+IS  - 6
+SP  - 1-17
+PB  - 电子学报
+LA  - zh
+DO  - 10.12263/dzxb.20250971
+UR  - https://doi.org/10.12263/dzxb.20250971
+PY  - 2026
+DA  - 2026/6/25
+N1  - Published reference slots: ref-163
+ER  -
+
+TY  - UNPB
+ID  - f128_ref_164
+AU  - 林薇
+AU  - 耿林林
+AU  - 周滔
+AU  - 解兆飞
+AU  - 洪长贵. 《
+TI  - 智能体驱动的电子设计自动化技术与应用
+TT  - Agent-Driven Electronic Design Automation: Technologies and Applications
+LA  - zh
+DO  - 10.12383/202609080006v1
+UR  - https://doi.org/10.12383/202609080006v1
+PY  - 2026
+DA  - 2026
+N1  - Published reference slots: ref-164
+ER  -
+
+TY  - JOUR
+ID  - f128_ref_165
+AU  - 周展文
+AU  - 卓汉逵
+TI  - 芯片智能布线方法研究综述
+TT  - Survey on Intelligent Routing Approaches for Chips
+T2  - 自动化学报
+VL  - 50
+IS  - 9
+SP  - 1671-1703
+PB  - 自动化学报
+LA  - zh
+DO  - 10.16383/j.aas.c230368
+UR  - https://doi.org/10.16383/j.aas.c230368
+PY  - 2024
+DA  - 2024
+N1  - Published reference slots: ref-165
+ER  -
+
+TY  - JOUR
+ID  - f128_ref_166
+AU  - 田春生
+AU  - 陈雷
+AU  - 王源
+AU  - 王硕
+AU  - 周婧
+AU  - 庞永江
+AU  - 杜忠
+TI  - 基于机器学习的FPGA电子设计自动化技术研究综述
+TT  - A Survey on FPGA Electronic Design Automation Technology Based on Machine Learning
+T2  - 电子与信息学报
+VL  - 45
+IS  - 1
+SP  - 1-13
+PB  - 电子与信息学报
+LA  - zh
+DO  - 10.11999/jeit220183
+UR  - https://doi.org/10.11999/jeit220183
+PY  - 2023
+DA  - 2023/1/17
+N1  - Published reference slots: ref-166
+ER  -
+
+TY  - JOUR
+ID  - f128_ref_167
+AU  - 若林一敏. 「
+TI  - ソフトウェアプログラムからハードウェア記述を合成する高位合成技術－プロセッサ以外の汎用プログラム実行機構－
+TT  - High-Level Synthesis Technology for Generating Hardware Descriptions from Software Programs: A General-Purpose Program-Execution Mechanism Other Than the Processor
+T2  - IEICE ESS Fundamentals Review
+VL  - 6
+IS  - 1
+SP  - 37-50
+PB  - Institute of Electronics, Information and Communications Engineers (IEICE)
+LA  - en
+DO  - 10.1587/essfr.6.37
+UR  - https://doi.org/10.1587/essfr.6.37
+PY  - 2012
+DA  - 2012
+N1  - Published reference slots: ref-167
+ER  -
+
+TY  - JOUR
+ID  - f128_ref_168
+AU  - 三好 健文
+TI  - FPGA向けの高位合成言語と処理系の研究動向
+TT  - Research Trends in High-Level Synthesis Languages and Systems for FPGAs
+T2  - コンピュータ ソフトウェア
+VL  - 30
+IS  - 1
+SP  - 1_76-1_84
+PB  - 日本ソフトウェア科学会
+LA  - ja
+DO  - 10.11309/jssst.30.1_76
+UR  - https://doi.org/10.11309/jssst.30.1_76
+PY  - 2013
+DA  - 2013/1/25
+N1  - Published reference slots: ref-168
+ER  -
+
+TY  - JOUR
+ID  - f128_ref_169
+AU  - 小田川真之
+AU  - 牧井徹. 「
+TI  - AIの適用による半導体設計の効率化・自動化の取り組みと現状
+TT  - Efficient LSI Design Enablement by AI
+T2  - IEICE ESS Fundamentals Review
+VL  - 19
+IS  - 3
+SP  - 134-138
+PB  - Institute of Electronics, Information and Communications Engineers (IEICE)
+LA  - en
+DO  - 10.1587/essfr.19.3_134
+UR  - https://doi.org/10.1587/essfr.19.3_134
+PY  - 2026
+DA  - 2026/1/1
+N1  - Published reference slots: ref-169
+ER  -
+
+TY  - JOUR
+ID  - f128_ref_170
+AU  - TAKAI, Nobukazu
+TI  - Automated Design of Analog Integrated Circuits Using Machine Learning
+T2  - IEICE Transactions on Electronics
+VL  - E109.C
+IS  - 10
+SP  - 485-492
+PB  - Institute of Electronics, Information and Communications Engineers (IEICE)
+LA  - en
+DO  - 10.1587/transele.2025cti0002
+UR  - https://doi.org/10.1587/transele.2025cti0002
+PY  - 2026
+DA  - 2026/10/1
+N1  - Published reference slots: ref-170
+ER  -
+
+TY  - JOUR
+ID  - f128_ref_171
+AU  - He, Zhuolun
+AU  - Pu, Yuan
+AU  - Wu, Haoyuan
+AU  - Qiu, Tairu
+AU  - Yu, Bei
+TI  - Large Language Models for EDA: Future or Mirage?
+T2  - ACM Transactions on Design Automation of Electronic Systems
+VL  - 30
+IS  - 6
+SP  - 1-53
+PB  - Association for Computing Machinery (ACM)
+LA  - en
+DO  - 10.1145/3736167
+UR  - https://doi.org/10.1145/3736167
+PY  - 2025
+DA  - 2025/11/30
+N1  - Published reference slots: ref-171
+ER  -
+
+TY  - JOUR
+ID  - f128_ref_172
+AU  - Pan, Jingyu
+AU  - Zhou, Guanglei
+AU  - Chang, Chen-Chia
+AU  - Jacobson, Isaac
+AU  - Hu, Jiang
+AU  - Chen, Yiran
+TI  - A Survey of Research in Large Language Models for Electronic Design Automation
+T2  - ACM Transactions on Design Automation of Electronic Systems
+VL  - 30
+IS  - 3
+SP  - 1-21
+PB  - Association for Computing Machinery (ACM)
+LA  - en
+DO  - 10.1145/3715324
+UR  - https://doi.org/10.1145/3715324
+PY  - 2025
+DA  - 2025/5/31
+N1  - Published reference slots: ref-172
+ER  -
+
+TY  - UNPB
+ID  - f128_ref_173
+AU  - Xinyue Wu
+AU  - Zixuan Li
+AU  - Fan Hu
+AU  - Ting Lin
+AU  - Xiaotian Zhao
+AU  - Runxi Wang
+AU  - Xinfei Guo
+TI  - Shift-Left Techniques in Electronic Design Automation: A Survey
+T2  - arXiv
+PB  - arXiv
+UR  - https://arxiv.org/abs/2509.14551
+PY  - 2025
+DA  - 2025/9/18
+N1  - Published reference slots: ref-173
+ER  -
+
+TY  - JOUR
+ID  - f128_ref_174
+AU  - Poddar, Souradip
+AU  - Liu, Bingyang
+AU  - Kim, Seunggeun
+AU  - Pan, David Z.
+TI  - Artificial Intelligence-Assisted Analog IC Design: Bridging human intuition and machine intelligence
+T2  - IEEE Solid-State Circuits Magazine
+VL  - 18
+IS  - 2
+SP  - 30-40
+PB  - Institute of Electrical and Electronics Engineers (IEEE)
+DO  - 10.1109/mssc.2026.3678510
+UR  - https://doi.org/10.1109/mssc.2026.3678510
+PY  - 2026
+DA  - 2026
+N1  - Published reference slots: ref-174
+ER  -
+
+TY  - JOUR
+ID  - f128_ref_175
+AU  - Berhan, Sosina Abiyot
+AU  - Gebru, Endalk
+AU  - Ghosh, Subhadip
+AU  - Poojary, Jitesh
+AU  - Peri, Surya Srikar
+AU  - Hu, Jiang
+AU  - Harjani, Ramesh
+AU  - Ramprasath, S.
+AU  - Sapatnekar, Sachin S.
+TI  - Automated Analog Layout Synthesis
+T2  - Journal of the Indian Institute of Science
+PB  - Springer Science and Business Media LLC
+LA  - en
+DO  - 10.1007/s41745-026-00514-x
+UR  - https://doi.org/10.1007/s41745-026-00514-x
+PY  - 2026
+DA  - 2026/9/5
+N1  - Published reference slots: ref-175
+ER  -
+
+TY  - UNPB
+ID  - f128_ref_176
+AU  - Kangwei Xu
+AU  - Ruidi Qiu
+AU  - Zhuorui Zhao
+AU  - Grace Li Zhang
+AU  - Ulf Schlichtmann
+AU  - Bing Li
+TI  - LLM-Aided Efficient Hardware Design Automation
+T2  - arXiv
+PB  - arXiv
+UR  - https://arxiv.org/abs/2410.18582
+PY  - 2024
+DA  - 2024/10/24
+N1  - Published reference slots: ref-176
+ER  -
+
+TY  - UNPB
+ID  - f128_ref_177
+AU  - Kangwei Xu
+AU  - Denis Schwachhofer
+AU  - Jason Blocklove
+AU  - Ilia Polian
+AU  - Peter Domanski
+AU  - Dirk Pflüger
+AU  - Siddharth Garg
+AU  - Ramesh Karri
+AU  - Ozgur Sinanoglu
+AU  - Johann Knechtel
+AU  - Zhuorui Zhao
+AU  - Ulf Schlichtmann
+AU  - Bing Li
+TI  - Large Language Models (LLMs) for Electronic Design Automation (EDA)
+T2  - arXiv
+PB  - arXiv
+UR  - https://arxiv.org/abs/2508.20030
+PY  - 2025
+DA  - 2025/8/27
+N1  - Published reference slots: ref-177
+ER  -
+
+TY  - UNPB
+ID  - f128_ref_178
+AU  - Kangwei Xu
+AU  - Bing Li
+AU  - Ulf Schlichtmann
+TI  - LLM for EDA in Front-End Design: Challenges and Opportunities
+T2  - arXiv
+PB  - arXiv
+UR  - https://arxiv.org/abs/2607.09616
+PY  - 2026
+DA  - 2026/7/10
+N1  - Published reference slots: ref-178
+ER  -
+
+TY  - CPAPER
+ID  - f128_ref_181
+AU  - Jinuk Kim
+AU  - Junsoo Byun
+AU  - Donghwi Hwang
+AU  - Seong-Jin Park
+AU  - Hyun Oh Song
+TI  - Rule2DRC: Benchmarking LLM Agents for DRC Script Synthesis with Execution-Guided Test Generation
+T2  - International Conference on Machine Learning
+SP  - 57197-57224
+PB  - PMLR
+UR  - https://proceedings.mlr.press/v306/kim26d.html
+PY  - 2026
+DA  - 2026/9/29
+N1  - Published reference slots: ref-181
+ER  -
+
+TY  - COMP
+ID  - f128_ref_181b
+AU  - SNU MLLab
+TI  - Rule2DRC implementation repository
+UR  - https://github.com/snu-mllab/Rule2DRC
+PY  - 2026
+DA  - 2026
+N1  - Published reference slots: ref-181
+ER  -
+
+TY  - ELEC
+ID  - f128_ref_182
+AU  - CEA List
+TI  - Méthodologies et outils d’analyse et de conception
+TT  - Methodologies and Tools for Analysis and Design
+UR  - https://list.cea.fr/fr/page/methodologies-et-outils-danalyse-et-de-conception
+L2  - https://list.cea.fr/en/page/methodologies-and-tools-for-analysis-and-design
+N1  - Published reference slots: ref-182
+ER  -
+
+TY  - ELEC
+ID  - f128_ref_183
+AU  - Apple
+TI  - Physical Design Methodology CAD Engineer
+UR  - https://jobs.apple.com/en-us/details/200657610-0157/physical-design-methodology-cad-engineer
+PY  - 2026
+DA  - 2026/4/13
+N1  - Published reference slots: ref-183
+ER  -
+
+TY  - ELEC
+ID  - f128_ref_184
+AU  - Apple
+TI  - CAD Engineer - RTL Construction
+UR  - https://jobs.apple.com/en-us/details/200605735/cad-engineer-rtl-construction?team=HRDWR
+PY  - 2025
+DA  - 2025/5/20
+N1  - Published reference slots: ref-184
+ER  -
+
+TY  - JOUR
+ID  - f128_ref_185
+AU  - Rashid, Ria
+AU  - Krishna, Komala
+AU  - George, Clint Pazhayidam
+AU  - Nambath, Nandakumar
+TI  - Machine learning driven global optimisation framework for analog circuit design
+T2  - Microelectronics Journal
+VL  - 151
+SP  - 106362
+PB  - Elsevier BV
+LA  - en
+DO  - 10.1016/j.mejo.2024.106362
+UR  - https://doi.org/10.1016/j.mejo.2024.106362
+PY  - 2024
+DA  - 2024/9
+N1  - Published reference slots: ref-185
+ER  -
+
+TY  - CPAPER
+ID  - f128_ref_186
+AU  - Moriguchi, Yuto
+AU  - Takai, Nobukazu
+TI  - Optimal Mapping of Monte Carlo Analysis for Analog Circuit Designing using Bayesian Neural Networks
+T2  - 2025 IEEE 7th International Conference on Artificial Intelligence Circuits and Systems (AICAS)
+SP  - 1-5
+PB  - IEEE
+DO  - 10.1109/aicas64808.2025.11173097
+UR  - https://doi.org/10.1109/aicas64808.2025.11173097
+PY  - 2025
+DA  - 2025/4/28
+N1  - Published reference slots: ref-186
+ER  -
+
+TY  - CPAPER
+ID  - f128_ref_187
+AU  - Zhao, Xuyang
+AU  - Bi, Zhaori
+AU  - Yan, Changhao
+AU  - Yang, Fan
+AU  - Lu, Ye
+AU  - Zhou, Dian
+AU  - Zeng, Xuan
+TI  - Asynchronous Batch Constrained Multi-Objective Bayesian Optimization for Analog Circuit Sizing
+T2  - 2024 29th Asia and South Pacific Design Automation Conference (ASP-DAC)
+SP  - 872-877
+PB  - IEEE
+DO  - 10.1109/asp-dac58780.2024.10473892
+UR  - https://doi.org/10.1109/asp-dac58780.2024.10473892
+PY  - 2024
+DA  - 2024/1/22
+N1  - Published reference slots: ref-187
+ER  -
+
+TY  - ELEC
+ID  - f128_ref_191
+AU  - The VC
+TI  - 알세미(알시스) - 기업정보 | 투자, 매출, 기업가치 - THE VC
+TT  - Alsemy [Alsys] — company information
+LA  - ko
+UR  - https://thevc.kr/alsemy
+N1  - Published reference slots: ref-191
+ER  -
+
+TY  - ELEC
+ID  - f128_ref_192
+AU  - 권동준
+TI  - [미래 반도체 유니콘 열전]〈9〉굿인텔리전스, ‘AI 조합 최적화’로 반도체 설계 SW 개발
+TT  - [Future Semiconductor Unicorn Series] 〈9〉 Good Intelligence Develops Semiconductor-Design Software with ‘AI Combinatorial Optimization’
+LA  - ko
+UR  - https://www.etnews.com/20231201000091
+PY  - 2023
+DA  - 2023/12/1
+N1  - Published reference slots: ref-192
+ER  -
+
+TY  - ELEC
+ID  - f128_ref_196
+AU  - 中国科学院计算技术研究所
+TI  - 计算所在芯片全自动设计研究方向取得进展
+TT  - Progress in Fully Automated Chip Design Research at the Institute of Computing Technology
+LA  - zh
+UR  - https://www.cas.cn/syky/202407/t20240729_5027329.shtml
+PY  - 2024
+DA  - 2024/7/30
+N1  - Published reference slots: ref-196
+ER  -
+
+TY  - ELEC
+ID  - f128_ref_197
+AU  - 处理器芯片全国重点实验室
+TI  - 实验室联合软件所发布‘启蒙’芯片全流程自动设计系统
+TT  - The Laboratory and Institute of Software Release the QiMeng Full-Process Automated Chip-Design System
+LA  - zh
+UR  - https://sklp.ict.ac.cn/xwzx/202510/t20251021_785126.html
+PY  - 2025
+DA  - 2025/6/22
+N1  - Published reference slots: ref-197
+ER  -
+
+TY  - ELEC
+ID  - f128_ref_198
+AU  - QiMeng IPRC
+TI  - QiMeng-cpu-v1
+UR  - https://github.com/QiMeng-IPRC/QiMeng-cpu-v1
+N1  - Published reference slots: ref-198
+ER  -
+
+TY  - ELEC
+ID  - f128_ref_199
+AU  - QiMeng IPRC
+TI  - QiMeng-Kernel
+UR  - https://github.com/QiMeng-IPRC/QiMeng-Kernel
+N1  - Published reference slots: ref-199
+ER  -
+
+TY  - ELEC
+ID  - f128_ref_200
+AU  - QiMeng IPRC
+TI  - QiMeng-MuPa
+UR  - https://github.com/QiMeng-IPRC/QiMeng-MuPa
+N1  - Published reference slots: ref-200
+ER  -
+
+TY  - ELEC
+ID  - f128_ref_201
+AU  - iEDA Project
+TI  - 项目规划
+TT  - Project plan
+LA  - zh
+UR  - https://ieda.oscc.cc/project/plan
+N1  - Published reference slots: ref-201
+ER  -
+
+TY  - ELEC
+ID  - f128_ref_202
+AU  - ECOS
+TI  - ECOS开源芯片
+TT  - ECOS open-source chips
+LA  - zh
+UR  - https://openecos.com
+N1  - Published reference slots: ref-202
+ER  -
+
+TY  - ELEC
+ID  - f128_ref_203
+AU  - 中国科学院大学
+TI  - 解壁伟
+TT  - Biwei Xie
+LA  - zh
+UR  - https://people.ucas.ac.cn/~biwei
+N1  - Published reference slots: ref-203
+ER  -
+
+TY  - ELEC
+ID  - f128_ref_204
+AU  - 一生一芯
+TI  - 项目概述
+TT  - Project overview
+LA  - zh
+UR  - https://ysyx.oscc.cc/project/intro.html
+N1  - Published reference slots: ref-204
+ER  -
+
+TY  - ELEC
+ID  - f128_ref_205
+AU  - 一生一芯
+TI  - 兴趣小组
+TT  - Special-interest groups
+LA  - zh
+UR  - https://ysyx.oscc.cc/sig
+N1  - Published reference slots: ref-205
+ER  -
+
+TY  - ELEC
+ID  - f128_ref_206
+AU  - iEDA Project
+TI  - 2024年第三届OSEDA研讨会征稿通知
+TT  - Call for Papers for the Third OSEDA Workshop, 2024
+LA  - zh
+UR  - https://ieda.oscc.cc/activities/conferences/notice/third-OSEDA-workshop-24_notice.html
+PY  - 2024
+DA  - 2024
+N1  - Published reference slots: ref-206
+ER  -
+
+TY  - ELEC
+ID  - f128_ref_207
+AU  - MediaTek–NTU Research Center
+TI  - 【演講公告】2026/8/25 邀請演講：Dr. Jack Wu吳昕益博士—AI輔助晶片設計：從雙LLM協作RTL生成到ARM Corstone FPGA快速驗證
+TT  - Invited talk: AI-Assisted Chip Design from Dual-LLM RTL Generation to Rapid FPGA Verification with ARM Corstone
+LA  - zh
+UR  - https://mtkntu.ntu.edu.tw/en/news/42
+PY  - 2026
+DA  - 2026/8/11
+N1  - Published reference slots: ref-207
+ER  -

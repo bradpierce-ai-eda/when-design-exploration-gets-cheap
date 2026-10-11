@@ -1,0 +1,27 @@
+{
+  "derivative_purpose": "AI discovery, comprehension, relevance matching, and citation of the canonical DOI",
+  "canonical_publication": {
+    "doi": "10.5281/zenodo.23256253",
+    "url": "https://doi.org/10.5281/zenodo.23256253",
+    "zenodo_record": "https://zenodo.org/records/23256253"
+  },
+  "sources": {
+    "final_docx": {
+      "filename": "F128-final-source.docx",
+      "sha256": "df62af7d2e9d8b097142c31ee4ec4d1d5563b142646311a540131216100de017"
+    },
+    "published_pdf": {
+      "filename": "paper.pdf",
+      "sha256": "8bf249abfb22647ec9a71340e0fc7b26931c6a392de45685c1e7a5e8dad41194",
+      "md5": "94213145dfd3de4849c254e0d43881f2"
+    }
+  },
+  "transform": {
+    "script": "scripts/build_derivative.py",
+    "text_source": "final DOCX",
+    "figure_source": "approved SVG relationships embedded in final DOCX",
+    "table_representation": "semantic HTML tables",
+    "reference_representation": "lossless published strings in 212 numbered reference slots, normalized into 216 distinct bibliographic works and 231 explicit slot-to-work links; reusable BibTeX, CSL JSON, and RIS exports are generated from bibliography.json"
+  },
+  "authority": "The Zenodo record and DOI are canonical. Repository files are discovery derivatives."
+}

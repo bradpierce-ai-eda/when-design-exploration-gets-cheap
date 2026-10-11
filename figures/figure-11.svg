@@ -1,0 +1,74 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="728" viewBox="0 0 1200 728" role="img" aria-labelledby="title desc">
+  <title id="title">One engineering loop, multiple institutional structures</title>
+  <desc id="desc">A four-stage engineering loop links propose and search, authoritative evaluation, evidence state and engineering memory, and next action. Seven peer institutional forms surround the loop.</desc>
+  <defs>
+    <marker id="arrow" markerWidth="12" markerHeight="12" refX="10" refY="6" orient="auto" markerUnits="strokeWidth">
+      <path d="M0,0 L12,6 L0,12 z" fill="#5D6973"/>
+    </marker>
+    <style>
+      .title { font-family: 'Noto Sans', Arial, Helvetica, sans-serif; font-weight: 700; font-size: 30px; fill: #17212B; }
+      .stage { font-family: 'Noto Sans', Arial, Helvetica, sans-serif; font-weight: 700; font-size: 18px; fill: #17212B; text-anchor: middle; }
+      .small { font-family: 'Noto Sans', Arial, Helvetica, sans-serif; font-weight: 700; font-size: 15px; fill: #17212B; text-anchor: middle; }
+      .label { font-family: 'Noto Sans', Arial, Helvetica, sans-serif; font-weight: 700; font-size: 17px; fill: #17212B; text-anchor: middle; }
+      .thesis { font-family: 'Noto Sans', Arial, Helvetica, sans-serif; font-weight: 700; font-size: 19px; fill: #B56B3C; text-anchor: middle; }
+      .rule { stroke: #AAB3BB; stroke-width: 2; }
+      .arrow { fill: none; stroke: #5D6973; stroke-width: 4; marker-end: url(#arrow); }
+    </style>
+  </defs>
+
+  <rect x="0" y="0" width="1200" height="728" fill="#FFFFFF"/>
+  <text class="title" x="70" y="62">One engineering loop, multiple institutional structures</text>
+  <line class="rule" x1="70" y1="82" x2="1130" y2="82"/>
+
+  <rect x="70" y="132" width="230" height="92" rx="13" fill="#EAF4FA" stroke="#2F6B8A" stroke-width="2"/>
+  <text class="stage" x="185" y="170">PROPOSE / SEARCH</text>
+  <text class="small" x="185" y="197">generate alternatives</text>
+
+  <rect x="350" y="132" width="230" height="92" rx="13" fill="#F7FAFC" stroke="#7B8794" stroke-width="2"/>
+  <text class="stage" x="465" y="170">AUTHORITATIVE</text>
+  <text class="stage" x="465" y="195">EVALUATION</text>
+
+  <rect x="630" y="132" width="230" height="92" rx="13" fill="#EDF5F0" stroke="#5E7E6E" stroke-width="2"/>
+  <text class="stage" x="745" y="163">EVIDENCE / STATE</text>
+  <text class="stage" x="745" y="190" style="font-size:15px">/ ENGINEERING MEMORY</text>
+
+  <rect x="910" y="132" width="220" height="92" rx="13" fill="#FFF1E8" stroke="#B56B3C" stroke-width="2"/>
+  <text class="stage" x="1020" y="170">NEXT ACTION</text>
+  <text class="small" x="1020" y="197">commit, refine, or stop</text>
+
+  <path class="arrow" d="M300 178 H342"/>
+  <path class="arrow" d="M580 178 H622"/>
+  <path class="arrow" d="M860 178 H902"/>
+  <path class="arrow" d="M1020 226 V264 H185 V233"/>
+
+  <text class="label" x="600" y="310">INSTITUTIONAL FORMS</text>
+
+  <rect x="70" y="340" width="250" height="70" rx="11" fill="#F7FAFC" stroke="#9AA7B3" stroke-width="2"/>
+  <text class="label" x="195" y="382">COMMERCIAL PLATFORM</text>
+
+  <rect x="340" y="340" width="250" height="70" rx="11" fill="#F7FAFC" stroke="#9AA7B3" stroke-width="2"/>
+  <text class="label" x="465" y="372">INTERNAL DESIGN</text>
+  <text class="label" x="465" y="394">INFRASTRUCTURE</text>
+
+  <rect x="610" y="340" width="250" height="70" rx="11" fill="#F7FAFC" stroke="#9AA7B3" stroke-width="2"/>
+  <text class="label" x="735" y="372">OPEN / SHARED</text>
+  <text class="label" x="735" y="394">INFRASTRUCTURE</text>
+
+  <rect x="880" y="340" width="250" height="70" rx="11" fill="#F7FAFC" stroke="#9AA7B3" stroke-width="2"/>
+  <text class="label" x="1005" y="372">PUBLIC RESEARCH</text>
+  <text class="label" x="1005" y="394">CAPABILITY</text>
+
+  <rect x="205" y="432" width="250" height="70" rx="11" fill="#F7FAFC" stroke="#9AA7B3" stroke-width="2"/>
+  <text class="label" x="330" y="463">UNIVERSITY–INDUSTRY</text>
+  <text class="label" x="330" y="485">NETWORK</text>
+
+  <rect x="475" y="432" width="250" height="70" rx="11" fill="#F7FAFC" stroke="#9AA7B3" stroke-width="2"/>
+  <text class="label" x="600" y="474">NATIONAL CAPABILITY</text>
+
+  <rect x="745" y="432" width="250" height="70" rx="11" fill="#F7FAFC" stroke="#9AA7B3" stroke-width="2"/>
+  <text class="label" x="870" y="474">INDEPENDENT PROVIDER</text>
+
+  <rect x="155" y="555" width="890" height="96" rx="14" fill="#FFF1E8" stroke="#B56B3C" stroke-width="2"/>
+  <text class="thesis" x="600" y="592">TECHNICAL CAPITAL ACCUMULATES WHERE</text>
+  <text class="thesis" x="600" y="624">EVALUATORS, EVIDENCE, ENGINEERING MEMORY, INTERFACES, AND MAINTENANCE ARE CONTROLLED</text>
+</svg>

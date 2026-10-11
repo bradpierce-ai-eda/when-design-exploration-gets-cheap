@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="500" viewBox="0 0 1400 500" role="img" aria-labelledby="fig09-title fig09-desc">
+<title id="fig09-title">From experiment history to reusable engineering skill</title>
+<desc id="fig09-desc">Evaluated engineering experience can become a reusable technical asset only when it is preserved together with the relevant design state, tool versions, constraints, decision authority, evidence, and assumptions. Whether that knowledge can transfer across organizations or produce durable business advantage remains unresolved.</desc>
+<rect width="1400" height="850" fill="#FFFFFF"/>
+<defs>
+<marker id="arrow" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto" markerUnits="strokeWidth"><path d="M0,0 L0,6 L9,3 z" fill="#5D6973"/></marker>
+<marker id="arrowblue" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto" markerUnits="strokeWidth"><path d="M0,0 L0,6 L9,3 z" fill="#2F6B8A"/></marker>
+<linearGradient id="fadeBlue" x1="0" y1="0" x2="0" y2="1"><stop offset="0%" stop-color="#EAF4FA" stop-opacity="0.9"/><stop offset="100%" stop-color="#EAF4FA" stop-opacity="0.15"/></linearGradient>
+</defs>
+<text x="70" y="62" font-family="'Noto Sans', Arial, Helvetica, sans-serif" font-size="34" font-weight="700" fill="#17212B">From experiment history to reusable engineering skill</text>
+<line x1="70" y1="82" x2="1330" y2="82" stroke="#AAB3BB" stroke-width="2"/>
+<rect x="55" y="145" width="145" height="110" rx="14" fill="#EAF4FA" stroke="#2F6B8A" stroke-width="2"/>
+<text x="127.5" y="193" font-family="'Noto Sans', Arial, Helvetica, sans-serif" font-size="17" font-weight="700" font-style="normal" fill="#17212B" text-anchor="middle">CANDIDATE</text>
+<line x1="205" y1="200" x2="217" y2="200" stroke="#5D6973" stroke-width="2.2" marker-end="url(#arrow)"/>
+<rect x="222" y="145" width="145" height="110" rx="14" fill="#EAF4FA" stroke="#2F6B8A" stroke-width="2"/>
+<text x="294.5" y="193" font-family="'Noto Sans', Arial, Helvetica, sans-serif" font-size="17" font-weight="700" font-style="normal" fill="#17212B" text-anchor="middle">EVALUATOR</text>
+<text x="294.5" y="221" font-family="'Noto Sans', Arial, Helvetica, sans-serif" font-size="17" font-weight="700" font-style="normal" fill="#17212B" text-anchor="middle">EVIDENCE</text>
+<line x1="372" y1="200" x2="384" y2="200" stroke="#5D6973" stroke-width="2.2" marker-end="url(#arrow)"/>
+<rect x="389" y="145" width="145" height="110" rx="14" fill="#EDF5F0" stroke="#5E7E6E" stroke-width="2"/>
+<text x="461.5" y="193" font-family="'Noto Sans', Arial, Helvetica, sans-serif" font-size="17" font-weight="700" font-style="normal" fill="#17212B" text-anchor="middle">ACCEPT /</text>
+<text x="461.5" y="221" font-family="'Noto Sans', Arial, Helvetica, sans-serif" font-size="17" font-weight="700" font-style="normal" fill="#17212B" text-anchor="middle">REJECT</text>
+<line x1="539" y1="200" x2="551" y2="200" stroke="#5D6973" stroke-width="2.2" marker-end="url(#arrow)"/>
+<rect x="556" y="145" width="145" height="110" rx="14" fill="#F7FAFC" stroke="#AAB3BB" stroke-width="2"/>
+<text x="628.5" y="193" font-family="'Noto Sans', Arial, Helvetica, sans-serif" font-size="17" font-weight="700" font-style="normal" fill="#17212B" text-anchor="middle">FAILURE</text>
+<text x="628.5" y="221" font-family="'Noto Sans', Arial, Helvetica, sans-serif" font-size="17" font-weight="700" font-style="normal" fill="#17212B" text-anchor="middle">REASON</text>
+<line x1="706" y1="200" x2="718" y2="200" stroke="#5D6973" stroke-width="2.2" marker-end="url(#arrow)"/>
+<rect x="723" y="145" width="145" height="110" rx="14" fill="#EAF4FA" stroke="#2F6B8A" stroke-width="2"/>
+<text x="795.5" y="193" font-family="'Noto Sans', Arial, Helvetica, sans-serif" font-size="17" font-weight="700" font-style="normal" fill="#17212B" text-anchor="middle">REUSABLE</text>
+<text x="795.5" y="221" font-family="'Noto Sans', Arial, Helvetica, sans-serif" font-size="17" font-weight="700" font-style="normal" fill="#17212B" text-anchor="middle">SKILL</text>
+<line x1="873" y1="200" x2="885" y2="200" stroke="#5D6973" stroke-width="2.2" marker-end="url(#arrow)"/>
+<rect x="890" y="145" width="145" height="110" rx="14" fill="#F7FAFC" stroke="#AAB3BB" stroke-width="2"/>
+<text x="962.5" y="193" font-family="'Noto Sans', Arial, Helvetica, sans-serif" font-size="17" font-weight="700" font-style="normal" fill="#17212B" text-anchor="middle">TRANSFER</text>
+<text x="962.5" y="221" font-family="'Noto Sans', Arial, Helvetica, sans-serif" font-size="17" font-weight="700" font-style="normal" fill="#17212B" text-anchor="middle">CONDITION</text>
+<line x1="1040" y1="200" x2="1052" y2="200" stroke="#5D6973" stroke-width="2.2" marker-end="url(#arrow)"/>
+<rect x="1057" y="145" width="145" height="110" rx="14" fill="#EAF4FA" stroke="#2F6B8A" stroke-width="2"/>
+<text x="1129.5" y="193" font-family="'Noto Sans', Arial, Helvetica, sans-serif" font-size="17" font-weight="700" font-style="normal" fill="#17212B" text-anchor="middle">LATER</text>
+<text x="1129.5" y="221" font-family="'Noto Sans', Arial, Helvetica, sans-serif" font-size="17" font-weight="700" font-style="normal" fill="#17212B" text-anchor="middle">PROJECT</text>
+<line x1="1207" y1="200" x2="1219" y2="200" stroke="#5D6973" stroke-width="2.2" marker-end="url(#arrow)"/>
+<rect x="1224" y="145" width="145" height="110" rx="14" fill="#EDF5F0" stroke="#5E7E6E" stroke-width="2"/>
+<text x="1296.5" y="193" font-family="'Noto Sans', Arial, Helvetica, sans-serif" font-size="17" font-weight="700" font-style="normal" fill="#17212B" text-anchor="middle">REQUALIFY</text>
+<rect x="220" y="305" width="960" height="170" rx="16" fill="#FFF1E8" stroke="#B56B3C" stroke-width="1.8"/>
+<text x="700" y="343" font-family="'Noto Sans', Arial, Helvetica, sans-serif" font-size="22" font-weight="800" font-style="normal" fill="#B56B3C" text-anchor="middle">MEMORY IS ONLY USEFUL IF THE CONTEXT TRAVELS WITH IT</text>
+<rect x="280" y="385" width="125" height="38" rx="19" fill="#EAF4FA" stroke="#5D6973" stroke-width="1.5"/>
+<text x="342.5" y="411" font-family="'Noto Sans', Arial, Helvetica, sans-serif" font-size="18" font-weight="600" font-style="normal" fill="#17212B" text-anchor="middle">state</text>
+<rect x="425" y="385" width="125" height="38" rx="19" fill="#EAF4FA" stroke="#5D6973" stroke-width="1.5"/>
+<text x="487.5" y="411" font-family="'Noto Sans', Arial, Helvetica, sans-serif" font-size="18" font-weight="600" font-style="normal" fill="#17212B" text-anchor="middle">tool / version</text>
+<rect x="570" y="385" width="125" height="38" rx="19" fill="#EAF4FA" stroke="#5D6973" stroke-width="1.5"/>
+<text x="632.5" y="411" font-family="'Noto Sans', Arial, Helvetica, sans-serif" font-size="18" font-weight="600" font-style="normal" fill="#17212B" text-anchor="middle">constraints</text>
+<rect x="715" y="385" width="125" height="38" rx="19" fill="#EAF4FA" stroke="#5D6973" stroke-width="1.5"/>
+<text x="777.5" y="411" font-family="'Noto Sans', Arial, Helvetica, sans-serif" font-size="18" font-weight="600" font-style="normal" fill="#17212B" text-anchor="middle">authority</text>
+<rect x="860" y="385" width="125" height="38" rx="19" fill="#EAF4FA" stroke="#5D6973" stroke-width="1.5"/>
+<text x="922.5" y="411" font-family="'Noto Sans', Arial, Helvetica, sans-serif" font-size="18" font-weight="600" font-style="normal" fill="#17212B" text-anchor="middle">evidence</text>
+<rect x="1005" y="385" width="125" height="38" rx="19" fill="#EAF4FA" stroke="#5D6973" stroke-width="1.5"/>
+<text x="1067.5" y="411" font-family="'Noto Sans', Arial, Helvetica, sans-serif" font-size="18" font-weight="600" font-style="normal" fill="#17212B" text-anchor="middle">assumptions</text>
+<text x="700" y="443" font-family="'Noto Sans', Arial, Helvetica, sans-serif" font-size="18" font-weight="600" font-style="normal" fill="#5D6973" text-anchor="middle">Transfer remains conditional; later projects require requalification.</text>
+</svg>

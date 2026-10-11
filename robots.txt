@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://bradpierce-ai-eda.github.io/when-design-exploration-gets-cheap/sitemap.xml

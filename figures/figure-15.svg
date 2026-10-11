@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="2048" height="1195" viewBox="0 0 2048 1195" role="img" aria-labelledby="fig15-title fig15-desc">
+<title id="fig15-title">Three different questions about the same engineering system</title>
+<desc id="fig15-desc">Control, dependence, and economic value can be distributed differently across the same system. A design organization can direct the workflow while relying on an external evaluator, with economic value distributed across several actors.</desc>
+<rect width="2048" height="1195" fill="#FCFBF8"/>
+<text x="98" y="92" font-family="'Noto Sans', Arial, Helvetica, sans-serif" font-size="49" font-weight="700" fill="#17212B">Three different questions about the same engineering system</text>
+<line x1="98" y1="139" x2="1950" y2="139" stroke="#AAB3BB" stroke-width="3"/>
+<rect x="716" y="174" width="616" height="72" rx="36" fill="#F7FAFC" stroke="#AAB3BB" stroke-width="2"/>
+<text x="1024" y="220" font-family="'Noto Sans', Arial, Helvetica, sans-serif" font-size="29" font-weight="700" fill="#5D6973" text-anchor="middle">Example distribution</text>
+
+<rect x="98" y="280" width="561" height="808" rx="22" fill="#EAF4FA" stroke="#2F6B8A" stroke-width="3"/>
+<rect x="706" y="280" width="561" height="808" rx="22" fill="#EDF5F0" stroke="#5E7E6E" stroke-width="3"/>
+<rect x="1314" y="280" width="561" height="808" rx="22" fill="#FFF1E8" stroke="#B56B3C" stroke-width="3"/>
+
+<text x="378.5" y="347" font-family="'Noto Sans', Arial, Helvetica, sans-serif" font-size="35" font-weight="800" fill="#2F6B8A" text-anchor="middle">CONTROL</text>
+<text x="986.5" y="347" font-family="'Noto Sans', Arial, Helvetica, sans-serif" font-size="35" font-weight="800" fill="#5E7E6E" text-anchor="middle">DEPENDENCE</text>
+<text x="1594.5" y="347" font-family="'Noto Sans', Arial, Helvetica, sans-serif" font-size="35" font-weight="800" fill="#B56B3C" text-anchor="middle">CAPTURE</text>
+<line x1="98" y1="380" x2="659" y2="380" stroke="#2F6B8A" stroke-width="2"/>
+<line x1="706" y1="380" x2="1267" y2="380" stroke="#5E7E6E" stroke-width="2"/>
+<line x1="1314" y1="380" x2="1875" y2="380" stroke="#B56B3C" stroke-width="2"/>
+
+<text x="378.5" y="452" font-family="'Noto Sans', Arial, Helvetica, sans-serif" font-size="27" font-weight="700" fill="#17212B" text-anchor="middle"><tspan x="378.5" dy="0">Who sets the rules and</tspan><tspan x="378.5" dy="36">authorizes commitment?</tspan></text>
+<text x="986.5" y="452" font-family="'Noto Sans', Arial, Helvetica, sans-serif" font-size="27" font-weight="700" fill="#17212B" text-anchor="middle"><tspan x="986.5" dy="0">Whose evaluator remains</tspan><tspan x="986.5" dy="36">necessary?</tspan></text>
+<text x="1594.5" y="452" font-family="'Noto Sans', Arial, Helvetica, sans-serif" font-size="27" font-weight="700" fill="#17212B" text-anchor="middle"><tspan x="1594.5" dy="0">Who captures the value</tspan><tspan x="1594.5" dy="36">created by the system?</tspan></text>
+
+<line x1="160" y1="570" x2="597" y2="570" stroke="#AAB3BB" stroke-width="2"/>
+<line x1="768" y1="570" x2="1205" y2="570" stroke="#AAB3BB" stroke-width="2"/>
+<line x1="1376" y1="570" x2="1813" y2="570" stroke="#AAB3BB" stroke-width="2"/>
+
+<circle cx="183" cy="665" r="9" fill="#2F6B8A"/><text x="213" y="675" font-family="'Noto Sans', Arial, Helvetica, sans-serif" font-size="29" font-weight="600" fill="#17212B">Customer</text>
+<circle cx="183" cy="744" r="9" fill="#2F6B8A"/><text x="213" y="754" font-family="'Noto Sans', Arial, Helvetica, sans-serif" font-size="29" font-weight="600" fill="#17212B">Orchestration layer</text>
+
+<circle cx="791" cy="665" r="9" fill="#5E7E6E"/><text x="821" y="675" font-family="'Noto Sans', Arial, Helvetica, sans-serif" font-size="29" font-weight="600" fill="#17212B">Evaluator supplier</text>
+
+<circle cx="1399" cy="665" r="9" fill="#B56B3C"/><text x="1429" y="675" font-family="'Noto Sans', Arial, Helvetica, sans-serif" font-size="29" font-weight="600" fill="#17212B">Customer</text>
+<circle cx="1399" cy="744" r="9" fill="#B56B3C"/><text x="1429" y="754" font-family="'Noto Sans', Arial, Helvetica, sans-serif" font-size="29" font-weight="600" fill="#17212B">Evaluator supplier</text>
+<circle cx="1399" cy="823" r="9" fill="#B56B3C"/><text x="1429" y="833" font-family="'Noto Sans', Arial, Helvetica, sans-serif" font-size="29" font-weight="600" fill="#17212B">Orchestration layer</text>
+</svg>

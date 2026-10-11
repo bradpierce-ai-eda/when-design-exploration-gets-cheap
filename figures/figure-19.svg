@@ -1,0 +1,82 @@
+<?xml version='1.0' encoding='utf-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="850" viewBox="0 0 1400 850" role="img" aria-labelledby="fig19-title fig19-desc">
+<title id="fig19-title">What would change the map?</title>
+<desc id="fig19-desc">Evidence can strengthen, challenge, or redirect the proposed architecture and market interpretation.</desc>
+<rect width="1400" height="850" fill="#FFFFFF" />
+<defs>
+<marker id="arrow" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto" markerUnits="strokeWidth"><path d="M0,0 L0,6 L9,3 z" fill="#5D6973" /></marker>
+<marker id="arrowblue" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto" markerUnits="strokeWidth"><path d="M0,0 L0,6 L9,3 z" fill="#2F6B8A" /></marker>
+<linearGradient id="fadeBlue" x1="0" y1="0" x2="0" y2="1"><stop offset="0%" stop-color="#EAF4FA" stop-opacity="0.9" /><stop offset="100%" stop-color="#EAF4FA" stop-opacity="0.15" /></linearGradient>
+</defs>
+<text x="70" y="62" font-family="'Noto Sans', Arial, Helvetica, sans-serif" font-size="34" font-weight="700" fill="#17212B">What would change the map?</text>
+<line x1="70" y1="82" x2="1330" y2="82" stroke="#AAB3BB" stroke-width="2" />
+<rect x="70" y="145" width="600" height="575" rx="18" fill="#EDF5F0" stroke="#5E7E6E" stroke-width="2" />
+<text x="370" y="187" font-family="'Noto Sans', Arial, Helvetica, sans-serif" font-size="23" font-weight="800" font-style="normal" fill="#5E7E6E" text-anchor="middle">WOULD STRENGTHEN THE MAP</text>
+<circle cx="105" cy="228" r="10" fill="#5E7E6E" stroke="#5E7E6E" stroke-width="1" />
+<text x="135" y="235" font-family="'Noto Sans', Arial, Helvetica, sans-serif" font-size="17" font-weight="600" fill="#17212B" text-anchor="start">
+<tspan x="135" dy="0">upstream gains survive serious downstream flows</tspan>
+</text>
+<circle cx="105" cy="294" r="10" fill="#5E7E6E" stroke="#5E7E6E" stroke-width="1" />
+<text x="135" y="301" font-family="'Noto Sans', Arial, Helvetica, sans-serif" font-size="17" font-weight="600" fill="#17212B" text-anchor="start">
+<tspan x="135" dy="0">machine-driven experiment volume rises in production</tspan>
+</text>
+<circle cx="105" cy="360" r="10" fill="#5E7E6E" stroke="#5E7E6E" stroke-width="1" />
+<text x="135" y="367" font-family="'Noto Sans', Arial, Helvetica, sans-serif" font-size="17" font-weight="600" fill="#17212B" text-anchor="start">
+<tspan x="135" dy="0">routing improves decision economics</tspan>
+</text>
+<circle cx="105" cy="426" r="10" fill="#5E7E6E" stroke="#5E7E6E" stroke-width="1" />
+<text x="135" y="433" font-family="'Noto Sans', Arial, Helvetica, sans-serif" font-size="17" font-weight="600" fill="#17212B" text-anchor="start">
+<tspan x="135" dy="0">higher-level representations gain adoption</tspan>
+</text>
+<circle cx="105" cy="492" r="10" fill="#5E7E6E" stroke="#5E7E6E" stroke-width="1" />
+<text x="135" y="499" font-family="'Noto Sans', Arial, Helvetica, sans-serif" font-size="17" font-weight="600" fill="#17212B" text-anchor="start">
+<tspan x="135" dy="0">skills transfer with manageable requalification</tspan>
+</text>
+<circle cx="105" cy="558" r="10" fill="#5E7E6E" stroke="#5E7E6E" stroke-width="1" />
+<text x="135" y="565" font-family="'Noto Sans', Arial, Helvetica, sans-serif" font-size="17" font-weight="600" fill="#17212B" text-anchor="start">
+<tspan x="135" dy="0">external layers gain repeat customers and scope</tspan>
+</text>
+<circle cx="105" cy="624" r="10" fill="#5E7E6E" stroke="#5E7E6E" stroke-width="1" />
+<text x="135" y="631" font-family="'Noto Sans', Arial, Helvetica, sans-serif" font-size="17" font-weight="600" fill="#17212B" text-anchor="start">
+<tspan x="135" dy="0">buyers pay for persistent state /</tspan><tspan x="135" dy="22">engineering memory / routing</tspan>
+</text>
+<rect x="730" y="145" width="600" height="575" rx="18" fill="#FFF1E8" stroke="#B56B3C" stroke-width="2" />
+<text x="1030" y="187" font-family="'Noto Sans', Arial, Helvetica, sans-serif" font-size="23" font-weight="800" font-style="normal" fill="#B56B3C" text-anchor="middle">WOULD WEAKEN OR REDIRECT IT</text>
+<circle cx="765" cy="228" r="10" fill="#B56B3C" stroke="#B56B3C" stroke-width="1" />
+<text x="795" y="235" font-family="'Noto Sans', Arial, Helvetica, sans-serif" font-size="17" font-weight="600" fill="#17212B" text-anchor="start">
+<tspan x="795" dy="0">authoritative downstream evaluation becomes equally</tspan>
+<tspan x="795" dy="21.25">cheap</tspan>
+</text>
+<circle cx="765" cy="280" r="10" fill="#B56B3C" stroke="#B56B3C" stroke-width="1" />
+<text x="795" y="287" font-family="'Noto Sans', Arial, Helvetica, sans-serif" font-size="17" font-weight="600" fill="#17212B" text-anchor="start">
+<tspan x="795" dy="0">downstream optimization erases most upstream gains</tspan>
+</text>
+<circle cx="765" cy="332" r="10" fill="#B56B3C" stroke="#B56B3C" stroke-width="1" />
+<text x="795" y="339" font-family="'Noto Sans', Arial, Helvetica, sans-serif" font-size="17" font-weight="600" fill="#17212B" text-anchor="start">
+<tspan x="795" dy="0">end-to-end learned systems displace major evaluators</tspan>
+</text>
+<circle cx="765" cy="384" r="10" fill="#B56B3C" stroke="#B56B3C" stroke-width="1" />
+<text x="795" y="391" font-family="'Noto Sans', Arial, Helvetica, sans-serif" font-size="17" font-weight="600" fill="#17212B" text-anchor="start">
+<tspan x="795" dy="0">matched automation erases agentic advantage</tspan>
+</text>
+<circle cx="765" cy="436" r="10" fill="#B56B3C" stroke="#B56B3C" stroke-width="1" />
+<text x="795" y="443" font-family="'Noto Sans', Arial, Helvetica, sans-serif" font-size="17" font-weight="600" fill="#17212B" text-anchor="start">
+<tspan x="795" dy="0">verification burden overwhelms candidate value</tspan>
+</text>
+<circle cx="765" cy="488" r="10" fill="#B56B3C" stroke="#B56B3C" stroke-width="1" />
+<text x="795" y="495" font-family="'Noto Sans', Arial, Helvetica, sans-serif" font-size="17" font-weight="600" fill="#17212B" text-anchor="start">
+<tspan x="795" dy="0">surrogate models lose accuracy on unfamiliar designs</tspan></text>
+<circle cx="765" cy="540" r="10" fill="#B56B3C" stroke="#B56B3C" stroke-width="1" />
+<text x="795" y="547" font-family="'Noto Sans', Arial, Helvetica, sans-serif" font-size="17" font-weight="600" fill="#17212B" text-anchor="start">
+<tspan x="795" dy="0">skills remain local</tspan></text>
+<circle cx="765" cy="592" r="10" fill="#B56B3C" stroke="#B56B3C" stroke-width="1" />
+<text x="795" y="599" font-family="'Noto Sans', Arial, Helvetica, sans-serif" font-size="17" font-weight="600" fill="#17212B" text-anchor="start">
+<tspan x="795" dy="0">customers internalize or incumbents bundle most value</tspan>
+</text>
+<circle cx="765" cy="644" r="10" fill="#B56B3C" stroke="#B56B3C" stroke-width="1" />
+<text x="795" y="651" font-family="'Noto Sans', Arial, Helvetica, sans-serif" font-size="17" font-weight="600" fill="#17212B" text-anchor="start">
+<tspan x="795" dy="0">compute / token / license cost erases labor savings</tspan>
+</text>
+<rect x="290" y="752" width="820" height="46" rx="10" fill="#FFFFFF" stroke="#AAB3BB" stroke-width="1.5" />
+<text x="700" y="782" font-family="'Noto Sans', Arial, Helvetica, sans-serif" font-size="18" font-weight="800" font-style="normal" fill="#17212B" text-anchor="middle">A testable map should say what evidence would change it.</text>
+</svg>

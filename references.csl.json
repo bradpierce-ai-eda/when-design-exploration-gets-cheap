@@ -1,0 +1,6361 @@
+[
+  {
+    "id": "f128_ref_001",
+    "type": "report",
+    "title": "AI-designed Chips Reach Scale with First 100 Commercial Tape-outs Using Synopsys Technology",
+    "URL": "https://investor.synopsys.com/news/news-details/2023/AI-designed-Chips-Reach-Scale-with-First-100-Commercial-Tape-outs-Using-Synopsys-Technology/default.aspx",
+    "author": [
+      {
+        "literal": "Synopsys"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2023,
+          2,
+          7
+        ]
+      ]
+    },
+    "note": "Published reference slots: ref-001. Published context: Synopsys. “AI-designed Chips Reach Scale with First 100 Commercial Tape-outs Using Synopsys Technology.” February 7, 2023. See also Synopsys 2024 investor materials, SEC Exhibit 99.1. Synopsys article; SEC filing."
+  },
+  {
+    "id": "f128_ref_001b",
+    "type": "report",
+    "title": "Synopsys Investor Day 2024",
+    "URL": "https://www.sec.gov/Archives/edgar/data/883241/000119312524072735/d785364dex991.htm",
+    "author": [
+      {
+        "literal": "Synopsys"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2024,
+          3,
+          20
+        ]
+      ]
+    },
+    "note": "Published reference slots: ref-001, ref-179. Published context: Synopsys. “AI-designed Chips Reach Scale with First 100 Commercial Tape-outs Using Synopsys Technology.” February 7, 2023. See also Synopsys 2024 investor materials, SEC Exhibit 99.1. Synopsys article; SEC filing."
+  },
+  {
+    "id": "f128_ref_002",
+    "type": "webpage",
+    "title": "Q1 2025 Earnings Conference Call Prepared Remarks",
+    "URL": "https://www.cadence.com/content/dam/cadence-www/global/en_US/documents/company/investors/1q25-earnings-conference-call-prepared-remarks.pdf",
+    "author": [
+      {
+        "literal": "Cadence Design Systems"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2025
+        ]
+      ]
+    },
+    "note": "Published reference slots: ref-002. Published context: Cadence Design Systems. Q1 2025 Earnings Conference Call Prepared Remarks, including Cerebrus adoption and tapeout data. Cadence PDF."
+  },
+  {
+    "id": "f128_ref_003",
+    "type": "webpage",
+    "title": "Cadence Unleashes ChipStack AI Super Agent, Pioneering a New Era of Agentic AI-Driven Chip Design",
+    "URL": "https://www.cadence.com/en_US/home/company/newsroom/press-releases/pr/2026/cadence-unleashes-chipstack-ai-super-agent-pioneering-a-new.html",
+    "author": [
+      {
+        "literal": "Cadence Design Systems"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2026
+        ]
+      ]
+    },
+    "note": "Published reference slots: ref-003. Published context: Cadence Design Systems. “Cadence Unleashes ChipStack AI Super Agent, Pioneering a New Era of Agentic AI-Driven Chip Design.” 2026. See also “Cadence and NVIDIA Expand Partnership to Reinvent Engineering.” Cadence article; Cadence article."
+  },
+  {
+    "id": "f128_ref_003b",
+    "type": "webpage",
+    "title": "Cadence and NVIDIA Expand Partnership to Reinvent Engineering for the Age of AI and Accelerated Computing",
+    "URL": "https://www.cadence.com/en_US/home/company/newsroom/press-releases/pr/2026/cadence-and-nvidia-expand-partnership-to-reinvent-engineering.html",
+    "author": [
+      {
+        "literal": "Cadence Design Systems"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          4,
+          15
+        ]
+      ]
+    },
+    "note": "Published reference slots: ref-003, ref-180. Published context: Cadence Design Systems. “Cadence Unleashes ChipStack AI Super Agent, Pioneering a New Era of Agentic AI-Driven Chip Design.” 2026. See also “Cadence and NVIDIA Expand Partnership to Reinvent Engineering.” Cadence article; Cadence article."
+  },
+  {
+    "id": "f128_ref_004",
+    "type": "webpage",
+    "title": "Cadence and NVIDIA Unveil Accelerated Engineering Solutions",
+    "URL": "https://www.cadence.com/en_US/home/company/newsroom/press-releases/pr/2026/cadence-and-nvidia-unveil-accelerated-engineering-solutions.html",
+    "author": [
+      {
+        "literal": "Cadence Design Systems and NVIDIA"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2026
+        ]
+      ]
+    },
+    "note": "Published reference slots: ref-004. Published context: Cadence Design Systems and NVIDIA. “Cadence and NVIDIA Unveil Accelerated Engineering Solutions.” 2026. Cadence article."
+  },
+  {
+    "id": "f128_ref_005",
+    "type": "webpage",
+    "title": "Staff CAD Engineer, Silicon Design Environment, Google Cloud",
+    "URL": "https://www.google.com/about/careers/applications/jobs/results/127539175241982662-staff-cad-engineer-silicon-design-environment-google-cloud?page=107",
+    "author": [
+      {
+        "literal": "Google Careers"
+      }
+    ],
+    "accessed": {
+      "date-parts": [
+        [
+          2026,
+          10,
+          5
+        ]
+      ]
+    },
+    "note": "Published reference slots: ref-005. Published context: Google Careers. “Staff CAD Engineer, Silicon Design Environment, Google Cloud.” Role 127539175241982662. Google Careers posting."
+  },
+  {
+    "id": "f128_ref_006",
+    "type": "webpage",
+    "title": "Newsroom",
+    "URL": "https://chipagents.ai/newsroom",
+    "author": [
+      {
+        "literal": "ChipAgents"
+      }
+    ],
+    "accessed": {
+      "date-parts": [
+        [
+          2026,
+          10,
+          6
+        ]
+      ]
+    },
+    "note": "Published reference slots: ref-006. Published context: ChipAgents. “Newsroom.” For named deployments, see [145]–[153]. ChipAgents article."
+  },
+  {
+    "id": "f128_ref_007",
+    "type": "webpage",
+    "title": "반도체 설계 검증 자동화하는 AI 에이전트 기술 개발",
+    "language": "ko",
+    "URL": "https://www.snu.ac.kr/research/highlights?bbsidx=173045&md=v",
+    "author": [
+      {
+        "literal": "서울대학교"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          7,
+          21
+        ]
+      ]
+    },
+    "note": "English title: Development of AI-Agent Technology to Automate Semiconductor Design Verification. Published reference slots: ref-007. Published context: 서울대학교. “반도체 설계 검증 자동화하는 AI 에이전트 기술 개발” (Development of AI-Agent Technology to Automate Semiconductor Design Verification). July 21, 2026. Seoul National University article."
+  },
+  {
+    "id": "f128_ref_008",
+    "type": "report",
+    "title": "Artifact for Artificial Incorrectness: SMT and LLMs in Hardware Synthesis",
+    "publisher": "Zenodo",
+    "DOI": "10.5281/zenodo.19326189",
+    "URL": "https://doi.org/10.5281/zenodo.19326189",
+    "author": [
+      {
+        "family": "Wang",
+        "given": "Edward"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2026
+        ]
+      ]
+    },
+    "note": "Published reference slots: ref-008. Published context: Edward Wang. “Artifact for Artificial Incorrectness: SMT and LLMs in Hardware Synthesis.” Zenodo record 19326189, March 30, 2026; modified May 5, 2026. DOI 10.5281/zenodo.19326189."
+  },
+  {
+    "id": "f128_ref_009",
+    "type": "article-journal",
+    "title": "Are We There Yet? A Study on the State of High-Level Synthesis",
+    "container-title": "IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems",
+    "volume": "38",
+    "issue": "5",
+    "page": "898-911",
+    "publisher": "Institute of Electrical and Electronics Engineers (IEEE)",
+    "DOI": "10.1109/tcad.2018.2834439",
+    "URL": "https://doi.org/10.1109/tcad.2018.2834439",
+    "author": [
+      {
+        "literal": "Sakari Lahti"
+      },
+      {
+        "literal": "Panu Sjövall"
+      },
+      {
+        "literal": "Jarno Vanne"
+      },
+      {
+        "literal": "Timo D. Hämäläinen"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2019,
+          5
+        ]
+      ]
+    },
+    "note": "Published reference slots: ref-009. Published context: Sakari Lahti, Panu Sjövall, Jarno Vanne, and Timo D. Hämäläinen. “Are We There Yet? A Study on the State of High-level Synthesis.” IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems 38(5), 2019. DOI 10.1109/TCAD.2018.2834439."
+  },
+  {
+    "id": "f128_ref_010",
+    "type": "software",
+    "title": "Trace2Skill: Verifier-Guided Skill Evolution for Long-Context EDA Agents (MLCAD 2026 Artifact)",
+    "publisher": "Zenodo",
+    "language": "en",
+    "DOI": "10.5281/zenodo.21513682",
+    "URL": "https://doi.org/10.5281/zenodo.21513682",
+    "author": [
+      {
+        "family": "Du",
+        "given": "Zijian"
+      },
+      {
+        "family": "Pinckney",
+        "given": "Nathaniel"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2026
+        ]
+      ]
+    },
+    "note": "Published reference slots: ref-010. Published context: Zijian Du and Nathaniel Pinckney. “Trace2Skill: Verifier-Guided Skill Evolution for Long-Context EDA Agents (MLCAD 2026 Artifact).” Zenodo record 21513682, July 23, 2026. DOI 10.5281/zenodo.21513682."
+  },
+  {
+    "id": "f128_ref_011",
+    "type": "paper-conference",
+    "title": "FedEDA: Federated Learning Framework for Privacy-Preserving Machine Learning in EDA",
+    "container-title": "2025 62nd ACM/IEEE Design Automation Conference (DAC)",
+    "page": "1-7",
+    "publisher": "IEEE",
+    "DOI": "10.1109/dac63849.2025.11132983",
+    "URL": "https://doi.org/10.1109/dac63849.2025.11132983",
+    "author": [
+      {
+        "family": "Kim",
+        "given": "Joonseok"
+      },
+      {
+        "family": "Kim",
+        "given": "Donggyu"
+      },
+      {
+        "family": "Park",
+        "given": "Seonghyeon"
+      },
+      {
+        "family": "Kang",
+        "given": "Seokhyeong"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2025,
+          6,
+          22
+        ]
+      ]
+    },
+    "note": "Published reference slots: ref-011. Published context: JoonSeok Kim, Donggyu Kim, Seonghyeon Park, and Seokhyeon Kang. “FedEDA: Federated Learning Framework for Privacy-Preserving Machine Learning in EDA.” 2025 62nd ACM/IEEE Design Automation Conference (DAC), 2025. DOI 10.1109/DAC63849.2025.11132983."
+  },
+  {
+    "id": "f128_ref_012",
+    "type": "webpage",
+    "title": "FlexEDA",
+    "URL": "https://www.synopsys.com/blogs/chip-design/what-is-flexeda.html",
+    "author": [
+      {
+        "literal": "Synopsys"
+      }
+    ],
+    "note": "Published reference slots: ref-012. Published context: Synopsys. FlexEDA and Synopsys Cloud usage-metering materials. Synopsys page; Synopsys article."
+  },
+  {
+    "id": "f128_ref_012b",
+    "type": "webpage",
+    "title": "Synopsys Cloud",
+    "URL": "https://www.synopsys.com/cloud/platform.html",
+    "author": [
+      {
+        "literal": "Synopsys"
+      }
+    ],
+    "note": "Published reference slots: ref-012. Published context: Synopsys. FlexEDA and Synopsys Cloud usage-metering materials. Synopsys page; Synopsys article."
+  },
+  {
+    "id": "f128_ref_013",
+    "type": "webpage",
+    "title": "SoC PLANNER: A New Generation of Automated SoC Design Exploration Managing Cost-Effectiveness and Sustainability",
+    "URL": "https://about.defactotech.com/news/506-soc-planner-a-new-generation-of-automated-soc-design-exploration-managing-cost-effectiveness-and-sustainability",
+    "author": [
+      {
+        "literal": "Defacto Technologies"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          9,
+          8
+        ]
+      ]
+    },
+    "note": "Published reference slots: ref-013. Published context: Defacto Technologies. “SoC PLANNER: A New Generation of Automated SoC Design Exploration Managing Cost-Effectiveness and Sustainability.” September 8, 2026. Defacto article."
+  },
+  {
+    "id": "f128_ref_014",
+    "type": "webpage",
+    "title": "AIによるAIのためのAI回路設計自動化技術",
+    "language": "ja",
+    "URL": "https://www.jst.go.jp/program/edge-ai-semicon/files/project/JPMJES2514_kosuge.pdf",
+    "author": [
+      {
+        "literal": "Japan Science and Technology Agency"
+      }
+    ],
+    "note": "English title: AI Circuit-Design Automation Technology by AI and for AI. Published reference slots: ref-014. Published context: Japan Science and Technology Agency. “AIによるAIのためのAI回路設計自動化技術” (AI Circuit-Design Automation Technology by AI and for AI). JST PDF."
+  },
+  {
+    "id": "f128_ref_015",
+    "type": "webpage",
+    "title": "Self-Verifying EDA AI Agents",
+    "URL": "https://blogs.sw.siemens.com/cicv/2026/07/29/self-verifying-eda-ai-agents",
+    "author": [
+      {
+        "literal": "Siemens EDA"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          7,
+          29
+        ]
+      ]
+    },
+    "note": "Published reference slots: ref-015. Published context: Siemens EDA. “Self-Verifying EDA AI Agents.” July 29, 2026. Siemens page."
+  },
+  {
+    "id": "f128_ref_016",
+    "type": "webpage",
+    "title": "iEDA软件框架",
+    "language": "zh",
+    "URL": "https://ieda.oscc.cc/tools/ieda-platform/iEDA-design-framework.html",
+    "author": [
+      {
+        "literal": "iEDA Project"
+      }
+    ],
+    "accessed": {
+      "date-parts": [
+        [
+          2026,
+          10,
+          6
+        ]
+      ]
+    },
+    "note": "English title: iEDA software framework. Published reference slots: ref-016. Published context: iEDA Project. “iEDA软件框架” (iEDA software framework). iEDA page."
+  },
+  {
+    "id": "f128_ref_017",
+    "type": "manuscript",
+    "title": "Survey and Benchmarking of Large Language Models for RTL Code Generation: Techniques and Open Challenges",
+    "publisher": "MDPI AG",
+    "DOI": "10.20944/preprints202509.1681.v1",
+    "URL": "https://doi.org/10.20944/preprints202509.1681.v1",
+    "author": [
+      {
+        "family": "Ravindran",
+        "given": "Arun"
+      },
+      {
+        "family": "Patra",
+        "given": "Aditya"
+      },
+      {
+        "family": "Babaey",
+        "given": "Vahid"
+      },
+      {
+        "family": "Purini",
+        "given": "Suresh"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2025,
+          9,
+          19
+        ]
+      ]
+    },
+    "note": "Published reference slots: ref-017. Published context: Arun Ravindran, Aditya Patra, Vahid Babaey, and Suresh Purini. “Survey and Benchmarking of Large Language Models for RTL Code Generation: Techniques and Open Challenges.” Preprints.org, 2025. DOI 10.20944/preprints202509.1681.v1."
+  },
+  {
+    "id": "f128_ref_018",
+    "type": "webpage",
+    "title": "CAD Engineer - Signoff Infrastructure",
+    "URL": "https://jobs.apple.com/en-us/details/200660225-0157/cad-engineer-signoff-infrastructure",
+    "author": [
+      {
+        "literal": "Apple"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          4,
+          27
+        ]
+      ]
+    },
+    "accessed": {
+      "date-parts": [
+        [
+          2026,
+          10,
+          5
+        ]
+      ]
+    },
+    "note": "Published reference slots: ref-018. Published context: Apple. “CAD Engineer - Signoff Infrastructure.” Role 200660225-0157, posted April 27, 2026. Apple Careers posting."
+  },
+  {
+    "id": "f128_ref_019",
+    "type": "article-journal",
+    "title": "Multi-Fidelity Surrogate Models for Accelerated Multi-Objective Analog Circuit Design and Optimization",
+    "container-title": "Electronics",
+    "volume": "15",
+    "issue": "1",
+    "page": "105",
+    "publisher": "MDPI AG",
+    "language": "en",
+    "DOI": "10.3390/electronics15010105",
+    "URL": "https://doi.org/10.3390/electronics15010105",
+    "author": [
+      {
+        "family": "Cornetta",
+        "given": "Gianluca"
+      },
+      {
+        "family": "Touhafi",
+        "given": "Abdellah"
+      },
+      {
+        "family": "Contreras",
+        "given": "Jorge"
+      },
+      {
+        "family": "Zaragoza",
+        "given": "Alberto"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2025,
+          12,
+          25
+        ]
+      ]
+    },
+    "note": "Published reference slots: ref-019. Published context: Gianluca Cornetta, Abdellah Touhafi, Jorge Contreras, and Alberto Zaragoza. “Multi-Fidelity Surrogate Models for Accelerated Multi-Objective Analog Circuit Design and Optimization.” Electronics 15, no. 1 (2026): article 105. DOI 10.3390/electronics15010105."
+  },
+  {
+    "id": "f128_ref_020",
+    "type": "manuscript",
+    "title": "Dr. RTL: Autonomous Agentic RTL Optimization through Tool-Grounded Self-Improvement",
+    "publisher": "arXiv",
+    "DOI": "10.48550/arxiv.2604.14989",
+    "URL": "https://doi.org/10.48550/arxiv.2604.14989",
+    "author": [
+      {
+        "family": "Fang",
+        "given": "Wenji"
+      },
+      {
+        "family": "Lu",
+        "given": "Yao"
+      },
+      {
+        "family": "Liu",
+        "given": "Shang"
+      },
+      {
+        "family": "Wang",
+        "given": "Jing"
+      },
+      {
+        "family": "Guo",
+        "given": "Ziyan"
+      },
+      {
+        "family": "He",
+        "given": "Junxian"
+      },
+      {
+        "family": "Tu",
+        "given": "Fengbin"
+      },
+      {
+        "family": "Xie",
+        "given": "Zhiyao"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2026
+        ]
+      ]
+    },
+    "note": "Published reference slots: ref-020. Published context: Wenji Fang, Yao Lu, Shang Liu, Jing Wang, Ziyan Guo, Junxian He, Fengbin Tu, and Zhiyao Xie. “Dr. RTL: Autonomous Agentic RTL Optimization through Tool-Grounded Self-Improvement.” arXiv:2604.14989, 2026. DOI 10.48550/arXiv.2604.14989."
+  },
+  {
+    "id": "f128_ref_021",
+    "type": "webpage",
+    "title": "Token Costs Are Becoming The New EDA Budget Battle",
+    "URL": "https://semiengineering.com/token-costs-are-becoming-the-new-eda-budget-battle",
+    "author": [
+      {
+        "literal": "Liz Allan"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          9,
+          9
+        ]
+      ]
+    },
+    "note": "Published reference slots: ref-021. Published context: Liz Allan. “Token Costs Are Becoming The New EDA Budget Battle.” Semiconductor Engineering, September 9, 2026. Semiconductor Engineering page."
+  },
+  {
+    "id": "f128_ref_022",
+    "type": "paper-conference",
+    "title": "Managing Multiple Sources of Epistemic Uncertainty in Engineering Decision Making",
+    "container-title": "SAE Technical Paper Series",
+    "volume": "1",
+    "page": "2007-01-1481",
+    "publisher": "SAE International",
+    "DOI": "10.4271/2007-01-1481",
+    "URL": "https://doi.org/10.4271/2007-01-1481",
+    "author": [
+      {
+        "family": "Schlosser",
+        "given": "Jeffrey"
+      },
+      {
+        "family": "Paredis",
+        "given": "Christiaan J. J."
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2007,
+          4,
+          16
+        ]
+      ]
+    },
+    "note": "Published reference slots: ref-022. Published context: J. Schlosser and C. J. J. Paredis. “Managing Multiple Sources of Epistemic Uncertainty in Engineering Decision Making.” SAE 2007-01-1481. DOI 10.4271/2007-01-1481. See also S. C. Thompson and C. J. J. Paredis, “An Investigation Into the Decision Analysis of Design Process Decisions,” Journal of Mechanical Design 132(12), 2010, DOI 10.1115/1.4002969; and Ming et al., “A Performance Based Method for Information Acquisition in Engineering Design under Multi-Parameter Uncertainty,” Information Sciences 546 (2021), DOI 10.1016/j.ins.2020.09.034."
+  },
+  {
+    "id": "f128_ref_022b",
+    "type": "article-journal",
+    "title": "An Investigation Into the Decision Analysis of Design Process Decisions",
+    "container-title": "Journal of Mechanical Design",
+    "volume": "132",
+    "issue": "12",
+    "page": "121009",
+    "publisher": "ASME International",
+    "language": "en",
+    "DOI": "10.1115/1.4002969",
+    "URL": "https://doi.org/10.1115/1.4002969",
+    "author": [
+      {
+        "family": "Thompson",
+        "given": "Stephanie C."
+      },
+      {
+        "family": "Paredis",
+        "given": "Christiaan J. J."
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2010,
+          12,
+          1
+        ]
+      ]
+    },
+    "note": "Published reference slots: ref-022, ref-188. Published context: J. Schlosser and C. J. J. Paredis. “Managing Multiple Sources of Epistemic Uncertainty in Engineering Decision Making.” SAE 2007-01-1481. DOI 10.4271/2007-01-1481. See also S. C. Thompson and C. J. J. Paredis, “An Investigation Into the Decision Analysis of Design Process Decisions,” Journal of Mechanical Design 132(12), 2010, DOI 10.1115/1.4002969; and Ming et al., “A Performance Based Method for Information Acquisition in Engineering Design under Multi-Parameter Uncertainty,” Information Sciences 546 (2021), DOI 10.1016/j.ins.2020.09.034."
+  },
+  {
+    "id": "f128_ref_022c",
+    "type": "article-journal",
+    "title": "A performance based method for information acquisition in engineering design under multi-parameter uncertainty",
+    "container-title": "Information Sciences",
+    "volume": "546",
+    "page": "1186-1207",
+    "publisher": "Elsevier BV",
+    "language": "en",
+    "DOI": "10.1016/j.ins.2020.09.034",
+    "URL": "https://doi.org/10.1016/j.ins.2020.09.034",
+    "author": [
+      {
+        "family": "Ming",
+        "given": "Zhenjun"
+      },
+      {
+        "family": "Balu Nellippallil",
+        "given": "Anand"
+      },
+      {
+        "family": "Wang",
+        "given": "Guoxin"
+      },
+      {
+        "family": "Yan",
+        "given": "Yan"
+      },
+      {
+        "family": "Allen",
+        "given": "Janet K."
+      },
+      {
+        "family": "Mistree",
+        "given": "Farrokh"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2021,
+          2
+        ]
+      ]
+    },
+    "note": "Published reference slots: ref-022, ref-189. Published context: J. Schlosser and C. J. J. Paredis. “Managing Multiple Sources of Epistemic Uncertainty in Engineering Decision Making.” SAE 2007-01-1481. DOI 10.4271/2007-01-1481. See also S. C. Thompson and C. J. J. Paredis, “An Investigation Into the Decision Analysis of Design Process Decisions,” Journal of Mechanical Design 132(12), 2010, DOI 10.1115/1.4002969; and Ming et al., “A Performance Based Method for Information Acquisition in Engineering Design under Multi-Parameter Uncertainty,” Information Sciences 546 (2021), DOI 10.1016/j.ins.2020.09.034."
+  },
+  {
+    "id": "f128_ref_023",
+    "type": "article-journal",
+    "title": "Multi-Fidelity Methods for Optimization: A Survey",
+    "container-title": "ACM Computing Surveys",
+    "volume": "58",
+    "issue": "12",
+    "page": "1-38",
+    "publisher": "Association for Computing Machinery (ACM)",
+    "language": "en",
+    "DOI": "10.1145/3801959",
+    "URL": "https://doi.org/10.1145/3801959",
+    "author": [
+      {
+        "family": "Li",
+        "given": "Ke"
+      },
+      {
+        "family": "Li",
+        "given": "Fan"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          9,
+          30
+        ]
+      ]
+    },
+    "note": "Published reference slots: ref-023. Published context: Ke Li and Fan Li. “Multi-Fidelity Methods for Optimization: A Survey.” ACM Computing Surveys 58(12), 2026. DOI 10.1145/3801959."
+  },
+  {
+    "id": "f128_ref_024",
+    "type": "book",
+    "title": "Do the Right Thing: Studies in Limited Rationality",
+    "publisher": "MIT Press",
+    "URL": "https://mitpress.mit.edu/9780262513821/do-the-right-thing",
+    "author": [
+      {
+        "literal": "Stuart J. Russell"
+      },
+      {
+        "literal": "Eric Wefald"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          1991
+        ]
+      ]
+    },
+    "note": "Published reference slots: ref-024. Published context: Stuart J. Russell and Eric Wefald. Do the Right Thing: Studies in Limited Rationality. MIT Press, 1991. ISBN 9780262181440. Publisher page."
+  },
+  {
+    "id": "f128_ref_025",
+    "type": "standard",
+    "title": "Assessing Credibility of Computational Modeling through Verification and Validation: Application to Medical Devices",
+    "URL": "https://www.asme.org/codes-standards/publications-information/verification-validation-uncertainty",
+    "author": [
+      {
+        "literal": "ASME V&V 40-2018"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2018
+        ]
+      ]
+    },
+    "note": "Published reference slots: ref-025. Published context: ASME V&V 40-2018. Assessing Credibility of Computational Modeling through Verification and Validation: Application to Medical Devices. American Society of Mechanical Engineers, 2018. Standards page."
+  },
+  {
+    "id": "f128_ref_026",
+    "type": "webpage",
+    "title": "ASIC Verification and Debug Automation",
+    "URL": "https://www.bronco.ai",
+    "author": [
+      {
+        "literal": "Bronco AI"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2025
+        ]
+      ]
+    },
+    "note": "Published reference slots: ref-026. Published context: Bronco AI. “ASIC Verification and Debug Automation.” See also Jesse Allen, “EDA Startups At DAC 2025.” Bronco AI page; Semiconductor Engineering page."
+  },
+  {
+    "id": "f128_ref_026b",
+    "type": "webpage",
+    "title": "EDA Startups At DAC 2025",
+    "URL": "https://semiengineering.com/eda-startups-at-dac-2025",
+    "author": [
+      {
+        "literal": "Jesse Allen"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2025,
+          7,
+          9
+        ]
+      ]
+    },
+    "note": "Published reference slots: ref-026, ref-031, ref-037, ref-190. Published context: Bronco AI. “ASIC Verification and Debug Automation.” See also Jesse Allen, “EDA Startups At DAC 2025.” Bronco AI page; Semiconductor Engineering page."
+  },
+  {
+    "id": "f128_ref_027",
+    "type": "webpage",
+    "title": "High-level, multi-abstraction hardware-design platform and AI advisor",
+    "URL": "https://www.rise-da.com/products",
+    "author": [
+      {
+        "literal": "Rise Design Automation"
+      }
+    ],
+    "note": "Published reference slots: ref-027. Published context: Rise Design Automation. High-level, multi-abstraction hardware-design platform and AI advisor. RISE Design Automation page; RISE Design Automation page."
+  },
+  {
+    "id": "f128_ref_028",
+    "type": "webpage",
+    "title": "Agentic design-automation platform and company announcement",
+    "URL": "https://agentrys.ai/news/agentrys-raises-24-5-million",
+    "author": [
+      {
+        "literal": "Agentrys"
+      }
+    ],
+    "note": "Published reference slots: ref-028. Published context: Agentrys. Agentic design-automation platform and company announcement. Agentrys article."
+  },
+  {
+    "id": "f128_ref_029",
+    "type": "webpage",
+    "title": "AI Agents for Chip Design & EDA Automation",
+    "URL": "https://www.chipmind.ai",
+    "author": [
+      {
+        "literal": "Chipmind"
+      }
+    ],
+    "note": "Published reference slots: ref-029. Published context: Chipmind. “AI Agents for Chip Design & EDA Automation.” Chipmind page."
+  },
+  {
+    "id": "f128_ref_030",
+    "type": "webpage",
+    "title": "Siemens to acquire Defacto Technologies to complement its EDA portfolio with automated SoC design creation",
+    "URL": "https://news.siemens.com/de-de/siemens-to-acquire-defacto-technologies",
+    "author": [
+      {
+        "literal": "Siemens"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          7,
+          21
+        ]
+      ]
+    },
+    "note": "Published reference slots: ref-030. Published context: Siemens. “Siemens to acquire Defacto Technologies to complement its EDA portfolio with automated SoC design creation.” July 21, 2026. Siemens page."
+  },
+  {
+    "id": "f128_ref_031",
+    "type": "webpage",
+    "title": "Programmatic Chip-Design Project and Workflow State",
+    "URL": "https://www.dsmpro.com",
+    "author": [
+      {
+        "literal": "DSM Pro Engineering"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2025
+        ]
+      ]
+    },
+    "note": "Published reference slots: ref-031. Published context: DSM Pro Engineering. “Programmatic Chip-Design Project and Workflow State.” See also Jesse Allen, “EDA Startups At DAC 2025.” DSM Pro page; Semiconductor Engineering page."
+  },
+  {
+    "id": "f128_ref_032",
+    "type": "webpage",
+    "title": "Innova",
+    "URL": "https://www.linksium.fr/projets/innova",
+    "author": [
+      {
+        "literal": "Linksium"
+      }
+    ],
+    "note": "Published reference slots: ref-032. Published context: Linksium. “Innova” project profile, machine-addressable EDA project and flow management. Linksium page."
+  },
+  {
+    "id": "f128_ref_033",
+    "type": "webpage",
+    "title": "AI-assisted analog microchip design and physical-design automation",
+    "URL": "https://www.astrus.ai",
+    "author": [
+      {
+        "literal": "Astrus"
+      }
+    ],
+    "note": "Published reference slots: ref-033. Published context: Astrus. AI-assisted analog microchip design and physical-design automation. Astrus page."
+  },
+  {
+    "id": "f128_ref_034",
+    "type": "webpage",
+    "title": "[인터뷰] ‘AI 기술로 반도체 개발 프로세스 혁신’_하이개라지 1기 알세미를 가다",
+    "language": "ko",
+    "URL": "https://news.skhynix.co.kr/with-ai-technology",
+    "author": [
+      {
+        "literal": "SK hynix Newsroom"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2021,
+          8,
+          19
+        ]
+      ]
+    },
+    "note": "English title: [Interview] “Innovating the Semiconductor Development Process with AI Technology”: Visiting Alsemy, the First HiGarage Cohort. Published reference slots: ref-034. Published context: SK hynix Newsroom. “[인터뷰] ‘AI 기술로 반도체 개발 프로세스 혁신’_하이개라지 1기 알세미를 가다” ([Interview] “Innovating the Semiconductor Development Process with AI Technology”: Visiting Alsemy, the First HiGarage Cohort). August 19, 2021. SK hynix page."
+  },
+  {
+    "id": "f128_ref_035",
+    "type": "webpage",
+    "title": "Semiconductor Chip Design Solution",
+    "URL": "https://www.goodi4u.com",
+    "author": [
+      {
+        "literal": "Good Intelligence"
+      }
+    ],
+    "accessed": {
+      "date-parts": [
+        [
+          2026,
+          10,
+          6
+        ]
+      ]
+    },
+    "note": "Published reference slots: ref-035. Published context: Good Intelligence. “Semiconductor Chip Design Solution.” Good Intelligence page."
+  },
+  {
+    "id": "f128_ref_036",
+    "type": "webpage",
+    "title": "Google XLS",
+    "URL": "https://google.github.io/xls",
+    "author": [
+      {
+        "literal": "Google XLS"
+      }
+    ],
+    "note": "Published reference slots: ref-036. Published context: Official structured-hardware design documentation: Google XLS; Chisel; SpinalHDL; and Amaranth HDL. XLS page; Chisel documentation; SpinalHDL page; Amaranth HDL documentation."
+  },
+  {
+    "id": "f128_ref_036b",
+    "type": "webpage",
+    "title": "Chisel Documentation",
+    "URL": "https://www.chisel-lang.org/docs",
+    "author": [
+      {
+        "literal": "Chisel"
+      }
+    ],
+    "note": "Published reference slots: ref-036, ref-193. Published context: Official structured-hardware design documentation: Google XLS; Chisel; SpinalHDL; and Amaranth HDL. XLS page; Chisel documentation; SpinalHDL page; Amaranth HDL documentation."
+  },
+  {
+    "id": "f128_ref_036c",
+    "type": "webpage",
+    "title": "SpinalHDL Documentation",
+    "URL": "https://spinalhdl.github.io/SpinalDoc-RTD/master",
+    "author": [
+      {
+        "literal": "SpinalHDL"
+      }
+    ],
+    "note": "Published reference slots: ref-036, ref-194. Published context: Official structured-hardware design documentation: Google XLS; Chisel; SpinalHDL; and Amaranth HDL. XLS page; Chisel documentation; SpinalHDL page; Amaranth HDL documentation."
+  },
+  {
+    "id": "f128_ref_036d",
+    "type": "webpage",
+    "title": "Amaranth HDL Documentation",
+    "URL": "https://amaranth-lang.org/docs/amaranth/latest",
+    "author": [
+      {
+        "literal": "Amaranth HDL"
+      }
+    ],
+    "note": "Published reference slots: ref-036, ref-195. Published context: Official structured-hardware design documentation: Google XLS; Chisel; SpinalHDL; and Amaranth HDL. XLS page; Chisel documentation; SpinalHDL page; Amaranth HDL documentation."
+  },
+  {
+    "id": "f128_ref_037",
+    "type": "webpage",
+    "title": "SoC Design and Generation Tooling",
+    "URL": "https://itdasemi.com",
+    "author": [
+      {
+        "literal": "ITDA Semiconductor"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2025
+        ]
+      ]
+    },
+    "note": "Published reference slots: ref-037. Published context: ITDA Semiconductor. “SoC Design and Generation Tooling.” See also Jesse Allen, “EDA Startups At DAC 2025.” ITDA Semiconductor page; Semiconductor Engineering page."
+  },
+  {
+    "id": "f128_ref_038",
+    "type": "webpage",
+    "title": "Open RTL-to-GDS implementation platform",
+    "URL": "https://openroad.org",
+    "author": [
+      {
+        "literal": "OpenROAD Project"
+      }
+    ],
+    "note": "Published reference slots: ref-038. Published context: OpenROAD Project. Open RTL-to-GDS implementation platform. OpenROAD page."
+  },
+  {
+    "id": "f128_ref_039",
+    "type": "webpage",
+    "title": "LLVM/MLIR-based hardware compiler infrastructure",
+    "URL": "https://circt.llvm.org",
+    "author": [
+      {
+        "literal": "CIRCT"
+      }
+    ],
+    "note": "Published reference slots: ref-039. Published context: CIRCT. LLVM/MLIR-based hardware compiler infrastructure. CIRCT page."
+  },
+  {
+    "id": "f128_ref_040",
+    "type": "webpage",
+    "title": "Open-source generator framework for analog and mixed-signal SoCs",
+    "URL": "https://openfasoc.readthedocs.io/en/latest",
+    "author": [
+      {
+        "literal": "OpenFASoC"
+      }
+    ],
+    "note": "Published reference slots: ref-040. Published context: OpenFASoC. Open-source generator framework for analog and mixed-signal SoCs. OpenFASoC documentation."
+  },
+  {
+    "id": "f128_ref_041",
+    "type": "webpage",
+    "title": "启蒙 / QiMeng",
+    "language": "zh",
+    "URL": "https://qimeng-ict.github.io",
+    "author": [
+      {
+        "literal": "QiMeng project team"
+      }
+    ],
+    "accessed": {
+      "date-parts": [
+        [
+          2026,
+          10,
+          6
+        ]
+      ]
+    },
+    "note": "Published reference slots: ref-041. Published context: QiMeng project team. “启蒙 / QiMeng.” Official project site. QiMeng page."
+  },
+  {
+    "id": "f128_ref_042",
+    "type": "webpage",
+    "title": "iEDA",
+    "URL": "https://ieda.oscc.cc/en",
+    "author": [
+      {
+        "literal": "iEDA Project"
+      }
+    ],
+    "accessed": {
+      "date-parts": [
+        [
+          2026,
+          10,
+          6
+        ]
+      ]
+    },
+    "note": "Published reference slots: ref-042. Published context: iEDA Project. “iEDA.” Project homepage. iEDA page."
+  },
+  {
+    "id": "f128_ref_043",
+    "type": "webpage",
+    "title": "EDA Laboratory",
+    "URL": "https://giee.ntu.edu.tw/tw/lab/eda",
+    "author": [
+      {
+        "literal": "National Taiwan University, Graduate Institute of Electronics Engineering"
+      }
+    ],
+    "accessed": {
+      "date-parts": [
+        [
+          2026,
+          10,
+          6
+        ]
+      ]
+    },
+    "note": "Published reference slots: ref-043. Published context: National Taiwan University, Graduate Institute of Electronics Engineering. “EDA Laboratory.” NTU page."
+  },
+  {
+    "id": "f128_ref_044",
+    "type": "webpage",
+    "title": "Research and Innovation Center Chip AI",
+    "URL": "https://www.iaf.fraunhofer.de/en/customers/electronic-circuits/ai-chip-design.html",
+    "author": [
+      {
+        "literal": "Fraunhofer IAF / IIS"
+      }
+    ],
+    "note": "Published reference slots: ref-044. Published context: Fraunhofer IAF / IIS. Research and Innovation Center Chip AI and FRAUKE program: AI-supported chip-design methods and AI-powered EDA tools. Fraunhofer IAF page; Fraunhofer IAF page."
+  },
+  {
+    "id": "f128_ref_044b",
+    "type": "webpage",
+    "title": "FRAUKE",
+    "URL": "https://www.iaf.fraunhofer.de/en/researchers/electronic-circuits/ai-chip-design/frauke.html",
+    "author": [
+      {
+        "literal": "Fraunhofer IAF"
+      }
+    ],
+    "note": "Published reference slots: ref-044, ref-208. Published context: Fraunhofer IAF / IIS. Research and Innovation Center Chip AI and FRAUKE program: AI-supported chip-design methods and AI-powered EDA tools. Fraunhofer IAF page; Fraunhofer IAF page."
+  },
+  {
+    "id": "f128_ref_045",
+    "type": "webpage",
+    "title": "India Design Linked Incentive / ChipIN program",
+    "URL": "https://chips-dli.gov.in/DLI/EDANew",
+    "author": [
+      {
+        "literal": "India Design Linked Incentive / ChipIN"
+      }
+    ],
+    "note": "Published reference slots: ref-045. Published context: India Design Linked Incentive / ChipIN program and CaretEDA. Centralized EDA infrastructure for startups and academia plus an agentic/open-source EDA commercialization example. ChipIN page; CaretEDA article."
+  },
+  {
+    "id": "f128_ref_045b",
+    "type": "webpage",
+    "title": "CaretEDA Announces Commercially Available End-to-End Opensource EDA Stack, and Launches Startup Program",
+    "URL": "https://careteda.com/news/dac-2026",
+    "author": [
+      {
+        "literal": "CaretEDA"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          7,
+          24
+        ]
+      ]
+    },
+    "note": "Published reference slots: ref-045, ref-209. Published context: India Design Linked Incentive / ChipIN program and CaretEDA. Centralized EDA infrastructure for startups and academia plus an agentic/open-source EDA commercialization example. ChipIN page; CaretEDA article."
+  },
+  {
+    "id": "f128_ref_046",
+    "type": "report",
+    "title": "UK AI Hardware Plan",
+    "URL": "https://www.gov.uk/government/publications/uk-ai-hardware-plan",
+    "author": [
+      {
+        "literal": "UK Department for Science, Innovation and Technology"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          6,
+          8
+        ]
+      ]
+    },
+    "note": "Published reference slots: ref-046. Published context: UK Department for Science, Innovation and Technology. “UK AI Hardware Plan.” June 8, 2026. See also APRIL, “PRAMANA.” UK government page; APRIL article."
+  },
+  {
+    "id": "f128_ref_046b",
+    "type": "report",
+    "title": "Sandpit Competition 2026 - Call for Proposals",
+    "URL": "https://www.april.ac.uk/blog/opportunities/sandpit-competition-2026-call-for-proposals",
+    "author": [
+      {
+        "literal": "APRIL"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          8,
+          18
+        ]
+      ]
+    },
+    "note": "Published reference slots: ref-046, ref-210. Published context: UK Department for Science, Innovation and Technology. “UK AI Hardware Plan.” June 8, 2026. See also APRIL, “PRAMANA.” UK government page; APRIL article."
+  },
+  {
+    "id": "f128_ref_047",
+    "type": "webpage",
+    "title": "National AI Strategy for Israeli High-Tech 2026",
+    "URL": "https://innovationisrael.org.il/document/ai-strategy-2026",
+    "author": [
+      {
+        "literal": "Israel Innovation Authority"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2026
+        ]
+      ]
+    },
+    "note": "Published reference slots: ref-047. Published context: Israel Innovation Authority. “National AI Strategy for Israeli High-Tech 2026.” See also Caesarea Labs, “Post-Silicon Validation, Automated.” Israel Innovation Authority page; Caesarea Labs page."
+  },
+  {
+    "id": "f128_ref_047b",
+    "type": "webpage",
+    "title": "Post-Silicon Validation, Automated",
+    "URL": "https://www.caesarealabs.com",
+    "author": [
+      {
+        "literal": "Caesarea Labs"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2026
+        ]
+      ]
+    },
+    "note": "Published reference slots: ref-047, ref-211. Published context: Israel Innovation Authority. “National AI Strategy for Israeli High-Tech 2026.” See also Caesarea Labs, “Post-Silicon Validation, Automated.” Israel Innovation Authority page; Caesarea Labs page."
+  },
+  {
+    "id": "f128_ref_048",
+    "type": "webpage",
+    "title": "Calibre nmDRC",
+    "URL": "https://www.siemens.com/en-us/products/ic/calibre-design/physical-verification/design-rule-checking",
+    "author": [
+      {
+        "literal": "Siemens Digital Industries Software"
+      }
+    ],
+    "note": "Published reference slots: ref-048. Published context: Siemens Digital Industries Software. “Calibre nmDRC.” Siemens page."
+  },
+  {
+    "id": "f128_ref_049",
+    "type": "webpage",
+    "title": "Process Simulation for Semiconductor Fabrication",
+    "URL": "https://www.synopsys.com/manufacturing/tcad/process-simulation.html",
+    "author": [
+      {
+        "literal": "Synopsys"
+      }
+    ],
+    "note": "Published reference slots: ref-049. Published context: Synopsys. “Process Simulation for Semiconductor Fabrication.” See also Synopsys, “Technology Computer-Aided Design (TCAD).” Synopsys page; Synopsys page."
+  },
+  {
+    "id": "f128_ref_049b",
+    "type": "webpage",
+    "title": "Technology Computer-Aided Design (TCAD)",
+    "URL": "https://www.synopsys.com/manufacturing/tcad.html",
+    "author": [
+      {
+        "literal": "Synopsys"
+      }
+    ],
+    "note": "Published reference slots: ref-049, ref-212. Published context: Synopsys. “Process Simulation for Semiconductor Fabrication.” See also Synopsys, “Technology Computer-Aided Design (TCAD).” Synopsys page; Synopsys page."
+  },
+  {
+    "id": "f128_ref_050",
+    "type": "manuscript",
+    "title": "Can Agents Design Better Chips with a Higher Level Abstraction?",
+    "container-title": "arXiv",
+    "publisher": "arXiv",
+    "URL": "https://arxiv.org/abs/2609.21157",
+    "author": [
+      {
+        "literal": "Zijian Ding"
+      },
+      {
+        "literal": "Yang Zou"
+      },
+      {
+        "literal": "Yizhou Sun"
+      },
+      {
+        "literal": "Jason Cong"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          9,
+          17
+        ]
+      ]
+    },
+    "note": "Published reference slots: ref-050. Published context: Zijian Ding, Yang Zou, Yizhou Sun, and Jason Cong. “Can Agents Design Better Chips with a Higher Level Abstraction?” arXiv:2609.21157, 2026."
+  },
+  {
+    "id": "f128_ref_051",
+    "type": "article-journal",
+    "title": "Sequential Diagnosis by Computer",
+    "container-title": "JAMA: The Journal of the American Medical Association",
+    "volume": "205",
+    "issue": "12",
+    "page": "849",
+    "publisher": "American Medical Association (AMA)",
+    "language": "en",
+    "DOI": "10.1001/jama.1968.03140380053012",
+    "URL": "https://doi.org/10.1001/jama.1968.03140380053012",
+    "author": [
+      {
+        "family": "Gorry",
+        "given": "G. Anthony"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          1968,
+          9,
+          16
+        ]
+      ]
+    },
+    "note": "Published reference slots: ref-051. Published context: G. Anthony Gorry and G. Octo Barnett. “Sequential Diagnosis by Computer.” JAMA 205, no. 12 (1968): 849–854. DOI 10.1001/jama.1968.03140380053012."
+  },
+  {
+    "id": "f128_ref_052",
+    "type": "article-journal",
+    "title": "Principles of metareasoning",
+    "container-title": "Artificial Intelligence",
+    "volume": "49",
+    "issue": "1-3",
+    "page": "361-395",
+    "publisher": "Elsevier BV",
+    "language": "en",
+    "DOI": "10.1016/0004-3702(91)90015-c",
+    "URL": "https://doi.org/10.1016/0004-3702(91)90015-c",
+    "author": [
+      {
+        "family": "Russell",
+        "given": "Stuart"
+      },
+      {
+        "family": "Wefald",
+        "given": "Eric"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          1991,
+          5
+        ]
+      ]
+    },
+    "note": "Published reference slots: ref-052. Published context: Stuart Russell and Eric Wefald. “Principles of Metareasoning.” Artificial Intelligence 49 (1991): 361–395. DOI 10.1016/0004-3702(91)90015-C."
+  },
+  {
+    "id": "f128_ref_053",
+    "type": "manuscript",
+    "title": "Learning to select computations",
+    "container-title": "arXiv",
+    "publisher": "arXiv",
+    "URL": "https://arxiv.org/abs/1711.06892",
+    "author": [
+      {
+        "literal": "Frederick Callaway"
+      },
+      {
+        "literal": "Sayan Gul"
+      },
+      {
+        "literal": "Paul M. Krueger"
+      },
+      {
+        "literal": "Thomas L. Griffiths"
+      },
+      {
+        "literal": "Falk Lieder"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2017,
+          11,
+          18
+        ]
+      ]
+    },
+    "note": "Published reference slots: ref-053. Published context: Frederick Callaway, Sayan Gul, Paul M. Krueger, Thomas L. Griffiths, and Falk Lieder. “Learning to Select Computations.” Proceedings of the Thirty-Fourth Conference on Uncertainty in Artificial Intelligence (UAI 2018). arXiv:1711.06892."
+  },
+  {
+    "id": "f128_ref_054",
+    "type": "chapter",
+    "title": "The Algorithm Selection Problem",
+    "container-title": "Advances in Computers",
+    "page": "65-118",
+    "publisher": "Elsevier",
+    "language": "en",
+    "DOI": "10.1016/s0065-2458(08)60520-3",
+    "ISBN": "9780120121151",
+    "URL": "https://doi.org/10.1016/s0065-2458(08)60520-3",
+    "author": [
+      {
+        "family": "Rice",
+        "given": "John R."
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          1976
+        ]
+      ]
+    },
+    "note": "Published reference slots: ref-054. Published context: John R. Rice. “The Algorithm Selection Problem.” Advances in Computers 15 (1976): 65–118. DOI 10.1016/S0065-2458(08)60520-3."
+  },
+  {
+    "id": "f128_ref_055",
+    "type": "article-journal",
+    "title": "Empirical software metrics for benchmarking of verification tools",
+    "container-title": "Formal Methods in System Design",
+    "volume": "50",
+    "issue": "2-3",
+    "page": "289-316",
+    "publisher": "Springer Science and Business Media LLC",
+    "language": "en",
+    "DOI": "10.1007/s10703-016-0264-5",
+    "URL": "https://doi.org/10.1007/s10703-016-0264-5",
+    "author": [
+      {
+        "family": "Demyanova",
+        "given": "Yulia"
+      },
+      {
+        "family": "Pani",
+        "given": "Thomas"
+      },
+      {
+        "family": "Veith",
+        "given": "Helmut"
+      },
+      {
+        "family": "Zuleger",
+        "given": "Florian"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2017,
+          6
+        ]
+      ]
+    },
+    "note": "Published reference slots: ref-055. Published context: Yulia Demyanova, Thomas Pani, Helmut Veith, and Florian Zuleger. “Empirical Software Metrics for Benchmarking of Verification Tools.” Formal Methods in System Design 50 (2017): 289–316. DOI 10.1007/s10703-016-0264-5."
+  },
+  {
+    "id": "f128_ref_056",
+    "type": "article-journal",
+    "title": "Multi-Fidelity Surrogate-Based Optimization for Electromagnetic Simulation Acceleration",
+    "container-title": "ACM Transactions on Design Automation of Electronic Systems",
+    "volume": "25",
+    "issue": "5",
+    "page": "1-21",
+    "publisher": "Association for Computing Machinery (ACM)",
+    "language": "en",
+    "DOI": "10.1145/3398268",
+    "URL": "https://doi.org/10.1145/3398268",
+    "author": [
+      {
+        "family": "Wang",
+        "given": "Yi"
+      },
+      {
+        "family": "Franzon",
+        "given": "Paul D."
+      },
+      {
+        "family": "Smart",
+        "given": "David"
+      },
+      {
+        "family": "Swahn",
+        "given": "Brian"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2020,
+          9,
+          30
+        ]
+      ]
+    },
+    "note": "Published reference slots: ref-056. Published context: Yi Wang, Paul D. Franzon, David Smart, and Brian Swahn. “Multi-Fidelity Surrogate-Based Optimization for Electromagnetic Simulation Acceleration.” ACM Transactions on Design Automation of Electronic Systems 25, no. 5 (2020): Article 45. DOI 10.1145/3398268."
+  },
+  {
+    "id": "f128_ref_057",
+    "type": "article-journal",
+    "title": "Mixture-of-Experts with Expert Choice Routing",
+    "container-title": "Advances in Neural Information Processing Systems",
+    "volume": "35",
+    "page": "7103-7114",
+    "URL": "https://papers.neurips.cc/paper_files/paper/2022/hash/2f00ecd787b432c1d36f3de9800728eb-Abstract-Conference.html",
+    "author": [
+      {
+        "literal": "Zhou, Yanqi"
+      },
+      {
+        "literal": "Lei, Tao"
+      },
+      {
+        "literal": "Liu, Hanxiao"
+      },
+      {
+        "literal": "Du, Nan"
+      },
+      {
+        "literal": "Huang, Yanping"
+      },
+      {
+        "literal": "Zhao, Vincent"
+      },
+      {
+        "literal": "Dai, Andrew M."
+      },
+      {
+        "literal": "Chen, zhifeng"
+      },
+      {
+        "literal": "Le, Quoc V"
+      },
+      {
+        "literal": "Laudon, James"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2022,
+          12,
+          6
+        ]
+      ]
+    },
+    "note": "Published reference slots: ref-057. Published context: Yanqi Zhou et al. “Mixture-of-Experts with Expert Choice Routing.” Advances in Neural Information Processing Systems 35 (2022). NeurIPS page."
+  },
+  {
+    "id": "f128_ref_058",
+    "type": "manuscript",
+    "title": "RouteLLM: Learning to Route LLMs with Preference Data",
+    "container-title": "arXiv",
+    "publisher": "arXiv",
+    "URL": "https://arxiv.org/abs/2406.18665",
+    "author": [
+      {
+        "literal": "Isaac Ong"
+      },
+      {
+        "literal": "Amjad Almahairi"
+      },
+      {
+        "literal": "Vincent Wu"
+      },
+      {
+        "literal": "Wei-Lin Chiang"
+      },
+      {
+        "literal": "Tianhao Wu"
+      },
+      {
+        "literal": "Joseph E. Gonzalez"
+      },
+      {
+        "literal": "M Waleed Kadous"
+      },
+      {
+        "literal": "Ion Stoica"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2024,
+          6,
+          26
+        ]
+      ]
+    },
+    "note": "Published reference slots: ref-058. Published context: Isaac Ong et al. “RouteLLM: Learning to Route LLMs with Preference Data.” International Conference on Learning Representations (ICLR 2025). arXiv:2406.18665."
+  },
+  {
+    "id": "f128_ref_059",
+    "type": "webpage",
+    "title": "The Future of the Firm Is the Routing Layer",
+    "URL": "https://kingy.ai/news/future-of-the-firm-routing-layer",
+    "author": [
+      {
+        "literal": "Curtis Pyke"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          6,
+          14
+        ]
+      ]
+    },
+    "note": "Published reference slots: ref-059. Published context: Curtis Pyke. “The Future of the Firm Is the Routing Layer.” Kingy AI, June 14, 2026. KENGAI article."
+  },
+  {
+    "id": "f128_ref_060",
+    "type": "article-journal",
+    "title": "The Persistence and Transfer of Learning in Industrial Settings",
+    "container-title": "Management Science",
+    "volume": "36",
+    "issue": "2",
+    "page": "140-154",
+    "publisher": "Institute for Operations Research and the Management Sciences (INFORMS)",
+    "language": "en",
+    "DOI": "10.1287/mnsc.36.2.140",
+    "URL": "https://doi.org/10.1287/mnsc.36.2.140",
+    "author": [
+      {
+        "family": "Argote",
+        "given": "Linda"
+      },
+      {
+        "family": "Beckman",
+        "given": "Sara L."
+      },
+      {
+        "family": "Epple",
+        "given": "Dennis"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          1990,
+          2
+        ]
+      ]
+    },
+    "note": "Published reference slots: ref-060. Published context: Linda Argote, Sara L. Beckman, and Dennis Epple. “The Persistence and Transfer of Learning in Industrial Settings.” Management Science 36, no. 2 (1990): 140–154. DOI 10.1287/mnsc.36.2.140."
+  },
+  {
+    "id": "f128_ref_061",
+    "type": "article-journal",
+    "title": "The Acquisition, Transfer, and Depreciation of Knowledge in Service Organizations: Productivity in Franchises",
+    "container-title": "Management Science",
+    "volume": "41",
+    "issue": "11",
+    "page": "1750-1762",
+    "publisher": "Institute for Operations Research and the Management Sciences (INFORMS)",
+    "language": "en",
+    "DOI": "10.1287/mnsc.41.11.1750",
+    "URL": "https://doi.org/10.1287/mnsc.41.11.1750",
+    "author": [
+      {
+        "family": "Darr",
+        "given": "Eric D."
+      },
+      {
+        "family": "Argote",
+        "given": "Linda"
+      },
+      {
+        "family": "Epple",
+        "given": "Dennis"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          1995,
+          11
+        ]
+      ]
+    },
+    "note": "Published reference slots: ref-061. Published context: Eric D. Darr, Linda Argote, and Dennis Epple. “The Acquisition, Transfer, and Depreciation of Knowledge in Service Organizations: Productivity in Franchises.” Management Science 41, no. 11 (1995): 1750–1762. DOI 10.1287/mnsc.41.11.1750."
+  },
+  {
+    "id": "f128_ref_062",
+    "type": "article-journal",
+    "title": "Organizational Memory",
+    "container-title": "The Academy of Management Review",
+    "volume": "16",
+    "issue": "1",
+    "page": "57",
+    "publisher": "Academy of Management",
+    "DOI": "10.5465/amr.1991.4278992",
+    "URL": "https://doi.org/10.5465/amr.1991.4278992",
+    "author": [
+      {
+        "family": "Walsh",
+        "given": "James P."
+      },
+      {
+        "family": "Ungson",
+        "given": "Gerardo Rivera"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          1991,
+          1
+        ]
+      ]
+    },
+    "note": "Published reference slots: ref-062. Published context: James P. Walsh and Gerardo Rivera Ungson. “Organizational Memory.” Academy of Management Review 16, no. 1 (1991): 57–91. DOI 10.5465/amr.1991.4278992."
+  },
+  {
+    "id": "f128_ref_063",
+    "type": "article-journal",
+    "title": "Toward a knowledge‐based theory of the firm",
+    "container-title": "Strategic Management Journal",
+    "volume": "17",
+    "issue": "S2",
+    "page": "109-122",
+    "publisher": "Wiley",
+    "language": "en",
+    "DOI": "10.1002/smj.4250171110",
+    "URL": "https://doi.org/10.1002/smj.4250171110",
+    "author": [
+      {
+        "family": "Grant",
+        "given": "Robert M."
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          1996,
+          12
+        ]
+      ]
+    },
+    "note": "Published reference slots: ref-063. Published context: Robert M. Grant. “Toward a Knowledge-Based Theory of the Firm.” Strategic Management Journal 17, S2 (1996): 109–122. DOI 10.1002/smj.4250171110."
+  },
+  {
+    "id": "f128_ref_064",
+    "type": "article-journal",
+    "title": "Competing Technologies, Increasing Returns, and Lock-In by Historical Events",
+    "container-title": "The Economic Journal",
+    "volume": "99",
+    "issue": "394",
+    "page": "116",
+    "publisher": "Oxford University Press (OUP)",
+    "DOI": "10.2307/2234208",
+    "URL": "https://doi.org/10.2307/2234208",
+    "author": [
+      {
+        "family": "Arthur",
+        "given": "W. Brian"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          1989,
+          3
+        ]
+      ]
+    },
+    "note": "Published reference slots: ref-064. Published context: W. Brian Arthur. “Competing Technologies, Increasing Returns, and Lock-In by Historical Events.” Economic Journal 99, no. 394 (1989): 116–131. DOI 10.2307/2234208."
+  },
+  {
+    "id": "f128_ref_065",
+    "type": "article-journal",
+    "title": "Profiting from technological innovation: Implications for integration, collaboration, licensing and public policy",
+    "container-title": "Research Policy",
+    "volume": "15",
+    "issue": "6",
+    "page": "285-305",
+    "publisher": "Elsevier BV",
+    "language": "en",
+    "DOI": "10.1016/0048-7333(86)90027-2",
+    "URL": "https://doi.org/10.1016/0048-7333(86)90027-2",
+    "author": [
+      {
+        "family": "Teece",
+        "given": "David J."
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          1986,
+          12
+        ]
+      ]
+    },
+    "note": "Published reference slots: ref-065. Published context: David J. Teece. “Profiting from Technological Innovation: Implications for Integration, Collaboration, Licensing and Public Policy.” Research Policy 15, no. 6 (1986): 285–305. DOI 10.1016/0048-7333(86)90027-2."
+  },
+  {
+    "id": "f128_ref_066",
+    "type": "article-journal",
+    "title": "Governance rigidity, industry evolution, and value capture in platform ecosystems",
+    "container-title": "Research Policy",
+    "volume": "51",
+    "issue": "7",
+    "page": "104560",
+    "publisher": "Elsevier BV",
+    "language": "en",
+    "DOI": "10.1016/j.respol.2022.104560",
+    "URL": "https://doi.org/10.1016/j.respol.2022.104560",
+    "author": [
+      {
+        "family": "Uzunca",
+        "given": "Bilgehan"
+      },
+      {
+        "family": "Sharapov",
+        "given": "Dmitry"
+      },
+      {
+        "family": "Tee",
+        "given": "Richard"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2022,
+          9
+        ]
+      ]
+    },
+    "note": "Published reference slots: ref-066. Published context: Bilgehan Uzunca, Dmitry Sharapov, and Richard Tee. “Governance Rigidity, Industry Evolution, and Value Capture in Platform Ecosystems.” Research Policy 51, no. 7 (2022): 104560. DOI 10.1016/j.respol.2022.104560."
+  },
+  {
+    "id": "f128_ref_067",
+    "type": "paper-conference",
+    "title": "An Information Economic Approach for Model Selection In Engineering Design",
+    "container-title": "Design Engineering and Computers and Information in Engineering, Parts A and B",
+    "page": "1197-1210",
+    "publisher": "ASMEDC",
+    "DOI": "10.1115/imece2006-14535",
+    "URL": "https://doi.org/10.1115/imece2006-14535",
+    "author": [
+      {
+        "family": "Ling",
+        "given": "Jay"
+      },
+      {
+        "family": "Paredis",
+        "given": "Christiaan J. J."
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2006,
+          1,
+          1
+        ]
+      ]
+    },
+    "note": "Published reference slots: ref-067. Published context: Jay Ling and Christiaan J. J. Paredis. “An Information Economic Approach for Model Selection in Engineering Design.” Proceedings of the ASME 2006 International Mechanical Engineering Congress and Exposition, IMECE2006-14535. DOI 10.1115/IMECE2006-14535."
+  },
+  {
+    "id": "f128_ref_068",
+    "type": "article-journal",
+    "title": "A model for types and levels of human interaction with automation",
+    "container-title": "IEEE Transactions on Systems, Man, and Cybernetics - Part A: Systems and Humans",
+    "volume": "30",
+    "issue": "3",
+    "page": "286-297",
+    "publisher": "Institute of Electrical and Electronics Engineers (IEEE)",
+    "DOI": "10.1109/3468.844354",
+    "URL": "https://doi.org/10.1109/3468.844354",
+    "author": [
+      {
+        "family": "Parasuraman",
+        "given": "R."
+      },
+      {
+        "family": "Sheridan",
+        "given": "T.B."
+      },
+      {
+        "family": "Wickens",
+        "given": "C.D."
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2000,
+          5
+        ]
+      ]
+    },
+    "note": "Published reference slots: ref-068. Published context: Raja Parasuraman, Thomas B. Sheridan, and Christopher D. Wickens. “A Model for Types and Levels of Human Interaction with Automation.” IEEE Transactions on Systems, Man, and Cybernetics—Part A 30, no. 3 (2000): 286–297. DOI 10.1109/3468.844354."
+  },
+  {
+    "id": "f128_ref_069",
+    "type": "webpage",
+    "title": "Synopsys Announces Synopsys.ai Copilot, Breakthrough GenAI Capability to Accelerate Chip Design",
+    "URL": "https://investor.synopsys.com/news/news-details/2023/Synopsys-Announces-Synopsys.ai-Copilot-Breakthrough-GenAI-Capability-to-Accelerate-Chip-Design/default.aspx",
+    "author": [
+      {
+        "literal": "Synopsys"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2023
+        ]
+      ]
+    },
+    "note": "Published reference slots: ref-069. Published context: Synopsys. “Synopsys Announces Synopsys.ai Copilot, Breakthrough GenAI Capability to Accelerate Chip Design.” Nov 15, 2023. Synopsys article."
+  },
+  {
+    "id": "f128_ref_070",
+    "type": "webpage",
+    "title": "Introducing Generative AI for Chip Design",
+    "URL": "https://www.synopsys.com/blogs/chip-design/copilot-generative-ai-chip-design.html",
+    "author": [
+      {
+        "literal": "Synopsys"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2023
+        ]
+      ]
+    },
+    "note": "Published reference slots: ref-070. Published context: Synopsys. “Introducing Generative AI for Chip Design.” Nov 27, 2023. Synopsys article."
+  },
+  {
+    "id": "f128_ref_071",
+    "type": "webpage",
+    "title": "Generative AI to Usher in Big Opportunities in 2024",
+    "URL": "https://www.electronicdesign.com/technologies/embedded/machine-learning/article/21282217/synopsys-generative-ai-to-usher-in-big-opportunities-in-2024",
+    "author": [
+      {
+        "literal": "Stelios Diamantidis"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2024
+        ]
+      ]
+    },
+    "note": "Published reference slots: ref-071. Published context: Stelios Diamantidis. “Generative AI to Usher in Big Opportunities in 2024.” Electronic Design, Feb 6, 2024. Electronic Design article."
+  },
+  {
+    "id": "f128_ref_072",
+    "type": "webpage",
+    "title": "AgentEngineer Technology: Transforming Engineering Workflows",
+    "URL": "https://www.synopsys.com/blogs/chip-design/agentengineer-technology-transforming-engineering-workflows.html",
+    "author": [
+      {
+        "literal": "Sassine Ghazi"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2025,
+          5,
+          6
+        ]
+      ]
+    },
+    "note": "Published reference slots: ref-072. Published context: Sassine Ghazi. “AgentEngineer Technology: Transforming Engineering Workflows.” Synopsys, May 6, 2025. Synopsys article."
+  },
+  {
+    "id": "f128_ref_073",
+    "type": "webpage",
+    "title": "Teaching Agentic AI to Think Like an Engineer",
+    "URL": "https://www.synopsys.com/blogs/chip-design/agentic-ai-chip-design.html",
+    "author": [
+      {
+        "literal": "Thomas Andersen"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2025
+        ]
+      ]
+    },
+    "note": "Published reference slots: ref-073. Published context: Thomas Andersen. “Teaching Agentic AI to Think Like an Engineer.” Synopsys, Dec 16, 2025. Synopsys article."
+  },
+  {
+    "id": "f128_ref_074",
+    "type": "webpage",
+    "title": "Evaluator Economics: Building Cost-Effective Annotation Teams",
+    "URL": "https://www.eval.qa/learn/evaluator-economics.html",
+    "author": [
+      {
+        "literal": "eval.qa"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2026
+        ]
+      ]
+    },
+    "note": "Published reference slots: ref-074. Published context: eval.qa. “Evaluator Economics: Building Cost-Effective Annotation Teams.” Feb 19, 2026. Eval page."
+  },
+  {
+    "id": "f128_ref_075",
+    "type": "article-journal",
+    "title": "Model accreditation: A rationale and process for determining a numerical rating",
+    "container-title": "European Journal of Operational Research",
+    "volume": "66",
+    "issue": "2",
+    "page": "250-258",
+    "publisher": "Elsevier BV",
+    "language": "en",
+    "DOI": "10.1016/0377-2217(93)90316-f",
+    "URL": "https://doi.org/10.1016/0377-2217(93)90316-f",
+    "author": [
+      {
+        "family": "Gass",
+        "given": "Saul I."
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          1993,
+          4
+        ]
+      ]
+    },
+    "note": "Published reference slots: ref-075. Published context: Saul I. Gass. “Model Accreditation: A Rationale and Process for Determining a Numerical Rating.” European Journal of Operational Research 66, no. 2 (1993): 250–258. DOI 10.1016/0377-2217(93)90316-F."
+  },
+  {
+    "id": "f128_ref_076",
+    "type": "article-journal",
+    "title": "SPECIFIC AND GENERAL KNOWLEDGE, AND ORGANIZATIONAL STRUCTURE",
+    "container-title": "Journal of Applied Corporate Finance",
+    "volume": "8",
+    "issue": "2",
+    "page": "4-18",
+    "publisher": "Wiley",
+    "language": "en",
+    "DOI": "10.1111/j.1745-6622.1995.tb00283.x",
+    "URL": "https://doi.org/10.1111/j.1745-6622.1995.tb00283.x",
+    "author": [
+      {
+        "family": "Jensen",
+        "given": "Michael C."
+      },
+      {
+        "family": "Heckling",
+        "given": "William H."
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          1995,
+          6
+        ]
+      ]
+    },
+    "note": "Published reference slots: ref-076. Published context: Michael C. Jensen and William H. Meckling. “Specific and General Knowledge, and Organizational Structure.” Journal of Applied Corporate Finance 8, no. 2 (1995): 4–18. DOI 10.1111/j.1745-6622.1995.tb00283.x."
+  },
+  {
+    "id": "f128_ref_077",
+    "type": "book",
+    "title": "The External Control of Organizations: A Resource Dependence Perspective",
+    "publisher": "Harper & Row",
+    "URL": "https://search.worldcat.org/it/title/The-external-control-of-organizations-%3A-a-resource-dependence-perspective/oclc/3327882",
+    "author": [
+      {
+        "literal": "Jeffrey Pfeffer"
+      },
+      {
+        "literal": "Gerald R. Salancik"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          1978
+        ]
+      ]
+    },
+    "note": "Published reference slots: ref-077. Published context: Jeffrey Pfeffer and Gerald R. Salancik. The External Control of Organizations: A Resource Dependence Perspective. Harper & Row, 1978. WorldCat page."
+  },
+  {
+    "id": "f128_ref_078",
+    "type": "book",
+    "title": "The Economic Institutions of Capitalism: Firms, Markets, Relational Contracting",
+    "publisher": "Free Press",
+    "URL": "https://books.google.com/books/about/The_Economic_Institutions_of_Capitalism.html?id=2B8f0QEACAAJ",
+    "author": [
+      {
+        "literal": "Oliver E. Williamson"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          1985
+        ]
+      ]
+    },
+    "note": "Published reference slots: ref-078. Published context: Oliver E. Williamson. The Economic Institutions of Capitalism: Firms, Markets, Relational Contracting. Free Press, 1985. Google Books page."
+  },
+  {
+    "id": "f128_ref_079",
+    "type": "article-journal",
+    "title": "The duality of collaboration: inducements and opportunities in the formation of interfirm linkages",
+    "container-title": "Strategic Management Journal",
+    "volume": "21",
+    "issue": "3",
+    "page": "317-343",
+    "publisher": "Wiley",
+    "language": "en",
+    "DOI": "10.1002/(sici)1097-0266(200003)21:3<317::aid-smj90>3.0.co;2-b",
+    "URL": "https://doi.org/10.1002/(sici)1097-0266(200003)21:3<317::aid-smj90>3.0.co;2-b",
+    "author": [
+      {
+        "family": "Ahuja",
+        "given": "Gautam"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2000,
+          3,
+          21
+        ]
+      ]
+    },
+    "note": "Published reference slots: ref-079. Published context: Gautam Ahuja. “The Duality of Collaboration: Inducements and Opportunities in the Formation of Interfirm Linkages.” Strategic Management Journal 21, no. 3 (2000): 317–343. DOI 10.1002/(SICI)1097-0266(200003)21:3%3C317::AID-SMJ90%3E3.0.CO;2-B."
+  },
+  {
+    "id": "f128_ref_080",
+    "type": "article-journal",
+    "title": "Learning processes features and technological capability-accumulation: explaining inter-firm differences",
+    "container-title": "Technovation",
+    "volume": "22",
+    "issue": "11",
+    "page": "685-698",
+    "publisher": "Elsevier BV",
+    "language": "en",
+    "DOI": "10.1016/s0166-4972(01)00068-2",
+    "URL": "https://doi.org/10.1016/s0166-4972(01)00068-2",
+    "author": [
+      {
+        "family": "Figueiredo",
+        "given": "P.N"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2002,
+          11
+        ]
+      ]
+    },
+    "note": "Published reference slots: ref-080. Published context: Paulo N. Figueiredo. “Learning Processes Features and Technological Capability-Accumulation: Explaining Inter-Firm Differences.” Technovation 22, no. 11 (2002): 685–698. DOI 10.1016/S0166-4972(01)00068-2."
+  },
+  {
+    "id": "f128_ref_081",
+    "type": "article-journal",
+    "title": "The retrieval of structured design rationale for the re-use of design knowledge with an integrated representation",
+    "container-title": "Advanced Engineering Informatics",
+    "volume": "26",
+    "issue": "2",
+    "page": "251-266",
+    "publisher": "Elsevier BV",
+    "language": "en",
+    "DOI": "10.1016/j.aei.2012.02.003",
+    "URL": "https://doi.org/10.1016/j.aei.2012.02.003",
+    "author": [
+      {
+        "family": "Wang",
+        "given": "Hongwei"
+      },
+      {
+        "family": "Johnson",
+        "given": "Aylmer L."
+      },
+      {
+        "family": "Bracewell",
+        "given": "Rob H."
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2012,
+          4
+        ]
+      ]
+    },
+    "note": "Published reference slots: ref-081. Published context: Hongwei Wang, Aylmer L. Johnson, and Rob H. Bracewell. “The Retrieval of Structured Design Rationale for the Re-Use of Design Knowledge with an Integrated Representation.” Advanced Engineering Informatics 26, no. 2 (2012): 251–266. DOI 10.1016/j.aei.2012.02.003."
+  },
+  {
+    "id": "f128_ref_082",
+    "type": "chapter",
+    "title": "Tacit Knowledge and Engineering Design",
+    "container-title": "Philosophy of Technology and Engineering Sciences",
+    "page": "351-374",
+    "publisher": "Elsevier",
+    "language": "en",
+    "DOI": "10.1016/b978-0-444-51667-1.50017-3",
+    "ISBN": "9780444516671",
+    "URL": "https://doi.org/10.1016/b978-0-444-51667-1.50017-3",
+    "author": [
+      {
+        "family": "Nightingale",
+        "given": "Paul"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2009
+        ]
+      ]
+    },
+    "note": "Published reference slots: ref-082. Published context: Paul Nightingale. “Tacit Knowledge and Engineering Design.” In Philosophy of Technology and Engineering Sciences, 351–374. Elsevier, 2009. DOI 10.1016/B978-0-444-51667-1.50017-3."
+  },
+  {
+    "id": "f128_ref_083",
+    "type": "article-journal",
+    "title": "Firm Resources and Sustained Competitive Advantage",
+    "container-title": "Journal of Management",
+    "volume": "17",
+    "issue": "1",
+    "page": "99-120",
+    "publisher": "SAGE Publications",
+    "language": "en",
+    "DOI": "10.1177/014920639101700108",
+    "URL": "https://doi.org/10.1177/014920639101700108",
+    "author": [
+      {
+        "family": "Barney",
+        "given": "Jay"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          1991,
+          3
+        ]
+      ]
+    },
+    "note": "Published reference slots: ref-083. Published context: Jay Barney. “Firm Resources and Sustained Competitive Advantage.” Journal of Management 17, no. 1 (1991): 99–120. DOI 10.1177/014920639101700108."
+  },
+  {
+    "id": "f128_ref_084",
+    "type": "article-journal",
+    "title": "Ironies of automation",
+    "container-title": "Automatica",
+    "volume": "19",
+    "issue": "6",
+    "page": "775-779",
+    "publisher": "Elsevier BV",
+    "language": "en",
+    "DOI": "10.1016/0005-1098(83)90046-8",
+    "URL": "https://doi.org/10.1016/0005-1098(83)90046-8",
+    "author": [
+      {
+        "family": "Bainbridge",
+        "given": "Lisanne"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          1983,
+          11
+        ]
+      ]
+    },
+    "note": "Published reference slots: ref-084. Published context: Lisanne Bainbridge. “Ironies of Automation.” Automatica 19, no. 6 (1983): 775–779. DOI 10.1016/0005-1098(83)90046-8."
+  },
+  {
+    "id": "f128_ref_085",
+    "type": "webpage",
+    "title": "Technology Readiness Levels",
+    "URL": "https://www.nasa.gov/directorates/somd/space-communications-navigation-program/technology-readiness-levels",
+    "author": [
+      {
+        "literal": "NASA"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2023
+        ]
+      ]
+    },
+    "note": "Published reference slots: ref-085. Published context: NASA. “Technology Readiness Levels.” Sep 27, 2023. NASA page."
+  },
+  {
+    "id": "f128_ref_086",
+    "type": "webpage",
+    "title": "How Investors Make Better Decisions: The Investment Readiness Level",
+    "URL": "https://steveblank.com/2014/07/01/how-investors-make-better-decisions-the-investment-readiness-level",
+    "author": [
+      {
+        "literal": "Steve Blank"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2014
+        ]
+      ]
+    },
+    "note": "Published reference slots: ref-086. Published context: Steve Blank. “How Investors Make Better Decisions: The Investment Readiness Level.” Jul 1, 2014. Steve Blank page."
+  },
+  {
+    "id": "f128_ref_087",
+    "type": "webpage",
+    "title": "DSO.ai: AI-Driven Design Applications",
+    "URL": "https://www.synopsys.com/ai/ai-powered-eda/dso-ai.html",
+    "author": [
+      {
+        "literal": "Synopsys"
+      }
+    ],
+    "note": "Published reference slots: ref-087. Published context: Synopsys. “DSO.ai: AI-Driven Design Applications.” Synopsys page."
+  },
+  {
+    "id": "f128_ref_088",
+    "type": "webpage",
+    "title": "What Is Design Space Optimization?",
+    "URL": "https://www.synopsys.com/glossary/what-is-design-space-optimization.html",
+    "author": [
+      {
+        "literal": "Synopsys"
+      }
+    ],
+    "note": "Published reference slots: ref-088. Published context: Synopsys. “What Is Design Space Optimization?” Synopsys page."
+  },
+  {
+    "id": "f128_ref_089",
+    "type": "webpage",
+    "title": "Fusion Compiler: RTL-to-GDSII Design Solution",
+    "URL": "https://www.synopsys.com/implementation-and-signoff/physical-implementation/fusion-compiler.html",
+    "author": [
+      {
+        "literal": "Synopsys"
+      }
+    ],
+    "note": "Published reference slots: ref-089. Published context: Synopsys. “Fusion Compiler: RTL-to-GDSII Design Solution.” Synopsys page."
+  },
+  {
+    "id": "f128_ref_090",
+    "type": "webpage",
+    "title": "Design Signoff: Trusted Golden Solution for Chip Designs",
+    "URL": "https://www.synopsys.com/implementation-and-signoff/signoff.html",
+    "author": [
+      {
+        "literal": "Synopsys"
+      }
+    ],
+    "note": "Published reference slots: ref-090. Published context: Synopsys. “Design Signoff: Trusted Golden Solution for Chip Designs.” Synopsys page."
+  },
+  {
+    "id": "f128_ref_091",
+    "type": "webpage",
+    "title": "How AI Is Enabling Digital Design Retargeting to Maximize Productivity",
+    "URL": "https://www.synopsys.com/blogs/chip-design/ai-chip-design-retargeting.html",
+    "author": [
+      {
+        "literal": "Rob van Blommestein"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2024,
+          1,
+          3
+        ]
+      ]
+    },
+    "note": "Published reference slots: ref-091. Published context: Rob van Blommestein. “How AI Is Enabling Digital Design Retargeting to Maximize Productivity.” Synopsys, January 3, 2024. Synopsys article."
+  },
+  {
+    "id": "f128_ref_092",
+    "type": "webpage",
+    "title": "OpenAI and Synopsys Announce GPT-Synopsys: Frontier Intelligence to Revolutionize Chip Design",
+    "URL": "https://investor.synopsys.com/news/news-details/2026/OpenAI-and-Synopsys-Announce-GPT-Synopsys-Frontier-Intelligence-to-Revolutionize-Chip-Design/default.aspx",
+    "author": [
+      {
+        "literal": "OpenAI and Synopsys"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          9,
+          30
+        ]
+      ]
+    },
+    "note": "Published reference slots: ref-092. Published context: OpenAI and Synopsys. “OpenAI and Synopsys Announce GPT-Synopsys: Frontier Intelligence to Revolutionize Chip Design.” September 30, 2026. Synopsys article."
+  },
+  {
+    "id": "f128_ref_093",
+    "type": "webpage",
+    "title": "Synopsys Details Growth Strategy and Long-term Financial Model at 2026 Investor Day",
+    "URL": "https://news.synopsys.com/2026-09-30-Synopsys-Details-Growth-Strategy-and-Long-term-Financial-Model-at-2026-Investor-Day",
+    "author": [
+      {
+        "literal": "Synopsys"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          9,
+          30
+        ]
+      ]
+    },
+    "note": "Published reference slots: ref-093. Published context: Synopsys. “Synopsys Details Growth Strategy and Long-term Financial Model at 2026 Investor Day.” September 30, 2026. Synopsys page."
+  },
+  {
+    "id": "f128_ref_094",
+    "type": "webpage",
+    "title": "Synopsys Powers Autonomous Engineering with a Broad Portfolio of Long-Horizon Agents and Autopilot Platform",
+    "URL": "https://news.synopsys.com/2026-09-28-Synopsys-Powers-Autonomous-Engineering-with-a-Broad-Portfolio-of-Long-Horizon-Agents-and-Autopilot-Platform",
+    "author": [
+      {
+        "literal": "Synopsys"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          9,
+          28
+        ]
+      ]
+    },
+    "note": "Published reference slots: ref-094. Published context: Synopsys. “Synopsys Powers Autonomous Engineering with a Broad Portfolio of Long-Horizon Agents and Autopilot Platform.” September 28, 2026. Synopsys page."
+  },
+  {
+    "id": "f128_ref_095",
+    "type": "manuscript",
+    "title": "Agentic Electronic Design Automation: A Handoff Perspective",
+    "container-title": "arXiv",
+    "publisher": "arXiv",
+    "URL": "https://arxiv.org/abs/2606.19795",
+    "author": [
+      {
+        "literal": "Jiawei Liu"
+      },
+      {
+        "literal": "Peiyi Han"
+      },
+      {
+        "literal": "Yuntao Lu"
+      },
+      {
+        "literal": "Su Zheng"
+      },
+      {
+        "literal": "Fengyu Yan"
+      },
+      {
+        "literal": "Bei Yu"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          6,
+          18
+        ]
+      ]
+    },
+    "note": "Published reference slots: ref-095. Published context: Jiawei Liu, Peiyi Han, Yuntao Lu, Su Zheng, Fengyu Yan, and Bei Yu. “Agentic Electronic Design Automation: A Handoff Perspective.” arXiv:2606.19795v2, 2026."
+  },
+  {
+    "id": "f128_ref_096",
+    "type": "manuscript",
+    "title": "The Dawn of Agentic EDA: A Survey of Autonomous Digital Chip Design",
+    "container-title": "arXiv",
+    "publisher": "arXiv",
+    "URL": "https://arxiv.org/abs/2512.23189",
+    "author": [
+      {
+        "literal": "Zelin Zang"
+      },
+      {
+        "literal": "Yuhang Song"
+      },
+      {
+        "literal": "Aili Wang"
+      },
+      {
+        "literal": "Bingo Wing-Kuen Ling"
+      },
+      {
+        "literal": "Qi Sun"
+      },
+      {
+        "literal": "Zhen Lei"
+      },
+      {
+        "literal": "Fuji Yang"
+      },
+      {
+        "literal": "Cheng Zhuo"
+      },
+      {
+        "literal": "Jiebo Luo"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2025,
+          12,
+          29
+        ]
+      ]
+    },
+    "note": "Published reference slots: ref-096. Published context: Zelin Zang et al. “The Dawn of Agentic EDA: A Survey of Autonomous Digital Chip Design.” arXiv:2512.23189v2, 2026 revision of a 2025 preprint."
+  },
+  {
+    "id": "f128_ref_097",
+    "type": "manuscript",
+    "title": "Report for NSF Workshop on AI for Electronic Design Automation",
+    "container-title": "arXiv",
+    "publisher": "arXiv",
+    "URL": "https://arxiv.org/abs/2601.14541",
+    "author": [
+      {
+        "literal": "Deming Chen"
+      },
+      {
+        "literal": "Vijay Ganesh"
+      },
+      {
+        "literal": "Weikai Li"
+      },
+      {
+        "literal": "Yingyan Celine Lin"
+      },
+      {
+        "literal": "Yong Liu"
+      },
+      {
+        "literal": "Subhasish Mitra"
+      },
+      {
+        "literal": "David Z. Pan"
+      },
+      {
+        "literal": "Ruchir Puri"
+      },
+      {
+        "literal": "Jason Cong"
+      },
+      {
+        "literal": "Yizhou Sun"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          1,
+          20
+        ]
+      ]
+    },
+    "note": "Published reference slots: ref-097. Published context: Deming Chen et al. “Report for NSF Workshop on AI for Electronic Design Automation.” arXiv:2601.14541, 2026."
+  },
+  {
+    "id": "f128_ref_098",
+    "type": "manuscript",
+    "title": "ChipMEM: Verification-Grounded Memory for EDA Agents",
+    "container-title": "arXiv",
+    "publisher": "arXiv",
+    "URL": "https://arxiv.org/abs/2609.27067",
+    "author": [
+      {
+        "literal": "Abdulrahman AlRabah"
+      },
+      {
+        "literal": "Joshua Mabry"
+      },
+      {
+        "literal": "Dilek Hakkani-Tür"
+      },
+      {
+        "literal": "Abdussalam Alawini"
+      },
+      {
+        "literal": "Hamid Shojaei"
+      },
+      {
+        "literal": "Kartik Hegde"
+      },
+      {
+        "literal": "Sandesh Adhikary"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          9,
+          22
+        ]
+      ]
+    },
+    "note": "Published reference slots: ref-098. Published context: Abdulrahman AlRabah et al. “ChipMEM: Verification-Grounded Memory for EDA Agents.” arXiv:2609.27067v1, 2026."
+  },
+  {
+    "id": "f128_ref_099",
+    "type": "manuscript",
+    "title": "Can AI Agents Really Complete RTL-to-GDS? Lessons from Benchmarking Tool-Interactive EDA Workflows",
+    "container-title": "arXiv",
+    "publisher": "arXiv",
+    "URL": "https://arxiv.org/abs/2607.17528",
+    "author": [
+      {
+        "literal": "Jinyuan Deng"
+      },
+      {
+        "literal": "Zhengrui Chen"
+      },
+      {
+        "literal": "Xufeng Wei"
+      },
+      {
+        "literal": "Tianyu Xing"
+      },
+      {
+        "literal": "Chenyi Wen"
+      },
+      {
+        "literal": "Qi Sun"
+      },
+      {
+        "literal": "Cheng Zhuo"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          7,
+          20
+        ]
+      ]
+    },
+    "note": "Published reference slots: ref-099. Published context: Jinyuan Deng et al. “Can AI Agents Really Complete RTL-to-GDS? Lessons from Benchmarking Tool-Interactive EDA Workflows.” arXiv:2607.17528v3, 2026."
+  },
+  {
+    "id": "f128_ref_100",
+    "type": "article-journal",
+    "title": "Survey of Multifidelity Methods in Uncertainty Propagation, Inference, and Optimization",
+    "container-title": "SIAM Review",
+    "volume": "60",
+    "issue": "3",
+    "page": "550-591",
+    "publisher": "Society for Industrial & Applied Mathematics (SIAM)",
+    "language": "en",
+    "DOI": "10.1137/16m1082469",
+    "URL": "https://doi.org/10.1137/16m1082469",
+    "author": [
+      {
+        "family": "Peherstorfer",
+        "given": "Benjamin"
+      },
+      {
+        "family": "Willcox",
+        "given": "Karen"
+      },
+      {
+        "family": "Gunzburger",
+        "given": "Max"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2018,
+          1
+        ]
+      ]
+    },
+    "note": "Published reference slots: ref-100. Published context: Benjamin Peherstorfer, Karen Willcox, and Max Gunzburger. “Survey of Multifidelity Methods in Uncertainty Propagation, Inference, and Optimization.” SIAM Review 60, no. 3 (2018): 550–591. DOI 10.1137/16M1082469."
+  },
+  {
+    "id": "f128_ref_101",
+    "type": "manuscript",
+    "title": "Cost-aware Bayesian Optimization",
+    "container-title": "arXiv",
+    "publisher": "arXiv",
+    "URL": "https://arxiv.org/abs/2003.10870",
+    "author": [
+      {
+        "literal": "Eric Hans Lee"
+      },
+      {
+        "literal": "Valerio Perrone"
+      },
+      {
+        "literal": "Cédric Archambeau"
+      },
+      {
+        "literal": "Matthias Seeger"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2020,
+          3,
+          22
+        ]
+      ]
+    },
+    "note": "Published reference slots: ref-101. Published context: Eric Hans Lee, Valerio Perrone, Cédric Archambeau, and Matthias Seeger. “Cost-aware Bayesian Optimization.” arXiv:2003.10870, 2020."
+  },
+  {
+    "id": "f128_ref_102",
+    "type": "report",
+    "title": "Prediction, Judgment and Complexity: A Theory of Decision Making and Artificial Intelligence",
+    "publisher": "National Bureau of Economic Research",
+    "DOI": "10.3386/w24243",
+    "URL": "https://doi.org/10.3386/w24243",
+    "author": [
+      {
+        "family": "Agrawal",
+        "given": "Ajay"
+      },
+      {
+        "family": "Gans",
+        "given": "Joshua"
+      },
+      {
+        "family": "Goldfarb",
+        "given": "Avi"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2018,
+          1
+        ]
+      ]
+    },
+    "note": "Published reference slots: ref-102. Published context: Ajay K. Agrawal, Joshua S. Gans, and Avi Goldfarb. “Prediction, Judgment and Complexity: A Theory of Decision Making and Artificial Intelligence.” NBER Working Paper 24243, 2018. DOI 10.3386/w24243."
+  },
+  {
+    "id": "f128_ref_103",
+    "type": "manuscript",
+    "title": "Deterministic Core, Agent Tail: A Verify-Before-Ship Architecture for Orchestrating Open Silicon Sign-Off",
+    "publisher": "Zenodo",
+    "language": "en",
+    "DOI": "10.5281/zenodo.21438247",
+    "URL": "https://doi.org/10.5281/zenodo.21438247",
+    "author": [
+      {
+        "family": "Mysore",
+        "given": "Shivaram H"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2026
+        ]
+      ]
+    },
+    "note": "Published reference slots: ref-103. Published context: Shivaram H. Mysore. “Deterministic Core, Agent Tail: A Verify-Before-Ship Architecture for Orchestrating Open Silicon Sign-Off.” Zenodo record 21438247, 2026. DOI 10.5281/zenodo.21438247."
+  },
+  {
+    "id": "f128_ref_104",
+    "type": "manuscript",
+    "title": "Is Agentic AI Ready for Real-World Hardware Engineering? A Deep Dive with Phoenix-bench",
+    "container-title": "arXiv",
+    "publisher": "arXiv",
+    "URL": "https://arxiv.org/abs/2605.15226",
+    "author": [
+      {
+        "literal": "Qingyun Zou"
+      },
+      {
+        "literal": "Feng Yu"
+      },
+      {
+        "literal": "Hongshi Tan"
+      },
+      {
+        "literal": "Bingsheng He"
+      },
+      {
+        "literal": "WengFai Wong"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          5,
+          13
+        ]
+      ]
+    },
+    "note": "Published reference slots: ref-104. Published context: Qingyun Zou, Feng Yu, Hongshi Tan, Bingsheng He, and Weng-Fai Wong. “Is Agentic AI Ready for Real-World Hardware Engineering? A Deep Dive with Phoenix-bench.” arXiv:2605.15226, 2026."
+  },
+  {
+    "id": "f128_ref_105",
+    "type": "manuscript",
+    "title": "ChipBench: A Next-Step Benchmark for Evaluating LLM Performance in AI-Aided Chip Design",
+    "container-title": "arXiv",
+    "publisher": "arXiv",
+    "URL": "https://arxiv.org/abs/2601.21448",
+    "author": [
+      {
+        "literal": "Zhongkai Yu"
+      },
+      {
+        "literal": "Chenyang Zhou"
+      },
+      {
+        "literal": "Yichen Lin"
+      },
+      {
+        "literal": "Hejia Zhang"
+      },
+      {
+        "literal": "Haotian Ye"
+      },
+      {
+        "literal": "Junxia Cui"
+      },
+      {
+        "literal": "Zaifeng Pan"
+      },
+      {
+        "literal": "Jishen Zhao"
+      },
+      {
+        "literal": "Yufei Ding"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          1,
+          29
+        ]
+      ]
+    },
+    "note": "Published reference slots: ref-105. Published context: Zhongkai Yu, Chenyang Zhou, Yichen Lin, Hejia Zhang, Haotian Ye, Junxia Cui, Zaifeng Pan, Jishen Zhao, and Yufei Ding. “ChipBench: A Next-Step Benchmark for Evaluating LLM Performance in AI-Aided Chip Design.” arXiv:2601.21448v2, 2026."
+  },
+  {
+    "id": "f128_ref_106",
+    "type": "manuscript",
+    "title": "PDAGENT-BENCH: Characterizing, Grounding, and Architecting LLM/VLM Agents for VLSI Physical Design",
+    "container-title": "arXiv",
+    "publisher": "arXiv",
+    "URL": "https://arxiv.org/abs/2606.17253",
+    "author": [
+      {
+        "literal": "Qiufeng Li"
+      },
+      {
+        "literal": "Rongqian Chen"
+      },
+      {
+        "literal": "Quan Cheng"
+      },
+      {
+        "literal": "Chengxuan Wang"
+      },
+      {
+        "literal": "Sizhe Tang"
+      },
+      {
+        "literal": "Chia-Tung Ho"
+      },
+      {
+        "literal": "David Z. Pan"
+      },
+      {
+        "literal": "Tian Lan"
+      },
+      {
+        "literal": "Weidong Cao"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          6,
+          15
+        ]
+      ]
+    },
+    "note": "Published reference slots: ref-106. Published context: Qiufeng Li et al. “PDAgent-Bench: Characterizing, Grounding, and Architecting LLM/VLM Agents for VLSI Physical Design.” arXiv:2606.17253v6, 2026."
+  },
+  {
+    "id": "f128_ref_107",
+    "type": "manuscript",
+    "title": "EDATracer: An Agentic Framework for Large-Scale EDA Artifact Analysis",
+    "container-title": "arXiv",
+    "publisher": "arXiv",
+    "URL": "https://arxiv.org/abs/2608.04032",
+    "author": [
+      {
+        "literal": "Phat Tieu"
+      },
+      {
+        "literal": "Sayanti Jana"
+      },
+      {
+        "literal": "Matthew DeLorenzo"
+      },
+      {
+        "literal": "Jiawen Wu"
+      },
+      {
+        "literal": "Narendran Srinivasan"
+      },
+      {
+        "literal": "Srinivas Shakkottai"
+      },
+      {
+        "literal": "Jiang Hu"
+      },
+      {
+        "literal": "Jeyavijayan Rajendran"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          8,
+          2
+        ]
+      ]
+    },
+    "note": "Published reference slots: ref-107. Published context: Phat Tieu, Sayanti Jana, Matthew DeLorenzo, Jiawen Wu, Narendran Srinivasan, Srinivas Shakkottai, Jiang Hu, and Jeyavijayan Rajendran. “EDATracer: An Agentic Framework for Large-Scale EDA Artifact Analysis.” arXiv:2608.04032, 2026."
+  },
+  {
+    "id": "f128_ref_108",
+    "type": "webpage",
+    "title": "Synopsys Advances Agentic AI Chip Design with AMD and Microsoft",
+    "URL": "https://news.synopsys.com/2026-07-27-Synopsys-Advances-Agentic-AI-Chip-Design-with-AMD-and-Microsoft",
+    "author": [
+      {
+        "literal": "Synopsys"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          7,
+          27
+        ]
+      ]
+    },
+    "note": "Published reference slots: ref-108. Published context: Synopsys. “Synopsys Advances Agentic AI Chip Design with AMD and Microsoft.” July 27, 2026. Synopsys page."
+  },
+  {
+    "id": "f128_ref_109",
+    "type": "manuscript",
+    "title": "AiEDA: An Open-Source AI-Aided Design Library for Design-to-Vector",
+    "container-title": "arXiv",
+    "publisher": "arXiv",
+    "URL": "https://arxiv.org/abs/2511.05823",
+    "author": [
+      {
+        "literal": "Yihang Qiu"
+      },
+      {
+        "literal": "Zengrong Huang"
+      },
+      {
+        "literal": "Simin Tao"
+      },
+      {
+        "literal": "Hongda Zhang"
+      },
+      {
+        "literal": "Weiguo Li"
+      },
+      {
+        "literal": "Xinhua Lai"
+      },
+      {
+        "literal": "Rui Wang"
+      },
+      {
+        "literal": "Weiqiang Wang"
+      },
+      {
+        "literal": "Xingquan Li"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2025,
+          11,
+          8
+        ]
+      ]
+    },
+    "note": "Published reference slots: ref-109. Published context: Yihang Qiu et al. “AiEDA: An Open-Source AI-Aided Design Library for Design-to-Vector.” arXiv:2511.05823, 2025."
+  },
+  {
+    "id": "f128_ref_110",
+    "type": "webpage",
+    "title": "アナデジ混載型エッジAI SoC設計技術の研究開発",
+    "language": "ja",
+    "URL": "https://www.jst.go.jp/program/edge-ai-semicon/files/project/JPMJES2515_okada.pdf",
+    "author": [
+      {
+        "literal": "Japan Science and Technology Agency"
+      }
+    ],
+    "note": "English title: Research and Development of Analog/Digital Mixed Edge-AI SoC Design Technology. Published reference slots: ref-110. Published context: Japan Science and Technology Agency. “アナデジ混載型エッジAI SoC設計技術の研究開発” (Research and Development of Analog/Digital Mixed Edge-AI SoC Design Technology). Project JPMJES2515. JST PDF."
+  },
+  {
+    "id": "f128_ref_111",
+    "type": "manuscript",
+    "title": "ChatEDA: A Large Language Model Powered Autonomous Agent for EDA",
+    "container-title": "arXiv",
+    "publisher": "arXiv",
+    "URL": "https://arxiv.org/abs/2308.10204",
+    "author": [
+      {
+        "literal": "Zhuolun He"
+      },
+      {
+        "literal": "Haoyuan Wu"
+      },
+      {
+        "literal": "Xinyun Zhang"
+      },
+      {
+        "literal": "Xufeng Yao"
+      },
+      {
+        "literal": "Su Zheng"
+      },
+      {
+        "literal": "Haisheng Zheng"
+      },
+      {
+        "literal": "Bei Yu"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2023,
+          8,
+          20
+        ]
+      ]
+    },
+    "note": "Published reference slots: ref-111. Published context: Zhuolun He et al. “ChatEDA: A Large Language Model Powered Autonomous Agent for EDA.” arXiv:2308.10204v4, 2024 revision of a 2023 preprint."
+  },
+  {
+    "id": "f128_ref_112",
+    "type": "manuscript",
+    "title": "ChipNeMo: Domain-Adapted LLMs for Chip Design",
+    "container-title": "arXiv",
+    "publisher": "arXiv",
+    "URL": "https://arxiv.org/abs/2311.00176",
+    "author": [
+      {
+        "literal": "Mingjie Liu"
+      },
+      {
+        "literal": "Teodor-Dumitru Ene"
+      },
+      {
+        "literal": "Robert Kirby"
+      },
+      {
+        "literal": "Chris Cheng"
+      },
+      {
+        "literal": "Nathaniel Pinckney"
+      },
+      {
+        "literal": "Rongjian Liang"
+      },
+      {
+        "literal": "Jonah Alben"
+      },
+      {
+        "literal": "Himyanshu Anand"
+      },
+      {
+        "literal": "Sanmitra Banerjee"
+      },
+      {
+        "literal": "Ismet Bayraktaroglu"
+      },
+      {
+        "literal": "Bonita Bhaskaran"
+      },
+      {
+        "literal": "Bryan Catanzaro"
+      },
+      {
+        "literal": "Arjun Chaudhuri"
+      },
+      {
+        "literal": "Sharon Clay"
+      },
+      {
+        "literal": "Bill Dally"
+      },
+      {
+        "literal": "Laura Dang"
+      },
+      {
+        "literal": "Parikshit Deshpande"
+      },
+      {
+        "literal": "Siddhanth Dhodhi"
+      },
+      {
+        "literal": "Sameer Halepete"
+      },
+      {
+        "literal": "Eric Hill"
+      },
+      {
+        "literal": "Jiashang Hu"
+      },
+      {
+        "literal": "Sumit Jain"
+      },
+      {
+        "literal": "Ankit Jindal"
+      },
+      {
+        "literal": "Brucek Khailany"
+      },
+      {
+        "literal": "George Kokai"
+      },
+      {
+        "literal": "Kishor Kunal"
+      },
+      {
+        "literal": "Xiaowei Li"
+      },
+      {
+        "literal": "Charley Lind"
+      },
+      {
+        "literal": "Hao Liu"
+      },
+      {
+        "literal": "Stuart Oberman"
+      },
+      {
+        "literal": "Sujeet Omar"
+      },
+      {
+        "literal": "Ghasem Pasandi"
+      },
+      {
+        "literal": "Sreedhar Pratty"
+      },
+      {
+        "literal": "Jonathan Raiman"
+      },
+      {
+        "literal": "Ambar Sarkar"
+      },
+      {
+        "literal": "Zhengjiang Shao"
+      },
+      {
+        "literal": "Hanfei Sun"
+      },
+      {
+        "literal": "Pratik P Suthar"
+      },
+      {
+        "literal": "Varun Tej"
+      },
+      {
+        "literal": "Walker Turner"
+      },
+      {
+        "literal": "Kaizhe Xu"
+      },
+      {
+        "literal": "Haoxing Ren"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2023,
+          10,
+          31
+        ]
+      ]
+    },
+    "note": "Published reference slots: ref-112. Published context: Mingjie Liu et al. “ChipNeMo: Domain-Adapted LLMs for Chip Design.” arXiv:2311.00176v2, 2024."
+  },
+  {
+    "id": "f128_ref_113",
+    "type": "report",
+    "title": "Exploring the Impact of Artificial Intelligence: Prediction versus Judgment",
+    "publisher": "National Bureau of Economic Research",
+    "DOI": "10.3386/w24626",
+    "URL": "https://doi.org/10.3386/w24626",
+    "author": [
+      {
+        "family": "Agrawal",
+        "given": "Ajay"
+      },
+      {
+        "family": "Gans",
+        "given": "Joshua"
+      },
+      {
+        "family": "Goldfarb",
+        "given": "Avi"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2018,
+          5
+        ]
+      ]
+    },
+    "note": "Published reference slots: ref-113. Published context: Ajay K. Agrawal, Joshua S. Gans, and Avi Goldfarb. “Exploring the Impact of Artificial Intelligence: Prediction versus Judgment.” NBER Working Paper 24626, 2018. DOI 10.3386/w24626."
+  },
+  {
+    "id": "f128_ref_114",
+    "type": "article-journal",
+    "title": "Automatic DC operating point computation and design plan generation for analog IPs",
+    "container-title": "Analog Integrated Circuits and Signal Processing",
+    "volume": "56",
+    "issue": "1-2",
+    "page": "93-105",
+    "publisher": "Springer Science and Business Media LLC",
+    "language": "en",
+    "DOI": "10.1007/s10470-007-9075-3",
+    "URL": "https://doi.org/10.1007/s10470-007-9075-3",
+    "author": [
+      {
+        "family": "Iskander",
+        "given": "Ramy"
+      },
+      {
+        "family": "Louërat",
+        "given": "Marie-Minerve"
+      },
+      {
+        "family": "Kaiser",
+        "given": "Andreas"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2008,
+          8
+        ]
+      ]
+    },
+    "note": "Published reference slots: ref-114. Published context: Ramy Iskander, Marie-Minerve Louërat, and Andreas Kaiser. “Automatic DC Operating Point Computation and Design Plan Generation for Analog IPs.” Analog Integrated Circuits and Signal Processing 56 (2008): 93–105. DOI 10.1007/s10470-007-9075-3."
+  },
+  {
+    "id": "f128_ref_115",
+    "type": "manuscript",
+    "title": "Self-Evolving Algorithm-Design Agents: Escaping In-Context Evolutionary Stagnation via Population-Curated Policy Optimization",
+    "container-title": "arXiv",
+    "publisher": "arXiv",
+    "URL": "https://arxiv.org/abs/2609.38757",
+    "author": [
+      {
+        "literal": "Chen Lu"
+      },
+      {
+        "literal": "Ke Xue"
+      },
+      {
+        "literal": "Siyuan Xu"
+      },
+      {
+        "literal": "Mingxuan Yuan"
+      },
+      {
+        "literal": "Chao Qian"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          9,
+          30
+        ]
+      ]
+    },
+    "note": "Published reference slots: ref-115. Published context: Chen Lu, Ke Xue, Siyuan Xu, Mingxuan Yuan, and Chao Qian. “Self-Evolving Algorithm-Design Agents: Escaping In-Context Evolutionary Stagnation via Population-Curated Policy Optimization.” arXiv:2609.38757, 2026."
+  },
+  {
+    "id": "f128_ref_116",
+    "type": "manuscript",
+    "title": "Long-Horizon Analog Design Bench: Benchmarking Agents on Hours-Long Analog and Mixed-Signal Circuit Design Tasks",
+    "container-title": "arXiv",
+    "publisher": "arXiv",
+    "URL": "https://arxiv.org/abs/2609.33356",
+    "author": [
+      {
+        "literal": " Analog Design Bench Team"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          9,
+          27
+        ]
+      ]
+    },
+    "note": "Published reference slots: ref-116. Published context: Analog Design Bench Team. “Long-Horizon Analog Design Bench: Benchmarking Agents on Hours-Long Analog and Mixed-Signal Circuit Design Tasks.” arXiv:2609.33356, 2026."
+  },
+  {
+    "id": "f128_ref_117",
+    "type": "manuscript",
+    "title": "BEHAVE: Functional Behavior Modeling Enables Self-Improving Agents for Hardware Design and Verification",
+    "container-title": "arXiv",
+    "publisher": "arXiv",
+    "URL": "https://arxiv.org/abs/2609.34785",
+    "author": [
+      {
+        "literal": "Yuheng Wu"
+      },
+      {
+        "literal": "Berk Gokmen"
+      },
+      {
+        "literal": "Sujeeth Jinesh"
+      },
+      {
+        "literal": "Lauren McLane"
+      },
+      {
+        "literal": "Aarav Wattal"
+      },
+      {
+        "literal": "Qi Yang Huang"
+      },
+      {
+        "literal": "Zhaozhuo Xu"
+      },
+      {
+        "literal": "Thierry Tambe"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          9,
+          28
+        ]
+      ]
+    },
+    "note": "Published reference slots: ref-117. Published context: Yuheng Wu et al. “BEHAVE: Functional Behavior Modeling Enables Self-Improving Agents for Hardware Design and Verification.” arXiv:2609.34785, 2026."
+  },
+  {
+    "id": "f128_ref_118",
+    "type": "manuscript",
+    "title": "Scientific Discovery under Validation Congestion via Multi-Fidelity Pairwise Rankings",
+    "container-title": "arXiv",
+    "publisher": "arXiv",
+    "URL": "https://arxiv.org/abs/2610.01827",
+    "author": [
+      {
+        "literal": "Kevin Tirta Wijaya"
+      },
+      {
+        "literal": "Alston Lo"
+      },
+      {
+        "literal": "Michael Sun"
+      },
+      {
+        "literal": "Wojciech Matusik"
+      },
+      {
+        "literal": "Vahid Babaei"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          10,
+          1
+        ]
+      ]
+    },
+    "note": "Published reference slots: ref-118. Published context: Kevin Tirta Wijaya, Alston Lo, Michael Sun, Wojciech Matusik, and Vahid Babaei. “Scientific Discovery under Validation Congestion via Multi-Fidelity Pairwise Rankings.” arXiv:2610.01827, 2026."
+  },
+  {
+    "id": "f128_ref_119",
+    "type": "manuscript",
+    "title": "Learning Meta-Skills for Agent Harness Design in Test-Time AI4AI",
+    "container-title": "arXiv",
+    "publisher": "arXiv",
+    "URL": "https://arxiv.org/abs/2609.38143",
+    "author": [
+      {
+        "literal": "Cheng Qian"
+      },
+      {
+        "literal": "Kunlun Zhu"
+      },
+      {
+        "literal": "Beibin Li"
+      },
+      {
+        "literal": "Zhenhailong Wang"
+      },
+      {
+        "literal": "Heng Ji"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          9,
+          29
+        ]
+      ]
+    },
+    "note": "Published reference slots: ref-119. Published context: Cheng Qian, Kunlun Zhu, Beibin Li, Zhenhailong Wang, and Heng Ji. “Learning Meta-Skills for Agent Harness Design in Test-Time AI4AI.” arXiv:2609.38143, 2026."
+  },
+  {
+    "id": "f128_ref_120",
+    "type": "manuscript",
+    "title": "EngramBench: A Capability-Grounded Benchmark for Skill-Evolution Harnesses",
+    "container-title": "arXiv",
+    "publisher": "arXiv",
+    "URL": "https://arxiv.org/abs/2609.39284",
+    "author": [
+      {
+        "literal": "Zhixuan Tan"
+      },
+      {
+        "literal": "Pengjie Gu"
+      },
+      {
+        "literal": "Zhao Li"
+      },
+      {
+        "literal": "Yihan Hu"
+      },
+      {
+        "literal": "Xu He"
+      },
+      {
+        "literal": "Dong Li"
+      },
+      {
+        "literal": "Jianye Hao"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          9,
+          30
+        ]
+      ]
+    },
+    "note": "Published reference slots: ref-120. Published context: Zhixuan Tan et al. “EngramBench: A Capability-Grounded Benchmark for Skill-Evolution Harnesses.” arXiv:2609.39284, 2026."
+  },
+  {
+    "id": "f128_ref_121",
+    "type": "manuscript",
+    "title": "From Experience to Expertise: Adoption-Aware Memory Learning for Data-Scarce NPU Kernel Synthesis",
+    "container-title": "arXiv",
+    "publisher": "arXiv",
+    "URL": "https://arxiv.org/abs/2609.35568",
+    "author": [
+      {
+        "literal": "Longxiao Fan"
+      },
+      {
+        "literal": "Tao Zhang"
+      },
+      {
+        "literal": "Han Yan"
+      },
+      {
+        "literal": "Jiajun Li"
+      },
+      {
+        "literal": "Mingcong Song"
+      },
+      {
+        "literal": "Guoping Long"
+      },
+      {
+        "literal": "Hongjie Si"
+      },
+      {
+        "literal": "Weiwei Sun"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          9,
+          28
+        ]
+      ]
+    },
+    "note": "Published reference slots: ref-121. Published context: Longxiao Fan et al. “From Experience to Expertise: Adoption-Aware Memory Learning for Data-Scarce NPU Kernel Synthesis.” arXiv:2609.35568, 2026."
+  },
+  {
+    "id": "f128_ref_122",
+    "type": "manuscript",
+    "title": "RoutePrism: Tracing Construction Order Effects in Agent Memory",
+    "container-title": "arXiv",
+    "publisher": "arXiv",
+    "URL": "https://arxiv.org/abs/2609.34160",
+    "author": [
+      {
+        "literal": "Dong Xu"
+      },
+      {
+        "literal": "Zhangfan Yang"
+      },
+      {
+        "literal": "Jiantao Wu"
+      },
+      {
+        "literal": "Shipeng Zhang"
+      },
+      {
+        "literal": "Zexuan Zhu"
+      },
+      {
+        "literal": "Jiangqiang Li"
+      },
+      {
+        "literal": "Jun Zhang"
+      },
+      {
+        "literal": "Junkai Ji"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          9,
+          28
+        ]
+      ]
+    },
+    "note": "Published reference slots: ref-122. Published context: Dong Xu et al. “RoutePrism: Tracing Construction Order Effects in Agent Memory.” arXiv:2609.34160, 2026."
+  },
+  {
+    "id": "f128_ref_123",
+    "type": "manuscript",
+    "title": "Verify Claims, Not Scores: Evidence-Based Verification of Modular Agents",
+    "container-title": "arXiv",
+    "publisher": "arXiv",
+    "URL": "https://arxiv.org/abs/2610.01348",
+    "author": [
+      {
+        "literal": "Ali Atiah Alzahrani"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          10,
+          1
+        ]
+      ]
+    },
+    "note": "Published reference slots: ref-123. Published context: Ali Atiah Alzahrani. “Verify Claims, Not Scores: Evidence-Based Verification of Modular Agents.” arXiv:2610.01348, 2026."
+  },
+  {
+    "id": "f128_ref_124",
+    "type": "manuscript",
+    "title": "Vestrum: Improving Agent Harnesses by Adapting Their Verification, Structure and Memory",
+    "container-title": "arXiv",
+    "publisher": "arXiv",
+    "URL": "https://arxiv.org/abs/2609.33822",
+    "author": [
+      {
+        "literal": "Jayant Parashar"
+      },
+      {
+        "literal": "Eugene F. Douglass"
+      },
+      {
+        "literal": "William C. Bastian"
+      },
+      {
+        "literal": "Suchendra M. Bhandarkar"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          9,
+          27
+        ]
+      ]
+    },
+    "note": "Published reference slots: ref-124. Published context: Jayant Parashar, Eugene F. Douglass, William C. Bastian, and Suchendra M. Bhandarkar. “Vestrum: Improving Agent Harnesses by Adapting Their Verification, Structure and Memory.” arXiv:2609.33822, 2026."
+  },
+  {
+    "id": "f128_ref_125",
+    "type": "manuscript",
+    "title": "EASE: Behavior-Adaptive Skill Curation for Self-Evolving Agents",
+    "container-title": "arXiv",
+    "publisher": "arXiv",
+    "URL": "https://arxiv.org/abs/2609.36746",
+    "author": [
+      {
+        "literal": "Zhen Xiong"
+      },
+      {
+        "literal": "Qiaoyu Tan"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          9,
+          29
+        ]
+      ]
+    },
+    "note": "Published reference slots: ref-125. Published context: Zhen Xiong and Qiaoyu Tan. “EASE: Behavior-Adaptive Skill Curation for Self-Evolving Agents.” arXiv:2609.36746, 2026."
+  },
+  {
+    "id": "f128_ref_126",
+    "type": "manuscript",
+    "title": "SkillSpec: Consensus-Gated Agent Skill Evolution via Representation Specialization",
+    "container-title": "arXiv",
+    "publisher": "arXiv",
+    "URL": "https://arxiv.org/abs/2610.00704",
+    "author": [
+      {
+        "literal": "Huancheng Chen"
+      },
+      {
+        "literal": "Xiaodi Sun"
+      },
+      {
+        "literal": "Zhaoqiong Huang"
+      },
+      {
+        "literal": "Shenyang Huang Shreya Singhal"
+      },
+      {
+        "literal": "Jingwen Lu"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          9,
+          30
+        ]
+      ]
+    },
+    "note": "Published reference slots: ref-126. Published context: Huancheng Chen et al. “SkillSpec: Consensus-Gated Agent Skill Evolution via Representation Specialization.” arXiv:2610.00704, 2026."
+  },
+  {
+    "id": "f128_ref_127",
+    "type": "manuscript",
+    "title": "GenMem: Generative Symbolic Memory for Self-Evolving Harness",
+    "container-title": "arXiv",
+    "publisher": "arXiv",
+    "URL": "https://arxiv.org/abs/2609.34633",
+    "author": [
+      {
+        "literal": "Xinke Jiang"
+      },
+      {
+        "literal": "Tao Feng"
+      },
+      {
+        "literal": "Weixuan Xu"
+      },
+      {
+        "literal": "Zhixin Zhang"
+      },
+      {
+        "literal": "Zhibang Yang"
+      },
+      {
+        "literal": "Wentao Zhang"
+      },
+      {
+        "literal": "Runchuan Zhu"
+      },
+      {
+        "literal": "Xu Chu"
+      },
+      {
+        "literal": "Junfeng Zhao"
+      },
+      {
+        "literal": "Yasha Wang"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          9,
+          28
+        ]
+      ]
+    },
+    "note": "Published reference slots: ref-127. Published context: Xinke Jiang et al. “GenMem: Generative Symbolic Memory for Self-Evolving Harnesses.” arXiv:2609.34633, 2026."
+  },
+  {
+    "id": "f128_ref_128",
+    "type": "manuscript",
+    "title": "CodeSkill: Latent Skill Abstraction for Long-Horizon Code Agents",
+    "container-title": "arXiv",
+    "publisher": "arXiv",
+    "URL": "https://arxiv.org/abs/2609.33243",
+    "author": [
+      {
+        "literal": "Song-Li Wu"
+      },
+      {
+        "literal": "Jingyi Wang"
+      },
+      {
+        "literal": "Zhaocheng Du"
+      },
+      {
+        "literal": "Weinan Gan"
+      },
+      {
+        "literal": "Weiwen Liu"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          9,
+          27
+        ]
+      ]
+    },
+    "note": "Published reference slots: ref-128. Published context: Song-Li Wu et al. “CodeSkill: Latent Skill Abstraction for Long-Horizon Code Agents.” arXiv:2609.33243, 2026."
+  },
+  {
+    "id": "f128_ref_129",
+    "type": "manuscript",
+    "title": "SkillVine: Agent Skill Evolution via Branching Exploration",
+    "container-title": "arXiv",
+    "publisher": "arXiv",
+    "URL": "https://arxiv.org/abs/2609.32731",
+    "author": [
+      {
+        "literal": "Kaiwei Liu"
+      },
+      {
+        "literal": "Jiqian Dong"
+      },
+      {
+        "literal": "Liran Dong"
+      },
+      {
+        "literal": "Shuai Mao"
+      },
+      {
+        "literal": "Mingming Zhao"
+      },
+      {
+        "literal": "Bufang Yang"
+      },
+      {
+        "literal": "Jie Chuai"
+      },
+      {
+        "literal": "Zhitang Chen"
+      },
+      {
+        "literal": "Guoliang Xing"
+      },
+      {
+        "literal": "Zhenyu Yan"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          9,
+          26
+        ]
+      ]
+    },
+    "note": "Published reference slots: ref-129. Published context: Kaiwei Liu et al. “SkillVine: Agent Skill Evolution via Branching Exploration.” arXiv:2609.32731, 2026."
+  },
+  {
+    "id": "f128_ref_130",
+    "type": "manuscript",
+    "title": "Beyond the Model: Demystifying Harness Effects in Software Engineering Agents",
+    "container-title": "arXiv",
+    "publisher": "arXiv",
+    "URL": "https://arxiv.org/abs/2609.32459",
+    "author": [
+      {
+        "literal": "Haichuan Hu"
+      },
+      {
+        "literal": "Quanjun Zhang"
+      },
+      {
+        "literal": "Shengcheng Yu"
+      },
+      {
+        "literal": "Zhifei Chen"
+      },
+      {
+        "literal": "Tianyu Luo"
+      },
+      {
+        "literal": "Chunrong Fang"
+      },
+      {
+        "literal": "Zhenyu Chen"
+      },
+      {
+        "literal": "Liang Xiao"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          9,
+          26
+        ]
+      ]
+    },
+    "note": "Published reference slots: ref-130. Published context: Haichuan Hu et al. “Beyond the Model: Demystifying Harness Effects in Software Engineering Agents.” arXiv:2609.32459, 2026."
+  },
+  {
+    "id": "f128_ref_131",
+    "type": "manuscript",
+    "title": "Component-Aware Feedback for Self-Evolving Programs",
+    "container-title": "arXiv",
+    "publisher": "arXiv",
+    "URL": "https://arxiv.org/abs/2609.38639",
+    "author": [
+      {
+        "literal": "Ethan Lin"
+      },
+      {
+        "literal": "Jinming Nian"
+      },
+      {
+        "literal": "Yi Fang"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          9,
+          29
+        ]
+      ]
+    },
+    "note": "Published reference slots: ref-131. Published context: Ethan Lin, Jinming Nian, and Yi Fang. “Component-Aware Feedback for Self-Evolving Programs.” arXiv:2609.38639, 2026."
+  },
+  {
+    "id": "f128_ref_132",
+    "type": "manuscript",
+    "title": "Audience-Bound Persistent Memory: Authorization Across the Memory Lifecycle",
+    "container-title": "arXiv",
+    "publisher": "arXiv",
+    "URL": "https://arxiv.org/abs/2609.36373",
+    "author": [
+      {
+        "literal": "Sibo Liu"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          9,
+          28
+        ]
+      ]
+    },
+    "note": "Published reference slots: ref-132. Published context: Sibo Liu. “Audience-Bound Persistent Memory: Authorization Across the Memory Lifecycle.” arXiv:2609.36373, 2026."
+  },
+  {
+    "id": "f128_ref_133",
+    "type": "manuscript",
+    "title": "From Physical Devices to RTL Models: Abstraction and Validation in Hardware Engineering",
+    "container-title": "arXiv",
+    "publisher": "arXiv",
+    "URL": "https://arxiv.org/abs/2610.01186",
+    "author": [
+      {
+        "literal": "Wolfgang Ecker"
+      },
+      {
+        "literal": "Natalie Simson"
+      },
+      {
+        "literal": "Johannes Ecker"
+      },
+      {
+        "literal": "Endri Kaja"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          10,
+          1
+        ]
+      ]
+    },
+    "note": "Published reference slots: ref-133. Published context: Wolfgang Ecker, Natalie Simson, Johannes Ecker, and Endri Kaja. “From Physical Devices to RTL Models: Abstraction and Validation in Hardware Engineering.” arXiv:2610.01186, 2026."
+  },
+  {
+    "id": "f128_ref_134",
+    "type": "webpage",
+    "title": "Strategic, Multi-year IP Agreement for Custom Silicon; Collaboration Also Extends to Cloud and AI-Powered Engineering",
+    "URL": "https://news.synopsys.com/2026-09-30-Synopsys-and-Amazon-Announce-Strategic,-Multi-year-IP-Agreement-for-Custom-Silicon-Collaboration-Also-Extends-to-Cloud-and-AI-Powered-Engineering",
+    "author": [
+      {
+        "literal": "Synopsys and Amazon"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          9,
+          30
+        ]
+      ]
+    },
+    "note": "Published reference slots: ref-134. Published context: Synopsys and Amazon. “Strategic, Multi-year IP Agreement for Custom Silicon; Collaboration Also Extends to Cloud and AI-Powered Engineering.” September 30, 2026. Synopsys page."
+  },
+  {
+    "id": "f128_ref_135",
+    "type": "webpage",
+    "title": "Agentic AI for Chip Design: How AWS and ChipAgents Tackle the Engineering Bottleneck",
+    "URL": "https://chipagents.ai/blogs/agentic-ai-chip-design-aws-chipagents",
+    "author": [
+      {
+        "literal": "ChipAgents"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2026
+        ]
+      ]
+    },
+    "note": "Published reference slots: ref-135. Published context: ChipAgents. “Agentic AI for Chip Design: How AWS and ChipAgents Tackle the Engineering Bottleneck.” 2026. ChipAgents article."
+  },
+  {
+    "id": "f128_ref_136",
+    "type": "webpage",
+    "title": "Agentic AI Can Reach GDS. What Must It Prove Before Engineers Trust It for Tapeout?",
+    "URL": "https://semiwiki.com/eda/agentrys/373853-agentic-ai-can-reach-gds-what-must-it-prove-before-engineers-trust-it-for-tapeout",
+    "author": [
+      {
+        "literal": "Moh Kolb"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2026
+        ]
+      ]
+    },
+    "note": "Published reference slots: ref-136. Published context: Moh Kolb. “Agentic AI Can Reach GDS. What Must It Prove Before Engineers Trust It for Tapeout?” SemiWiki, 2026. SemiWiki page."
+  },
+  {
+    "id": "f128_ref_137",
+    "type": "manuscript",
+    "title": "Coding Agent Memory Post-training: Unlocking the Memory Potential of Pre-trained File Operations for Long-Horizon Tasks via Reinforcement Learning",
+    "container-title": "arXiv",
+    "publisher": "arXiv",
+    "URL": "https://arxiv.org/abs/2609.34422",
+    "author": [
+      {
+        "literal": "Lirui Luo"
+      },
+      {
+        "literal": "Kelong Mao"
+      },
+      {
+        "literal": "Heming Xia"
+      },
+      {
+        "literal": "Rongqing Li"
+      },
+      {
+        "literal": "Xinwei Yang"
+      },
+      {
+        "literal": "Luyu Chen"
+      },
+      {
+        "literal": "Kieran Wong"
+      },
+      {
+        "literal": "Yudong Guo"
+      },
+      {
+        "literal": "Xinrui Wang"
+      },
+      {
+        "literal": "Jiayin Zhu"
+      },
+      {
+        "literal": "Simiu Gu"
+      },
+      {
+        "literal": "Sulong Xu"
+      },
+      {
+        "literal": "Cong Fang"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          9,
+          28
+        ]
+      ]
+    },
+    "note": "Published reference slots: ref-137. Published context: Lirui Luo et al. “Coding Agent Memory Post-training: Unlocking the Memory Potential of Pre-trained File Operations for Long-Horizon Tasks via Reinforcement Learning.” arXiv:2609.34422v2, 2026."
+  },
+  {
+    "id": "f128_ref_138",
+    "type": "manuscript",
+    "title": "MemCodex: Self-Programming Hierarchical Memory for Language Agents",
+    "container-title": "arXiv",
+    "publisher": "arXiv",
+    "URL": "https://arxiv.org/abs/2609.39765",
+    "author": [
+      {
+        "literal": "Xiaoqiang Wang"
+      },
+      {
+        "literal": "Bang Liu"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          9,
+          30
+        ]
+      ]
+    },
+    "note": "Published reference slots: ref-138. Published context: Xiaoqiang Wang and Bang Liu. “MemCodex: Self-Programming Hierarchical Memory for Language Agents.” arXiv:2609.39765, 2026."
+  },
+  {
+    "id": "f128_ref_139",
+    "type": "manuscript",
+    "title": "MemFit: Efficient Long-Term Agentic Memory",
+    "container-title": "arXiv",
+    "publisher": "arXiv",
+    "URL": "https://arxiv.org/abs/2610.00872",
+    "author": [
+      {
+        "literal": "Mitchell Piehl"
+      },
+      {
+        "literal": "Muchao Ye"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          10,
+          1
+        ]
+      ]
+    },
+    "note": "Published reference slots: ref-139. Published context: Mitchell Piehl and Muchao Ye. “MemFit: Efficient Long-Term Agentic Memory.” arXiv:2610.00872, 2026."
+  },
+  {
+    "id": "f128_ref_140",
+    "type": "article-journal",
+    "title": "APEC-Route: Guiding Analog Routing with On-the-Fly Parasitic Extraction Based on a Neural Capacitance Model",
+    "container-title": "ACM Transactions on Design Automation of Electronic Systems",
+    "page": "3848639",
+    "publisher": "Association for Computing Machinery (ACM)",
+    "language": "en",
+    "DOI": "10.1145/3848639",
+    "URL": "https://doi.org/10.1145/3848639",
+    "author": [
+      {
+        "family": "Zhang",
+        "given": "Haoyi"
+      },
+      {
+        "family": "huang",
+        "given": "jiechen"
+      },
+      {
+        "family": "liu",
+        "given": "bingyang"
+      },
+      {
+        "family": "Yu",
+        "given": "Wenjian"
+      },
+      {
+        "family": "Lin",
+        "given": "Yibo"
+      },
+      {
+        "family": "Wang",
+        "given": "Runsheng"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          9,
+          28
+        ]
+      ]
+    },
+    "note": "Published reference slots: ref-140. Published context: Haoyi Zhang, Jiechen Huang, Bingyang Liu, Wenjian Yu, Yibo Lin, and Runsheng Wang. “APEC-Route: Guiding Analog Routing with On-the-Fly Parasitic Extraction Based on a Neural Capacitance Model.” ACM Transactions on Design Automation of Electronic Systems, 2026. DOI 10.1145/3848639."
+  },
+  {
+    "id": "f128_ref_141",
+    "type": "article-journal",
+    "title": "Fuzzing FPGA Synthesis and Simulation Tools via LLM-Generated Syntax-Valid HDL Codes",
+    "container-title": "Proceedings of the ACM on Software Engineering",
+    "volume": "3",
+    "issue": "ISSTA",
+    "page": "1580-1602",
+    "publisher": "Association for Computing Machinery (ACM)",
+    "language": "en",
+    "DOI": "10.1145/3832160",
+    "URL": "https://doi.org/10.1145/3832160",
+    "author": [
+      {
+        "family": "Jiang",
+        "given": "He"
+      },
+      {
+        "family": "Zhao",
+        "given": "Wen"
+      },
+      {
+        "family": "Guo",
+        "given": "Shikai"
+      },
+      {
+        "family": "Xu",
+        "given": "Zhihao"
+      },
+      {
+        "family": "Li",
+        "given": "Xiaochen"
+      },
+      {
+        "family": "Huang",
+        "given": "Rubing"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          10,
+          1
+        ]
+      ]
+    },
+    "note": "Published reference slots: ref-141. Published context: He Jiang, Wen Zhao, Shikai Guo, Zhihao Xu, Xiaochen Li, and Rubing Huang. “Fuzzing FPGA Synthesis and Simulation Tools via LLM-Generated Syntax-Valid HDL Codes.” Proceedings of the ACM on Software Engineering, 2026. DOI 10.1145/3832160."
+  },
+  {
+    "id": "f128_ref_142",
+    "type": "manuscript",
+    "title": "SpecRead: A Benchmark for Measuring Whether Language Models Understand Hardware Specifications",
+    "container-title": "arXiv",
+    "publisher": "arXiv",
+    "URL": "https://arxiv.org/abs/2609.33699",
+    "author": [
+      {
+        "literal": "Feilian Huang"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          9,
+          27
+        ]
+      ]
+    },
+    "note": "Published reference slots: ref-142. Published context: Feilian Huang. “SpecRead: A Benchmark for Measuring Whether Language Models Understand Hardware Specifications.” arXiv:2609.33699, 2026."
+  },
+  {
+    "id": "f128_ref_143",
+    "type": "manuscript",
+    "title": "WaveletECO: A Closed-Loop Physical ECO Platform and a Specialized Local Language Model",
+    "container-title": "arXiv",
+    "publisher": "arXiv",
+    "URL": "https://arxiv.org/abs/2609.23444",
+    "author": [
+      {
+        "literal": "Guoxiang Xu"
+      },
+      {
+        "literal": "Guozhen Ji"
+      },
+      {
+        "literal": "Zijian Luo"
+      },
+      {
+        "literal": "Zhengrui Chen"
+      },
+      {
+        "literal": "Qi Sun"
+      },
+      {
+        "literal": "Cheng Zhuo"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          9,
+          20
+        ]
+      ]
+    },
+    "note": "Published reference slots: ref-143. Published context: Guoxiang Xu et al. “WaveletECO: A Closed-Loop Physical ECO Platform and a Specialized Local Language Model.” arXiv:2609.23444, 2026."
+  },
+  {
+    "id": "f128_ref_144",
+    "type": "paper-conference",
+    "title": "ResizerAgent: Agentic Strategy Selection for Timing Optimization in OpenROAD Resizer",
+    "container-title": "MLCAD 2026",
+    "URL": "https://mlcad.org/symposium/2026/program",
+    "author": [
+      {
+        "literal": "Vidya A. Chhabria"
+      },
+      {
+        "literal": "Atmadip Dey"
+      },
+      {
+        "literal": "Andrew B. Kahng"
+      },
+      {
+        "literal": "Ioannis Savidis"
+      },
+      {
+        "literal": "Pratik Shrestha"
+      },
+      {
+        "literal": "Bing-Yue Wu"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2026
+        ]
+      ]
+    },
+    "note": "Published reference slots: ref-144. Published context: Vidya A. Chhabria, Atmadip Dey, Andrew B. Kahng, Ioannis Savidis, Pratik Shrestha, and Bing-Yue Wu. “ResizerAgent: Agentic Strategy Selection for Timing Optimization in OpenROAD Resizer.” MLCAD 2026. MLCAD 2026 program."
+  },
+  {
+    "id": "f128_ref_145",
+    "type": "webpage",
+    "title": "Customer Success",
+    "URL": "https://chipagents.ai/customers",
+    "author": [
+      {
+        "literal": "ChipAgents"
+      }
+    ],
+    "accessed": {
+      "date-parts": [
+        [
+          2026,
+          10,
+          5
+        ]
+      ]
+    },
+    "note": "Published reference slots: ref-145. Published context: ChipAgents. “Customer Success.” ChipAgents page."
+  },
+  {
+    "id": "f128_ref_146",
+    "type": "webpage",
+    "title": "ChipAgents Helps Andes Technology Dramatically Accelerate Custom Processor Design and Verification",
+    "URL": "https://www.andestech.com/en/2026/09/02/chipagents-helps-andes-technology-dramatically-accelerate-custom-processor-design-and-verification",
+    "author": [
+      {
+        "literal": "Andes Technology"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          9,
+          2
+        ]
+      ]
+    },
+    "note": "Published reference slots: ref-146. Published context: Andes Technology. “ChipAgents Helps Andes Technology Dramatically Accelerate Custom Processor Design and Verification.” September 2, 2026. Andes Technology page."
+  },
+  {
+    "id": "f128_ref_147",
+    "type": "webpage",
+    "title": "ChipAgents Helps Whalechip Cut Semiconductor Root-Cause Analysis from Days to Minutes",
+    "URL": "https://www.businesswire.com/news/home/20260715897759/en/ChipAgents-Helps-Whalechip-Cut-Semiconductor-Root-Cause-Analysis-from-Days-to-Minutes",
+    "author": [
+      {
+        "literal": "ChipAgents and Whalechip"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          7,
+          15
+        ]
+      ]
+    },
+    "note": "Published reference slots: ref-147. Published context: ChipAgents and Whalechip. “ChipAgents Helps Whalechip Cut Semiconductor Root-Cause Analysis from Days to Minutes.” Business Wire, July 15, 2026. Business Wire article."
+  },
+  {
+    "id": "f128_ref_148",
+    "type": "webpage",
+    "title": "ChipAgents Helps eMemory Cut NVM IP Functional Model Verification Effort by 80%",
+    "URL": "https://www.businesswire.com/news/home/20260921141786/en/ChipAgents-Helps-eMemory-Cut-NVM-IP-Functional-Model-Verification-Effort-by-80",
+    "author": [
+      {
+        "literal": "ChipAgents and eMemory"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          9,
+          21
+        ]
+      ]
+    },
+    "note": "Published reference slots: ref-148. Published context: ChipAgents and eMemory. “ChipAgents Helps eMemory Cut NVM IP Functional Model Verification Effort by 80%.” Business Wire, September 21, 2026. Business Wire article."
+  },
+  {
+    "id": "f128_ref_149",
+    "type": "webpage",
+    "title": "Ambiq and ChipAgents Collaborate to Advance Agentic AI for Semiconductor Engineering",
+    "URL": "https://www.businesswire.com/news/home/20260722612365/en/Ambiq-and-ChipAgents-Collaborate-to-Advance-Agentic-AI-for-Semiconductor-Engineering",
+    "author": [
+      {
+        "literal": "Ambiq and ChipAgents"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          7,
+          22
+        ]
+      ]
+    },
+    "note": "Published reference slots: ref-149. Published context: Ambiq and ChipAgents. “Ambiq and ChipAgents Collaborate to Advance Agentic AI for Semiconductor Engineering.” Business Wire, July 22, 2026. Business Wire article."
+  },
+  {
+    "id": "f128_ref_150",
+    "type": "webpage",
+    "title": "Introducing Renoir: On-Premises Agentic AI for Chip Design",
+    "URL": "https://chipagents.ai/blogs/introducing-renoir",
+    "author": [
+      {
+        "literal": "ChipAgents"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          6,
+          17
+        ]
+      ]
+    },
+    "note": "Published reference slots: ref-150. Published context: ChipAgents. “Introducing Renoir: On-Premises Agentic AI for Chip Design.” June 17, 2026. ChipAgents article."
+  },
+  {
+    "id": "f128_ref_151",
+    "type": "webpage",
+    "title": "ChipAgents RCA",
+    "URL": "https://chipagents.ai/blogs/chipagents-rca",
+    "author": [
+      {
+        "literal": "ChipAgents"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2025,
+          11,
+          5
+        ]
+      ]
+    },
+    "note": "Published reference slots: ref-151. Published context: ChipAgents. “ChipAgents RCA.” November 5, 2025. ChipAgents article."
+  },
+  {
+    "id": "f128_ref_152",
+    "type": "webpage",
+    "title": "ChipAgents in Practice: Lessons from One Year of Agentic AI EDA Deployment",
+    "URL": "https://dvcon.org/workshop/chipagents-in-practice-lessons-from-one-year-of-agentic-ai-eda-deployment",
+    "author": [
+      {
+        "literal": "DVCon U.S"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          3,
+          2
+        ]
+      ]
+    },
+    "note": "Published reference slots: ref-152. Published context: DVCon U.S. “ChipAgents in Practice: Lessons from One Year of Agentic AI EDA Deployment.” Official workshop program, March 2, 2026. DVCon page."
+  },
+  {
+    "id": "f128_ref_153",
+    "type": "webpage",
+    "title": "Trust Center",
+    "URL": "https://chipagents.ai/trust-center",
+    "author": [
+      {
+        "literal": "ChipAgents"
+      }
+    ],
+    "accessed": {
+      "date-parts": [
+        [
+          2026,
+          10,
+          5
+        ]
+      ]
+    },
+    "note": "Published reference slots: ref-153. Published context: ChipAgents. “Trust Center.” ChipAgents page."
+  },
+  {
+    "id": "f128_ref_154",
+    "type": "webpage",
+    "title": "iEDA: An Open-Source Infrastructure of EDA",
+    "URL": "https://ieeexplore.ieee.org/document/10473983",
+    "author": [
+      {
+        "literal": "Xingquan Li et al"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2024
+        ]
+      ]
+    },
+    "note": "Published reference slots: ref-154. Published context: Xingquan Li et al. “iEDA: An Open-Source Infrastructure of EDA.” Proceedings of the 29th Asia and South Pacific Design Automation Conference (ASP-DAC), 2024. IEEE Xplore."
+  },
+  {
+    "id": "f128_ref_155",
+    "type": "manuscript",
+    "title": "iEDA: An Open-Source Intelligent Physical Implementation Toolkit and Library",
+    "container-title": "arXiv",
+    "publisher": "arXiv",
+    "URL": "https://arxiv.org/abs/2308.01857",
+    "author": [
+      {
+        "literal": "Xingquan Li"
+      },
+      {
+        "literal": "Simin Tao"
+      },
+      {
+        "literal": "Zengrong Huang"
+      },
+      {
+        "literal": "Shijian Chen"
+      },
+      {
+        "literal": "Zhisheng Zeng"
+      },
+      {
+        "literal": "Liwei Ni"
+      },
+      {
+        "literal": "Zhipeng Huang"
+      },
+      {
+        "literal": "Chunan Zhuang"
+      },
+      {
+        "literal": "Hongxi Wu"
+      },
+      {
+        "literal": "Weiguo Li1"
+      },
+      {
+        "literal": "Xueyan Zhao"
+      },
+      {
+        "literal": "He Liu"
+      },
+      {
+        "literal": "Shuaiying Long"
+      },
+      {
+        "literal": "Wei He"
+      },
+      {
+        "literal": "Bojun Liu"
+      },
+      {
+        "literal": "Sifeng Gan"
+      },
+      {
+        "literal": "Zihao Yu"
+      },
+      {
+        "literal": "Tong Liu"
+      },
+      {
+        "literal": "Yuchi Miao"
+      },
+      {
+        "literal": "Zhiyuan Yan"
+      },
+      {
+        "literal": "Hao Wang"
+      },
+      {
+        "literal": "Jie Zhao"
+      },
+      {
+        "literal": "Yifan Li"
+      },
+      {
+        "literal": "Ruizhi Liu"
+      },
+      {
+        "literal": "Xiaoze Lin"
+      },
+      {
+        "literal": "Bo Yang"
+      },
+      {
+        "literal": "Zhen Xue"
+      },
+      {
+        "literal": "Fuxing Huang"
+      },
+      {
+        "literal": "Zonglin Yang"
+      },
+      {
+        "literal": "Zhenggang Wu"
+      },
+      {
+        "literal": "Jiangkao Li"
+      },
+      {
+        "literal": "Yuezuo Liu"
+      },
+      {
+        "literal": "Ming Peng"
+      },
+      {
+        "literal": "Yihang Qiu"
+      },
+      {
+        "literal": "Wenrui Wu"
+      },
+      {
+        "literal": "Zheqing Shao"
+      },
+      {
+        "literal": "Kai Mo"
+      },
+      {
+        "literal": "Jikang Liu"
+      },
+      {
+        "literal": "Yuyao Liang"
+      },
+      {
+        "literal": "Mingzhe Zhang"
+      },
+      {
+        "literal": "Zhuang Ma"
+      },
+      {
+        "literal": "Xiang Cong"
+      },
+      {
+        "literal": "Daxiang Huang"
+      },
+      {
+        "literal": "Guojie Luo"
+      },
+      {
+        "literal": "Huawei Li"
+      },
+      {
+        "literal": "Haihua Shen"
+      },
+      {
+        "literal": "Mingyu Chen"
+      },
+      {
+        "literal": "Dongbo Bu"
+      },
+      {
+        "literal": "Wenxing Zhu"
+      },
+      {
+        "literal": "Ye Cai"
+      },
+      {
+        "literal": "Xiaoming Xiong"
+      },
+      {
+        "literal": "Ying Jiang"
+      },
+      {
+        "literal": "Yi Heng"
+      },
+      {
+        "literal": "Peng Zhang"
+      },
+      {
+        "literal": "Biwei Xie"
+      },
+      {
+        "literal": "Yungang Bao"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2023,
+          8,
+          3
+        ]
+      ]
+    },
+    "note": "Published reference slots: ref-155. Published context: Xingquan Li et al. “iEDA: An Open-Source Intelligent Physical Implementation Toolkit and Library.” arXiv:2308.01857, 2023."
+  },
+  {
+    "id": "f128_ref_156",
+    "type": "webpage",
+    "title": "AiEDA 2.0",
+    "URL": "https://ieda.oscc.cc/res/papers/25-ISEDA25__AiEDA_2_0.pdf",
+    "author": [
+      {
+        "literal": "OSCC Project"
+      }
+    ],
+    "note": "Published reference slots: ref-156. Published context: OSCC Project. “AiEDA 2.0.” Project paper. Supplementary implementation material. iEDA PDF; GitHub repository."
+  },
+  {
+    "id": "f128_ref_156b",
+    "type": "software",
+    "title": "AiEDA software repository",
+    "URL": "https://github.com/OSCC-Project/AiEDA",
+    "author": [
+      {
+        "literal": "OSCC Project"
+      }
+    ],
+    "note": "Published reference slots: ref-156. Published context: OSCC Project. “AiEDA 2.0.” Project paper. Supplementary implementation material. iEDA PDF; GitHub repository."
+  },
+  {
+    "id": "f128_ref_157",
+    "type": "paper-conference",
+    "title": "Automated CPU Design by Learning from Input-Output Examples",
+    "container-title": "Proceedings of the Thirty-ThirdInternational Joint Conference on Artificial Intelligence",
+    "page": "3843-3853",
+    "publisher": "International Joint Conferences on Artificial Intelligence Organization",
+    "DOI": "10.24963/ijcai.2024/425",
+    "URL": "https://doi.org/10.24963/ijcai.2024/425",
+    "author": [
+      {
+        "family": "Cheng",
+        "given": "Shuyao"
+      },
+      {
+        "family": "Jin",
+        "given": "Pengwei"
+      },
+      {
+        "family": "Guo",
+        "given": "Qi"
+      },
+      {
+        "family": "Du",
+        "given": "Zidong"
+      },
+      {
+        "family": "Zhang",
+        "given": "Rui"
+      },
+      {
+        "family": "Hu",
+        "given": "Xing"
+      },
+      {
+        "family": "Zhao",
+        "given": "Yongwei"
+      },
+      {
+        "family": "Hao",
+        "given": "Yifan"
+      },
+      {
+        "family": "Guan",
+        "given": "Xiangtao"
+      },
+      {
+        "family": "Han",
+        "given": "Husheng"
+      },
+      {
+        "family": "Zhao",
+        "given": "Zhengyue"
+      },
+      {
+        "family": "Liu",
+        "given": "Ximing"
+      },
+      {
+        "family": "Zhang",
+        "given": "Xishan"
+      },
+      {
+        "family": "Chu",
+        "given": "Yuejie"
+      },
+      {
+        "family": "Mao",
+        "given": "Weilong"
+      },
+      {
+        "family": "Chen",
+        "given": "Tianshi"
+      },
+      {
+        "family": "Chen",
+        "given": "Yunji"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2024,
+          8
+        ]
+      ]
+    },
+    "note": "Published reference slots: ref-157. Published context: Shuyao Cheng et al. “Automated CPU Design by Learning from Input-Output Examples.” Proceedings of the Thirty-Third International Joint Conference on Artificial Intelligence (IJCAI 2024): 3843–3853. DOI 10.24963/ijcai.2024/425."
+  },
+  {
+    "id": "f128_ref_158",
+    "type": "manuscript",
+    "title": "QiMeng: Fully Automated Hardware and Software Design for Processor Chip",
+    "container-title": "arXiv",
+    "publisher": "arXiv",
+    "URL": "https://arxiv.org/abs/2506.05007",
+    "author": [
+      {
+        "literal": "Rui Zhang"
+      },
+      {
+        "literal": "Yuanbo Wen"
+      },
+      {
+        "literal": "Shuyao Cheng"
+      },
+      {
+        "literal": "Di Huang"
+      },
+      {
+        "literal": "Shaohui Peng"
+      },
+      {
+        "literal": "Jiaming Guo"
+      },
+      {
+        "literal": "Pengwei Jin"
+      },
+      {
+        "literal": "Jiacheng Zhao"
+      },
+      {
+        "literal": "Tianrui Ma"
+      },
+      {
+        "literal": "Yaoyu Zhu"
+      },
+      {
+        "literal": "Yifan Hao"
+      },
+      {
+        "literal": "Yongwei Zhao"
+      },
+      {
+        "literal": "Shengwen Liang"
+      },
+      {
+        "literal": "Ying Wang"
+      },
+      {
+        "literal": "Xing Hu"
+      },
+      {
+        "literal": "Zidong Du"
+      },
+      {
+        "literal": "Huimin Cui"
+      },
+      {
+        "literal": "Ling Li"
+      },
+      {
+        "literal": "Qi Guo"
+      },
+      {
+        "literal": "Yunji Chen"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2025,
+          6,
+          5
+        ]
+      ]
+    },
+    "note": "Published reference slots: ref-158. Published context: QiMeng project team. “QiMeng: Fully Automated Hardware and Software Design for Processor Chip.” arXiv:2506.05007, 2025."
+  },
+  {
+    "id": "f128_ref_159",
+    "type": "paper-conference",
+    "title": "AutoOS: Make Your OS More Powerful by Exploiting Large Language Models",
+    "container-title": "International Conference on Machine Learning",
+    "page": "7511-7525",
+    "publisher": "PMLR",
+    "URL": "https://proceedings.mlr.press/v235/chen24at.html",
+    "author": [
+      {
+        "literal": "Huilai Chen"
+      },
+      {
+        "literal": "Yuanbo Wen"
+      },
+      {
+        "literal": "Limin Cheng"
+      },
+      {
+        "literal": "Shouxu Kuang"
+      },
+      {
+        "literal": "Yumeng Liu"
+      },
+      {
+        "literal": "Weijia Li"
+      },
+      {
+        "literal": "Ling Li"
+      },
+      {
+        "literal": "Rui Zhang"
+      },
+      {
+        "literal": "Xinkai Song"
+      },
+      {
+        "literal": "Wei Li"
+      },
+      {
+        "literal": "Qi Guo"
+      },
+      {
+        "literal": "Yunji Chen"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2024,
+          7,
+          8
+        ]
+      ]
+    },
+    "note": "Published reference slots: ref-159. Published context: Huilai Chen et al. “AutoOS: Make Your OS More Powerful by Exploiting Large Language Models.” Proceedings of the 41st International Conference on Machine Learning, PMLR 235 (2024): 7511–7525. PMLR page."
+  },
+  {
+    "id": "f128_ref_160",
+    "type": "article-journal",
+    "title": "Fully automated processor chip design: motivation, challenges and future directions",
+    "container-title": "National Science Review",
+    "volume": "13",
+    "issue": "1",
+    "page": "nwaf532",
+    "publisher": "Oxford University Press (OUP)",
+    "language": "en",
+    "DOI": "10.1093/nsr/nwaf532",
+    "URL": "https://doi.org/10.1093/nsr/nwaf532",
+    "author": [
+      {
+        "family": "Zhang",
+        "given": "Rui"
+      },
+      {
+        "family": "Guo",
+        "given": "Jiaming"
+      },
+      {
+        "family": "Cheng",
+        "given": "Shuyao"
+      },
+      {
+        "family": "Chen",
+        "given": "Yunji"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          1,
+          10
+        ]
+      ]
+    },
+    "note": "Published reference slots: ref-160. Published context: Rui Zhang, Jiaming Guo, Shuyao Cheng, and Yunji Chen. “Fully Automated Processor Chip Design: Motivation, Challenges and Future Directions.” National Science Review 13, no. 1 (2026): nwaf532. DOI 10.1093/nsr/nwaf532."
+  },
+  {
+    "id": "f128_ref_161",
+    "type": "webpage",
+    "title": "Automated Superscalar Processor Design by Learning Data Dependencies",
+    "URL": "https://www.ijcai.org/proceedings/2025/0549.pdf",
+    "author": [
+      {
+        "literal": "Shuyao Cheng et al"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2025
+        ]
+      ]
+    },
+    "note": "Published reference slots: ref-161. Published context: Shuyao Cheng et al. “Automated Superscalar Processor Design by Learning Data Dependencies.” Proceedings of the Thirty-Fourth International Joint Conference on Artificial Intelligence (IJCAI 2025): 4932–4939. IJCAI PDF."
+  },
+  {
+    "id": "f128_ref_162",
+    "type": "paper-conference",
+    "title": "QiMeng-Xpiler: Transcompiling Tensor Programs for Deep Learning Systems with a Neural-Symbolic Approach",
+    "container-title": "19th USENIX Symposium on Operating Systems Design and Implementation (OSDI 25)",
+    "page": "239-255",
+    "URL": "https://www.usenix.org/conference/osdi25/presentation/dong",
+    "author": [
+      {
+        "literal": "Shouyang Dong"
+      },
+      {
+        "literal": "Jun Bi"
+      },
+      {
+        "literal": "Di Huang"
+      },
+      {
+        "literal": "Jiaming Guo"
+      },
+      {
+        "literal": "Jianxing Xu"
+      },
+      {
+        "literal": "Ruibai Xu"
+      },
+      {
+        "literal": "Xinkai Song"
+      },
+      {
+        "literal": "Yifan Hao"
+      },
+      {
+        "literal": "Ling Li"
+      },
+      {
+        "literal": "Xuehai Zhou"
+      },
+      {
+        "literal": "Tianshi Chen"
+      },
+      {
+        "literal": "Qi Guo"
+      },
+      {
+        "literal": "Yunji Chen"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2025
+        ]
+      ]
+    },
+    "note": "Published reference slots: ref-162. Published context: Shouyang Dong et al. “QiMeng-Xpiler: Transcompiling Tensor Programs for Deep Learning Systems with a Neural-Symbolic Approach.” 19th USENIX Symposium on Operating Systems Design and Implementation (OSDI 2025): 239–255. Supplementary implementation material. USENIX page; GitHub repository."
+  },
+  {
+    "id": "f128_ref_162b",
+    "type": "software",
+    "title": "QiMeng-Xpiler implementation repository",
+    "URL": "https://github.com/QiMeng-IPRC/QiMeng-Xpiler",
+    "author": [
+      {
+        "literal": "QiMeng-IPRC"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2025
+        ]
+      ]
+    },
+    "note": "Published reference slots: ref-162. Published context: Shouyang Dong et al. “QiMeng-Xpiler: Transcompiling Tensor Programs for Deep Learning Systems with a Neural-Symbolic Approach.” 19th USENIX Symposium on Operating Systems Design and Implementation (OSDI 2025): 239–255. Supplementary implementation material. USENIX page; GitHub repository."
+  },
+  {
+    "id": "f128_ref_163",
+    "type": "article-journal",
+    "title": "大语言模型在电子设计自动化中的应用综述",
+    "container-title": "电子学报",
+    "volume": "54",
+    "issue": "6",
+    "page": "1-17",
+    "publisher": "电子学报",
+    "language": "zh",
+    "DOI": "10.12263/dzxb.20250971",
+    "URL": "https://doi.org/10.12263/dzxb.20250971",
+    "author": [
+      {
+        "literal": "王静"
+      },
+      {
+        "literal": "林立宇"
+      },
+      {
+        "literal": "李磊"
+      },
+      {
+        "literal": "陈霖谊"
+      },
+      {
+        "literal": "李征"
+      },
+      {
+        "literal": "来耀"
+      },
+      {
+        "literal": "李炎"
+      },
+      {
+        "literal": "姚佳飞"
+      },
+      {
+        "literal": "曾晓洋"
+      },
+      {
+        "literal": "郭宇锋"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          6,
+          25
+        ]
+      ]
+    },
+    "note": "English title: A Survey on the Applications of Large Language Models in Electronic Design Automation. Published reference slots: ref-163. Published context: 王静, 林立宇, 李磊, 陈霖谊, 李征, 来耀, 李炎, 姚佳飞, 曾晓洋, 郭宇锋. 《大语言模型在电子设计自动化中的应用综述》 (A Survey on the Applications of Large Language Models in Electronic Design Automation). 电子学报 54(6), 2026, 1–17. DOI 10.12263/DZXB.20250971."
+  },
+  {
+    "id": "f128_ref_164",
+    "type": "manuscript",
+    "title": "智能体驱动的电子设计自动化技术与应用",
+    "language": "zh",
+    "DOI": "10.12383/202609080006v1",
+    "URL": "https://doi.org/10.12383/202609080006v1",
+    "author": [
+      {
+        "literal": "林薇"
+      },
+      {
+        "literal": "耿林林"
+      },
+      {
+        "literal": "周滔"
+      },
+      {
+        "literal": "解兆飞"
+      },
+      {
+        "literal": "洪长贵. 《"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2026
+        ]
+      ]
+    },
+    "note": "English title: Agent-Driven Electronic Design Automation: Technologies and Applications. Published reference slots: ref-164. Published context: 林薇, 耿林林, 周滔, 解兆飞, 洪长贵. 《智能体驱动的电子设计自动化技术与应用》 (Agent-Driven Electronic Design Automation: Technologies and Applications). 国家预印本平台, 2026. DOI 10.12383/202609080006V1."
+  },
+  {
+    "id": "f128_ref_165",
+    "type": "article-journal",
+    "title": "芯片智能布线方法研究综述",
+    "container-title": "自动化学报",
+    "volume": "50",
+    "issue": "9",
+    "page": "1671-1703",
+    "publisher": "自动化学报",
+    "language": "zh",
+    "DOI": "10.16383/j.aas.c230368",
+    "URL": "https://doi.org/10.16383/j.aas.c230368",
+    "author": [
+      {
+        "literal": "周展文"
+      },
+      {
+        "literal": "卓汉逵"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2024
+        ]
+      ]
+    },
+    "note": "English title: Survey on Intelligent Routing Approaches for Chips. Published reference slots: ref-165. Published context: 周展文, 卓汉逵. 《芯片智能布线方法研究综述》 (Survey on Intelligent Routing Approaches for Chips). 自动化学报 50(9), 2024, 1671–1703. DOI 10.16383/j.aas.c230368."
+  },
+  {
+    "id": "f128_ref_166",
+    "type": "article-journal",
+    "title": "基于机器学习的FPGA电子设计自动化技术研究综述",
+    "container-title": "电子与信息学报",
+    "volume": "45",
+    "issue": "1",
+    "page": "1-13",
+    "publisher": "电子与信息学报",
+    "language": "zh",
+    "DOI": "10.11999/jeit220183",
+    "URL": "https://doi.org/10.11999/jeit220183",
+    "author": [
+      {
+        "literal": "田春生"
+      },
+      {
+        "literal": "陈雷"
+      },
+      {
+        "literal": "王源"
+      },
+      {
+        "literal": "王硕"
+      },
+      {
+        "literal": "周婧"
+      },
+      {
+        "literal": "庞永江"
+      },
+      {
+        "literal": "杜忠"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2023,
+          1,
+          17
+        ]
+      ]
+    },
+    "note": "English title: A Survey on FPGA Electronic Design Automation Technology Based on Machine Learning. Published reference slots: ref-166. Published context: 田春生, 陈雷, 王源, 王硕, 周婧, 庞永江, 杜忠. 《基于机器学习的FPGA电子设计自动化技术研究综述》 (A Survey on FPGA Electronic Design Automation Technology Based on Machine Learning). 电子与信息学报 45(1), 2023, 1–13. DOI 10.11999/JEIT220183."
+  },
+  {
+    "id": "f128_ref_167",
+    "type": "article-journal",
+    "title": "ソフトウェアプログラムからハードウェア記述を合成する高位合成技術－プロセッサ以外の汎用プログラム実行機構－",
+    "container-title": "IEICE ESS Fundamentals Review",
+    "volume": "6",
+    "issue": "1",
+    "page": "37-50",
+    "publisher": "Institute of Electronics, Information and Communications Engineers (IEICE)",
+    "language": "en",
+    "DOI": "10.1587/essfr.6.37",
+    "URL": "https://doi.org/10.1587/essfr.6.37",
+    "author": [
+      {
+        "literal": "若林一敏. 「"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2012
+        ]
+      ]
+    },
+    "note": "English title: High-Level Synthesis Technology for Generating Hardware Descriptions from Software Programs: A General-Purpose Program-Execution Mechanism Other Than the Processor. Published reference slots: ref-167. Published context: 若林一敏. 「ソフトウェアプログラムからハードウェア記述を合成する高位合成技術－プロセッサ以外の汎用プログラム実行機構－」 (High-Level Synthesis Technology for Generating Hardware Descriptions from Software Programs: A General-Purpose Program-Execution Mechanism Other Than the Processor). 電子情報通信学会 基礎・境界ソサイエティ Fundamentals Review 6(1), 2012, 37–50. DOI 10.1587/essfr.6.37."
+  },
+  {
+    "id": "f128_ref_168",
+    "type": "article-journal",
+    "title": "FPGA向けの高位合成言語と処理系の研究動向",
+    "container-title": "コンピュータ ソフトウェア",
+    "volume": "30",
+    "issue": "1",
+    "page": "1_76-1_84",
+    "publisher": "日本ソフトウェア科学会",
+    "language": "ja",
+    "DOI": "10.11309/jssst.30.1_76",
+    "URL": "https://doi.org/10.11309/jssst.30.1_76",
+    "author": [
+      {
+        "literal": "三好 健文"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2013,
+          1,
+          25
+        ]
+      ]
+    },
+    "note": "English title: Research Trends in High-Level Synthesis Languages and Systems for FPGAs. Published reference slots: ref-168. Published context: 三好健文. 「FPGA向けの高位合成言語と処理系の研究動向」 (Research Trends in High-Level Synthesis Languages and Systems for FPGAs). コンピュータ ソフトウェア 30(1), 2013, 1_76–1_84. DOI 10.11309/jssst.30.1_76."
+  },
+  {
+    "id": "f128_ref_169",
+    "type": "article-journal",
+    "title": "AIの適用による半導体設計の効率化・自動化の取り組みと現状",
+    "container-title": "IEICE ESS Fundamentals Review",
+    "volume": "19",
+    "issue": "3",
+    "page": "134-138",
+    "publisher": "Institute of Electronics, Information and Communications Engineers (IEICE)",
+    "language": "en",
+    "DOI": "10.1587/essfr.19.3_134",
+    "URL": "https://doi.org/10.1587/essfr.19.3_134",
+    "author": [
+      {
+        "literal": "小田川真之"
+      },
+      {
+        "literal": "牧井徹. 「"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          1,
+          1
+        ]
+      ]
+    },
+    "note": "English title: Efficient LSI Design Enablement by AI. Published reference slots: ref-169. Published context: 小田川真之, 牧井徹. 「AIの適用による半導体設計の効率化・自動化の取り組みと現状」 (Efficient LSI Design Enablement by AI). 電子情報通信学会 基礎・境界ソサイエティ Fundamentals Review 19(3), 2026, 134–138. DOI 10.1587/essfr.19.3_134."
+  },
+  {
+    "id": "f128_ref_170",
+    "type": "article-journal",
+    "title": "Automated Design of Analog Integrated Circuits Using Machine Learning",
+    "container-title": "IEICE Transactions on Electronics",
+    "volume": "E109.C",
+    "issue": "10",
+    "page": "485-492",
+    "publisher": "Institute of Electronics, Information and Communications Engineers (IEICE)",
+    "language": "en",
+    "DOI": "10.1587/transele.2025cti0002",
+    "URL": "https://doi.org/10.1587/transele.2025cti0002",
+    "author": [
+      {
+        "family": "TAKAI",
+        "given": "Nobukazu"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          10,
+          1
+        ]
+      ]
+    },
+    "note": "Published reference slots: ref-170. Published context: Nobukazu Takai. “Automated Design of Analog Integrated Circuits Using Machine Learning.” IEICE Transactions on Electronics E109-C(10), 2026, 485–492. DOI 10.1587/transele.2025CTI0002."
+  },
+  {
+    "id": "f128_ref_171",
+    "type": "article-journal",
+    "title": "Large Language Models for EDA: Future or Mirage?",
+    "container-title": "ACM Transactions on Design Automation of Electronic Systems",
+    "volume": "30",
+    "issue": "6",
+    "page": "1-53",
+    "publisher": "Association for Computing Machinery (ACM)",
+    "language": "en",
+    "DOI": "10.1145/3736167",
+    "URL": "https://doi.org/10.1145/3736167",
+    "author": [
+      {
+        "family": "He",
+        "given": "Zhuolun"
+      },
+      {
+        "family": "Pu",
+        "given": "Yuan"
+      },
+      {
+        "family": "Wu",
+        "given": "Haoyuan"
+      },
+      {
+        "family": "Qiu",
+        "given": "Tairu"
+      },
+      {
+        "family": "Yu",
+        "given": "Bei"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2025,
+          11,
+          30
+        ]
+      ]
+    },
+    "note": "Published reference slots: ref-171. Published context: Zhuolun He, Yuan Pu, Haoyuan Wu, Tairu Qiu, and Bei Yu. “Large Language Models for EDA: Future or Mirage?” ACM Transactions on Design Automation of Electronic Systems 30(6), 2025, article 90, 1–53. DOI 10.1145/3736167."
+  },
+  {
+    "id": "f128_ref_172",
+    "type": "article-journal",
+    "title": "A Survey of Research in Large Language Models for Electronic Design Automation",
+    "container-title": "ACM Transactions on Design Automation of Electronic Systems",
+    "volume": "30",
+    "issue": "3",
+    "page": "1-21",
+    "publisher": "Association for Computing Machinery (ACM)",
+    "language": "en",
+    "DOI": "10.1145/3715324",
+    "URL": "https://doi.org/10.1145/3715324",
+    "author": [
+      {
+        "family": "Pan",
+        "given": "Jingyu"
+      },
+      {
+        "family": "Zhou",
+        "given": "Guanglei"
+      },
+      {
+        "family": "Chang",
+        "given": "Chen-Chia"
+      },
+      {
+        "family": "Jacobson",
+        "given": "Isaac"
+      },
+      {
+        "family": "Hu",
+        "given": "Jiang"
+      },
+      {
+        "family": "Chen",
+        "given": "Yiran"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2025,
+          5,
+          31
+        ]
+      ]
+    },
+    "note": "Published reference slots: ref-172. Published context: Jingyu Pan, Guanglei Zhou, Chen-Chia Chang, Isaac Jacobson, Jiang Hu, and Yiran Chen. “A Survey of Research in Large Language Models for Electronic Design Automation.” ACM Transactions on Design Automation of Electronic Systems 30(3), 2025, article 34, 1–21. DOI 10.1145/3715324."
+  },
+  {
+    "id": "f128_ref_173",
+    "type": "manuscript",
+    "title": "Shift-Left Techniques in Electronic Design Automation: A Survey",
+    "container-title": "arXiv",
+    "publisher": "arXiv",
+    "URL": "https://arxiv.org/abs/2509.14551",
+    "author": [
+      {
+        "literal": "Xinyue Wu"
+      },
+      {
+        "literal": "Zixuan Li"
+      },
+      {
+        "literal": "Fan Hu"
+      },
+      {
+        "literal": "Ting Lin"
+      },
+      {
+        "literal": "Xiaotian Zhao"
+      },
+      {
+        "literal": "Runxi Wang"
+      },
+      {
+        "literal": "Xinfei Guo"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2025,
+          9,
+          18
+        ]
+      ]
+    },
+    "note": "Published reference slots: ref-173. Published context: Xinyue Wu, Zixuan Li, Fan Hu, Ting Lin, Xiaotian Zhao, Runxi Wang, and Xinfei Guo. “Shift-Left Techniques in Electronic Design Automation: A Survey.” arXiv:2509.14551, 2025."
+  },
+  {
+    "id": "f128_ref_174",
+    "type": "article-journal",
+    "title": "Artificial Intelligence-Assisted Analog IC Design: Bridging human intuition and machine intelligence",
+    "container-title": "IEEE Solid-State Circuits Magazine",
+    "volume": "18",
+    "issue": "2",
+    "page": "30-40",
+    "publisher": "Institute of Electrical and Electronics Engineers (IEEE)",
+    "DOI": "10.1109/mssc.2026.3678510",
+    "URL": "https://doi.org/10.1109/mssc.2026.3678510",
+    "author": [
+      {
+        "family": "Poddar",
+        "given": "Souradip"
+      },
+      {
+        "family": "Liu",
+        "given": "Bingyang"
+      },
+      {
+        "family": "Kim",
+        "given": "Seunggeun"
+      },
+      {
+        "family": "Pan",
+        "given": "David Z."
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2026
+        ]
+      ]
+    },
+    "note": "Published reference slots: ref-174. Published context: Souradip Poddar, Bingyang Liu, Seunggeun Kim, and David Z. Pan. “Artificial Intelligence-Assisted Analog IC Design: Bridging Human Intuition and Machine Intelligence.” IEEE Solid-State Circuits Magazine 18(2), 2026, 30–40. DOI 10.1109/MSSC.2026.3678510."
+  },
+  {
+    "id": "f128_ref_175",
+    "type": "article-journal",
+    "title": "Automated Analog Layout Synthesis",
+    "container-title": "Journal of the Indian Institute of Science",
+    "publisher": "Springer Science and Business Media LLC",
+    "language": "en",
+    "DOI": "10.1007/s41745-026-00514-x",
+    "URL": "https://doi.org/10.1007/s41745-026-00514-x",
+    "author": [
+      {
+        "family": "Berhan",
+        "given": "Sosina Abiyot"
+      },
+      {
+        "family": "Gebru",
+        "given": "Endalk"
+      },
+      {
+        "family": "Ghosh",
+        "given": "Subhadip"
+      },
+      {
+        "family": "Poojary",
+        "given": "Jitesh"
+      },
+      {
+        "family": "Peri",
+        "given": "Surya Srikar"
+      },
+      {
+        "family": "Hu",
+        "given": "Jiang"
+      },
+      {
+        "family": "Harjani",
+        "given": "Ramesh"
+      },
+      {
+        "family": "Ramprasath",
+        "given": "S."
+      },
+      {
+        "family": "Sapatnekar",
+        "given": "Sachin S."
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          9,
+          5
+        ]
+      ]
+    },
+    "note": "Published reference slots: ref-175. Published context: Sosina Abiyot Berhan, Endalk Gebru, Subhadip Ghosh, Jitesh Poojary, Surya Srikar Peri, Jiang Hu, Ramesh Harjani, Ramprasath S., and Sachin S. Sapatnekar. “Automated Analog Layout Synthesis.” Journal of the Indian Institute of Science, published online 5 September 2026. DOI 10.1007/s41745-026-00514-x."
+  },
+  {
+    "id": "f128_ref_176",
+    "type": "manuscript",
+    "title": "LLM-Aided Efficient Hardware Design Automation",
+    "container-title": "arXiv",
+    "publisher": "arXiv",
+    "URL": "https://arxiv.org/abs/2410.18582",
+    "author": [
+      {
+        "literal": "Kangwei Xu"
+      },
+      {
+        "literal": "Ruidi Qiu"
+      },
+      {
+        "literal": "Zhuorui Zhao"
+      },
+      {
+        "literal": "Grace Li Zhang"
+      },
+      {
+        "literal": "Ulf Schlichtmann"
+      },
+      {
+        "literal": "Bing Li"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2024,
+          10,
+          24
+        ]
+      ]
+    },
+    "note": "Published reference slots: ref-176. Published context: Kangwei Xu, Ruidi Qiu, Zhuorui Zhao, Grace Li Zhang, Ulf Schlichtmann, and Bing Li. “LLM-Aided Efficient Hardware Design Automation.” arXiv:2410.18582, 2024."
+  },
+  {
+    "id": "f128_ref_177",
+    "type": "manuscript",
+    "title": "Large Language Models (LLMs) for Electronic Design Automation (EDA)",
+    "container-title": "arXiv",
+    "publisher": "arXiv",
+    "URL": "https://arxiv.org/abs/2508.20030",
+    "author": [
+      {
+        "literal": "Kangwei Xu"
+      },
+      {
+        "literal": "Denis Schwachhofer"
+      },
+      {
+        "literal": "Jason Blocklove"
+      },
+      {
+        "literal": "Ilia Polian"
+      },
+      {
+        "literal": "Peter Domanski"
+      },
+      {
+        "literal": "Dirk Pflüger"
+      },
+      {
+        "literal": "Siddharth Garg"
+      },
+      {
+        "literal": "Ramesh Karri"
+      },
+      {
+        "literal": "Ozgur Sinanoglu"
+      },
+      {
+        "literal": "Johann Knechtel"
+      },
+      {
+        "literal": "Zhuorui Zhao"
+      },
+      {
+        "literal": "Ulf Schlichtmann"
+      },
+      {
+        "literal": "Bing Li"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2025,
+          8,
+          27
+        ]
+      ]
+    },
+    "note": "Published reference slots: ref-177. Published context: Kangwei Xu, Denis Schwachhofer, Jason Blocklove, Ilia Polian, Peter Domanski, Dirk Pflüger, Siddharth Garg, Ramesh Karri, Ozgur Sinanoglu, Johann Knechtel, Zhuorui Zhao, Ulf Schlichtmann, and Bing Li. “Large Language Models (LLMs) for Electronic Design Automation (EDA).” Accepted by the IEEE International System-on-Chip Conference; arXiv:2508.20030, 2025."
+  },
+  {
+    "id": "f128_ref_178",
+    "type": "manuscript",
+    "title": "LLM for EDA in Front-End Design: Challenges and Opportunities",
+    "container-title": "arXiv",
+    "publisher": "arXiv",
+    "URL": "https://arxiv.org/abs/2607.09616",
+    "author": [
+      {
+        "literal": "Kangwei Xu"
+      },
+      {
+        "literal": "Bing Li"
+      },
+      {
+        "literal": "Ulf Schlichtmann"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          7,
+          10
+        ]
+      ]
+    },
+    "note": "Published reference slots: ref-178. Published context: Kangwei Xu, Bing Li, and Ulf Schlichtmann. “LLM for EDA in Front-End Design: Challenges and Opportunities.” Invited paper, ACM/IEEE Design Automation Conference 2026 Special Research Session; arXiv:2607.09616, 2026."
+  },
+  {
+    "id": "f128_ref_181",
+    "type": "paper-conference",
+    "title": "Rule2DRC: Benchmarking LLM Agents for DRC Script Synthesis with Execution-Guided Test Generation",
+    "container-title": "International Conference on Machine Learning",
+    "page": "57197-57224",
+    "publisher": "PMLR",
+    "URL": "https://proceedings.mlr.press/v306/kim26d.html",
+    "author": [
+      {
+        "literal": "Jinuk Kim"
+      },
+      {
+        "literal": "Junsoo Byun"
+      },
+      {
+        "literal": "Donghwi Hwang"
+      },
+      {
+        "literal": "Seong-Jin Park"
+      },
+      {
+        "literal": "Hyun Oh Song"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          9,
+          29
+        ]
+      ]
+    },
+    "note": "Published reference slots: ref-181. Published context: Jinuk Kim, Junsoo Byun, Donghwi Hwang, Seong-Jin Park, and Hyun Oh Song. “Rule2DRC: Benchmarking LLM Agents for DRC Script Synthesis with Execution-Guided Test Generation.” Proceedings of the 43rd International Conference on Machine Learning, PMLR 306 (2026): 57197–57224. Supplementary implementation material. PMLR page; GitHub repository."
+  },
+  {
+    "id": "f128_ref_181b",
+    "type": "software",
+    "title": "Rule2DRC implementation repository",
+    "URL": "https://github.com/snu-mllab/Rule2DRC",
+    "author": [
+      {
+        "literal": "SNU MLLab"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2026
+        ]
+      ]
+    },
+    "note": "Published reference slots: ref-181. Published context: Jinuk Kim, Junsoo Byun, Donghwi Hwang, Seong-Jin Park, and Hyun Oh Song. “Rule2DRC: Benchmarking LLM Agents for DRC Script Synthesis with Execution-Guided Test Generation.” Proceedings of the 43rd International Conference on Machine Learning, PMLR 306 (2026): 57197–57224. Supplementary implementation material. PMLR page; GitHub repository."
+  },
+  {
+    "id": "f128_ref_182",
+    "type": "webpage",
+    "title": "Méthodologies et outils d’analyse et de conception",
+    "URL": "https://list.cea.fr/fr/page/methodologies-et-outils-danalyse-et-de-conception",
+    "author": [
+      {
+        "literal": "CEA List"
+      }
+    ],
+    "accessed": {
+      "date-parts": [
+        [
+          2026,
+          10,
+          6
+        ]
+      ]
+    },
+    "note": "English title: Methodologies and Tools for Analysis and Design. Published reference slots: ref-182. Published context: CEA List. “Méthodologies et outils d’analyse et de conception” (Methodologies and Tools for Analysis and Design). French-language page; English-language page."
+  },
+  {
+    "id": "f128_ref_183",
+    "type": "webpage",
+    "title": "Physical Design Methodology CAD Engineer",
+    "URL": "https://jobs.apple.com/en-us/details/200657610-0157/physical-design-methodology-cad-engineer",
+    "author": [
+      {
+        "literal": "Apple"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          4,
+          13
+        ]
+      ]
+    },
+    "accessed": {
+      "date-parts": [
+        [
+          2026,
+          10,
+          5
+        ]
+      ]
+    },
+    "note": "Published reference slots: ref-183. Published context: Apple. “Physical Design Methodology CAD Engineer.” Role 200657610-0157, posted April 13, 2026. Apple Careers posting."
+  },
+  {
+    "id": "f128_ref_184",
+    "type": "webpage",
+    "title": "CAD Engineer - RTL Construction",
+    "URL": "https://jobs.apple.com/en-us/details/200605735/cad-engineer-rtl-construction?team=HRDWR",
+    "author": [
+      {
+        "literal": "Apple"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2025,
+          5,
+          20
+        ]
+      ]
+    },
+    "accessed": {
+      "date-parts": [
+        [
+          2026,
+          10,
+          5
+        ]
+      ]
+    },
+    "note": "Published reference slots: ref-184. Published context: Apple. “CAD Engineer - RTL Construction.” Role 200605735, posted May 20, 2025. Apple Careers posting."
+  },
+  {
+    "id": "f128_ref_185",
+    "type": "article-journal",
+    "title": "Machine learning driven global optimisation framework for analog circuit design",
+    "container-title": "Microelectronics Journal",
+    "volume": "151",
+    "page": "106362",
+    "publisher": "Elsevier BV",
+    "language": "en",
+    "DOI": "10.1016/j.mejo.2024.106362",
+    "URL": "https://doi.org/10.1016/j.mejo.2024.106362",
+    "author": [
+      {
+        "family": "Rashid",
+        "given": "Ria"
+      },
+      {
+        "family": "Krishna",
+        "given": "Komala"
+      },
+      {
+        "family": "George",
+        "given": "Clint Pazhayidam"
+      },
+      {
+        "family": "Nambath",
+        "given": "Nandakumar"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2024,
+          9
+        ]
+      ]
+    },
+    "note": "Published reference slots: ref-185. Published context: Ria Rashid, Komala Krishna, Clint Pazhayidam George, and Nandakumar Nambath. “Machine Learning Driven Global Optimisation Framework for Analog Circuit Design.” Microelectronics Journal 151 (2024): 106362. DOI 10.1016/j.mejo.2024.106362."
+  },
+  {
+    "id": "f128_ref_186",
+    "type": "paper-conference",
+    "title": "Optimal Mapping of Monte Carlo Analysis for Analog Circuit Designing using Bayesian Neural Networks",
+    "container-title": "2025 IEEE 7th International Conference on Artificial Intelligence Circuits and Systems (AICAS)",
+    "page": "1-5",
+    "publisher": "IEEE",
+    "DOI": "10.1109/aicas64808.2025.11173097",
+    "URL": "https://doi.org/10.1109/aicas64808.2025.11173097",
+    "author": [
+      {
+        "family": "Moriguchi",
+        "given": "Yuto"
+      },
+      {
+        "family": "Takai",
+        "given": "Nobukazu"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2025,
+          4,
+          28
+        ]
+      ]
+    },
+    "note": "Published reference slots: ref-186. Published context: Yuto Moriguchi and Nobukazu Takai. “Optimal Mapping of Monte Carlo Analysis for Analog Circuit Designing Using Bayesian Neural Networks.” 2025 IEEE 7th International Conference on Artificial Intelligence Circuits and Systems, 1–5. DOI 10.1109/AICAS64808.2025.11173097."
+  },
+  {
+    "id": "f128_ref_187",
+    "type": "paper-conference",
+    "title": "Asynchronous Batch Constrained Multi-Objective Bayesian Optimization for Analog Circuit Sizing",
+    "container-title": "2024 29th Asia and South Pacific Design Automation Conference (ASP-DAC)",
+    "page": "872-877",
+    "publisher": "IEEE",
+    "DOI": "10.1109/asp-dac58780.2024.10473892",
+    "URL": "https://doi.org/10.1109/asp-dac58780.2024.10473892",
+    "author": [
+      {
+        "family": "Zhao",
+        "given": "Xuyang"
+      },
+      {
+        "family": "Bi",
+        "given": "Zhaori"
+      },
+      {
+        "family": "Yan",
+        "given": "Changhao"
+      },
+      {
+        "family": "Yang",
+        "given": "Fan"
+      },
+      {
+        "family": "Lu",
+        "given": "Ye"
+      },
+      {
+        "family": "Zhou",
+        "given": "Dian"
+      },
+      {
+        "family": "Zeng",
+        "given": "Xuan"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2024,
+          1,
+          22
+        ]
+      ]
+    },
+    "note": "Published reference slots: ref-187. Published context: Xuyang Zhao, Zhaori Bi, Changhao Yan, Fan Yang, Ye Lu, Dian Zhou, and Xuan Zeng. “Asynchronous Batch Constrained Multi-Objective Bayesian Optimization for Analog Circuit Sizing.” Proceedings of ASP-DAC 2024, 872–877. DOI 10.1109/ASP-DAC58780.2024.10473892."
+  },
+  {
+    "id": "f128_ref_191",
+    "type": "webpage",
+    "title": "알세미(알시스) - 기업정보 | 투자, 매출, 기업가치 - THE VC",
+    "language": "ko",
+    "URL": "https://thevc.kr/alsemy",
+    "author": [
+      {
+        "literal": "The VC"
+      }
+    ],
+    "accessed": {
+      "date-parts": [
+        [
+          2026,
+          10,
+          6
+        ]
+      ]
+    },
+    "note": "English title: Alsemy [Alsys] — company information. Published reference slots: ref-191. Published context: The VC. “알세미(알시스) - 기업정보 | 투자, 매출, 기업가치 - THE VC” (Alsemy [Alsys] — company information). The VC page."
+  },
+  {
+    "id": "f128_ref_192",
+    "type": "webpage",
+    "title": "[미래 반도체 유니콘 열전]〈9〉굿인텔리전스, ‘AI 조합 최적화’로 반도체 설계 SW 개발",
+    "language": "ko",
+    "URL": "https://www.etnews.com/20231201000091",
+    "author": [
+      {
+        "literal": "권동준"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2023,
+          12,
+          1
+        ]
+      ]
+    },
+    "note": "English title: [Future Semiconductor Unicorn Series] 〈9〉 Good Intelligence Develops Semiconductor-Design Software with ‘AI Combinatorial Optimization’. Published reference slots: ref-192. Published context: 권동준. “[미래 반도체 유니콘 열전]〈9〉굿인텔리전스, ‘AI 조합 최적화’로 반도체 설계 SW 개발” ([Future Semiconductor Unicorn Series] 〈9〉 Good Intelligence Develops Semiconductor-Design Software with ‘AI Combinatorial Optimization’). 전자신문, December 1, 2023; print update December 4, 2023. ETNews page."
+  },
+  {
+    "id": "f128_ref_196",
+    "type": "webpage",
+    "title": "计算所在芯片全自动设计研究方向取得进展",
+    "language": "zh",
+    "URL": "https://www.cas.cn/syky/202407/t20240729_5027329.shtml",
+    "author": [
+      {
+        "literal": "中国科学院计算技术研究所"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2024,
+          7,
+          30
+        ]
+      ]
+    },
+    "note": "English title: Progress in Fully Automated Chip Design Research at the Institute of Computing Technology. Published reference slots: ref-196. Published context: 中国科学院计算技术研究所. “计算所在芯片全自动设计研究方向取得进展” (Progress in Fully Automated Chip Design Research at the Institute of Computing Technology). July 30, 2024. Chinese Academy of Sciences page."
+  },
+  {
+    "id": "f128_ref_197",
+    "type": "webpage",
+    "title": "实验室联合软件所发布‘启蒙’芯片全流程自动设计系统",
+    "language": "zh",
+    "URL": "https://sklp.ict.ac.cn/xwzx/202510/t20251021_785126.html",
+    "author": [
+      {
+        "literal": "处理器芯片全国重点实验室"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2025,
+          6,
+          22
+        ]
+      ]
+    },
+    "note": "English title: The Laboratory and Institute of Software Release the QiMeng Full-Process Automated Chip-Design System. Published reference slots: ref-197. Published context: 处理器芯片全国重点实验室. “实验室联合软件所发布‘启蒙’芯片全流程自动设计系统” (The Laboratory and Institute of Software Release the QiMeng Full-Process Automated Chip-Design System). June 22, 2025. Processor Chip Lab page."
+  },
+  {
+    "id": "f128_ref_198",
+    "type": "webpage",
+    "title": "QiMeng-cpu-v1",
+    "URL": "https://github.com/QiMeng-IPRC/QiMeng-cpu-v1",
+    "author": [
+      {
+        "literal": "QiMeng IPRC"
+      }
+    ],
+    "accessed": {
+      "date-parts": [
+        [
+          2026,
+          10,
+          6
+        ]
+      ]
+    },
+    "note": "Published reference slots: ref-198. Published context: QiMeng IPRC. “QiMeng-cpu-v1.” GitHub repository. GitHub repository."
+  },
+  {
+    "id": "f128_ref_199",
+    "type": "webpage",
+    "title": "QiMeng-Kernel",
+    "URL": "https://github.com/QiMeng-IPRC/QiMeng-Kernel",
+    "author": [
+      {
+        "literal": "QiMeng IPRC"
+      }
+    ],
+    "accessed": {
+      "date-parts": [
+        [
+          2026,
+          10,
+          6
+        ]
+      ]
+    },
+    "note": "Published reference slots: ref-199. Published context: QiMeng IPRC. “QiMeng-Kernel.” GitHub repository. GitHub repository."
+  },
+  {
+    "id": "f128_ref_200",
+    "type": "webpage",
+    "title": "QiMeng-MuPa",
+    "URL": "https://github.com/QiMeng-IPRC/QiMeng-MuPa",
+    "author": [
+      {
+        "literal": "QiMeng IPRC"
+      }
+    ],
+    "accessed": {
+      "date-parts": [
+        [
+          2026,
+          10,
+          6
+        ]
+      ]
+    },
+    "note": "Published reference slots: ref-200. Published context: QiMeng IPRC. “QiMeng-MuPa.” GitHub repository. GitHub repository."
+  },
+  {
+    "id": "f128_ref_201",
+    "type": "webpage",
+    "title": "项目规划",
+    "language": "zh",
+    "URL": "https://ieda.oscc.cc/project/plan",
+    "author": [
+      {
+        "literal": "iEDA Project"
+      }
+    ],
+    "accessed": {
+      "date-parts": [
+        [
+          2026,
+          10,
+          6
+        ]
+      ]
+    },
+    "note": "English title: Project plan. Published reference slots: ref-201. Published context: iEDA Project. “项目规划” (Project plan). iEDA page."
+  },
+  {
+    "id": "f128_ref_202",
+    "type": "webpage",
+    "title": "ECOS开源芯片",
+    "language": "zh",
+    "URL": "https://openecos.com",
+    "author": [
+      {
+        "literal": "ECOS"
+      }
+    ],
+    "accessed": {
+      "date-parts": [
+        [
+          2026,
+          10,
+          6
+        ]
+      ]
+    },
+    "note": "English title: ECOS open-source chips. Published reference slots: ref-202. Published context: ECOS. “ECOS开源芯片” (ECOS open-source chips). ECOS page."
+  },
+  {
+    "id": "f128_ref_203",
+    "type": "webpage",
+    "title": "解壁伟",
+    "language": "zh",
+    "URL": "https://people.ucas.ac.cn/~biwei",
+    "author": [
+      {
+        "literal": "中国科学院大学"
+      }
+    ],
+    "accessed": {
+      "date-parts": [
+        [
+          2026,
+          10,
+          6
+        ]
+      ]
+    },
+    "note": "English title: Biwei Xie. Published reference slots: ref-203. Published context: 中国科学院大学. “解壁伟” (Biwei Xie). Faculty profile. UCAS page."
+  },
+  {
+    "id": "f128_ref_204",
+    "type": "webpage",
+    "title": "项目概述",
+    "language": "zh",
+    "URL": "https://ysyx.oscc.cc/project/intro.html",
+    "author": [
+      {
+        "literal": "一生一芯"
+      }
+    ],
+    "accessed": {
+      "date-parts": [
+        [
+          2026,
+          10,
+          6
+        ]
+      ]
+    },
+    "note": "English title: Project overview. Published reference slots: ref-204. Published context: 一生一芯. “项目概述” (Project overview). YSYX page."
+  },
+  {
+    "id": "f128_ref_205",
+    "type": "webpage",
+    "title": "兴趣小组",
+    "language": "zh",
+    "URL": "https://ysyx.oscc.cc/sig",
+    "author": [
+      {
+        "literal": "一生一芯"
+      }
+    ],
+    "accessed": {
+      "date-parts": [
+        [
+          2026,
+          10,
+          6
+        ]
+      ]
+    },
+    "note": "English title: Special-interest groups. Published reference slots: ref-205. Published context: 一生一芯. “兴趣小组” (Special-interest groups). YSYX page."
+  },
+  {
+    "id": "f128_ref_206",
+    "type": "webpage",
+    "title": "2024年第三届OSEDA研讨会征稿通知",
+    "language": "zh",
+    "URL": "https://ieda.oscc.cc/activities/conferences/notice/third-OSEDA-workshop-24_notice.html",
+    "author": [
+      {
+        "literal": "iEDA Project"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2024
+        ]
+      ]
+    },
+    "note": "English title: Call for Papers for the Third OSEDA Workshop, 2024. Published reference slots: ref-206. Published context: iEDA Project. “2024年第三届OSEDA研讨会征稿通知” (Call for Papers for the Third OSEDA Workshop, 2024). iEDA page."
+  },
+  {
+    "id": "f128_ref_207",
+    "type": "webpage",
+    "title": "【演講公告】2026/8/25 邀請演講：Dr. Jack Wu吳昕益博士—AI輔助晶片設計：從雙LLM協作RTL生成到ARM Corstone FPGA快速驗證",
+    "language": "zh",
+    "URL": "https://mtkntu.ntu.edu.tw/en/news/42",
+    "author": [
+      {
+        "literal": "MediaTek–NTU Research Center"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          8,
+          11
+        ]
+      ]
+    },
+    "note": "English title: Invited talk: AI-Assisted Chip Design from Dual-LLM RTL Generation to Rapid FPGA Verification with ARM Corstone. Published reference slots: ref-207. Published context: MediaTek–NTU Research Center. “【演講公告】2026/8/25 邀請演講：Dr. Jack Wu吳昕益博士—AI輔助晶片設計：從雙LLM協作RTL生成到ARM Corstone FPGA快速驗證” (Invited talk: AI-Assisted Chip Design from Dual-LLM RTL Generation to Rapid FPGA Verification with ARM Corstone). August 11, 2026. MediaTek–NTU article."
+  }
+]

@@ -1,0 +1,112 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="850" viewBox="0 0 1400 850" role="img" aria-labelledby="fig08-title fig08-desc">
+<title id="fig08-title">Technical capital can be valuable without being suitable for external sale</title>
+<desc id="fig08-desc">As capable foundation models become more widely available, durable advantage will depend even more on technical capital accumulated in design organizations, incumbent providers, foundries, ecosystems, and national programs. Much of that technical capital creates value primarily by improving the holder’s own engineering capability rather than by being sold separately.</desc>
+<rect width="1400" height="850" fill="#FFFFFF"/>
+<defs>
+<marker id="arrow" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto" markerUnits="strokeWidth"><path d="M0,0 L0,6 L9,3 z" fill="#5D6973"/></marker>
+<marker id="arrowblue" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto" markerUnits="strokeWidth"><path d="M0,0 L0,6 L9,3 z" fill="#2F6B8A"/></marker>
+<linearGradient id="fadeBlue" x1="0" y1="0" x2="0" y2="1"><stop offset="0%" stop-color="#EAF4FA" stop-opacity="0.9"/><stop offset="100%" stop-color="#EAF4FA" stop-opacity="0.15"/></linearGradient>
+</defs>
+<text x="70" y="62" font-family="'Noto Sans', Arial, Helvetica, sans-serif" font-size="34" font-weight="700" fill="#17212B">Technical capital can be valuable without being suitable for external sale</text>
+<line x1="70" y1="82" x2="1330" y2="82" stroke="#AAB3BB" stroke-width="2"/>
+<rect x="60.0" y="145" width="241.6" height="510" rx="18" fill="#EAF4FA" stroke="#2F6B8A" stroke-width="2.2"/>
+<text x="180.8" y="188" font-family="'Noto Sans', Arial, Helvetica, sans-serif" font-size="20" font-weight="800" font-style="normal" fill="#2F6B8A" text-anchor="middle">SUITABLE FOR</text>
+<text x="180.8" y="214" font-family="'Noto Sans', Arial, Helvetica, sans-serif" font-size="20" font-weight="800" font-style="normal" fill="#2F6B8A" text-anchor="middle">EXTERNAL SALE</text>
+<rect x="78.0" y="260" width="205.6" height="66" rx="10" fill="#FFFFFF" stroke="#2F6B8A" stroke-width="1.2"/>
+<text x="180.8" y="288" font-family="'Noto Sans', Arial, Helvetica, sans-serif" font-size="17" font-weight="600" fill="#17212B" text-anchor="middle">
+<tspan x="180.8" dy="0">domain tools</tspan>
+</text>
+<rect x="78.0" y="342" width="205.6" height="66" rx="10" fill="#FFFFFF" stroke="#2F6B8A" stroke-width="1.2"/>
+<text x="180.8" y="370" font-family="'Noto Sans', Arial, Helvetica, sans-serif" font-size="17" font-weight="600" fill="#17212B" text-anchor="middle">
+<tspan x="180.8" dy="0">generators</tspan>
+</text>
+<rect x="78.0" y="424" width="205.6" height="66" rx="10" fill="#FFFFFF" stroke="#2F6B8A" stroke-width="1.2"/>
+<text x="180.8" y="452" font-family="'Noto Sans', Arial, Helvetica, sans-serif" font-size="17" font-weight="600" fill="#17212B" text-anchor="middle">
+<tspan x="180.8" dy="0">specialized models</tspan>
+</text>
+<rect x="78.0" y="506" width="205.6" height="66" rx="10" fill="#FFFFFF" stroke="#2F6B8A" stroke-width="1.2"/>
+<text x="180.8" y="534" font-family="'Noto Sans', Arial, Helvetica, sans-serif" font-size="17" font-weight="600" fill="#17212B" text-anchor="middle">
+<tspan x="180.8" dy="0">supportable workflow</tspan>
+</text>
+<rect x="319.6" y="145" width="241.6" height="510" rx="18" fill="#EDF5F0" stroke="#5E7E6E" stroke-width="2.2"/>
+<text x="440.40000000000003" y="188" font-family="'Noto Sans', Arial, Helvetica, sans-serif" font-size="20" font-weight="800" font-style="normal" fill="#5E7E6E" text-anchor="middle">CUSTOMER-</text>
+<text x="440.40000000000003" y="214" font-family="'Noto Sans', Arial, Helvetica, sans-serif" font-size="20" font-weight="800" font-style="normal" fill="#5E7E6E" text-anchor="middle">INTERNAL</text>
+<rect x="337.6" y="260" width="205.6" height="66" rx="10" fill="#FFFFFF" stroke="#5E7E6E" stroke-width="1.2"/>
+<text x="440.40000000000003" y="288" font-family="'Noto Sans', Arial, Helvetica, sans-serif" font-size="17" font-weight="600" fill="#17212B" text-anchor="middle">
+<tspan x="440.40000000000003" dy="0">authoritative state</tspan>
+</text>
+<rect x="337.6" y="342" width="205.6" height="66" rx="10" fill="#FFFFFF" stroke="#5E7E6E" stroke-width="1.2"/>
+<text x="440.40000000000003" y="370" font-family="'Noto Sans', Arial, Helvetica, sans-serif" font-size="17" font-weight="600" fill="#17212B" text-anchor="middle">
+<tspan x="440.40000000000003" dy="0">private design history</tspan>
+</text>
+<rect x="337.6" y="424" width="205.6" height="66" rx="10" fill="#FFFFFF" stroke="#5E7E6E" stroke-width="1.2"/>
+<text x="440.40000000000003" y="452" font-family="'Noto Sans', Arial, Helvetica, sans-serif" font-size="17" font-weight="600" fill="#17212B" text-anchor="middle">
+<tspan x="440.40000000000003" dy="0">failure history</tspan>
+</text>
+<rect x="337.6" y="506" width="205.6" height="66" rx="10" fill="#FFFFFF" stroke="#5E7E6E" stroke-width="1.2"/>
+<text x="440.40000000000003" y="534" font-family="'Noto Sans', Arial, Helvetica, sans-serif" font-size="17" font-weight="600" fill="#17212B" text-anchor="middle">
+<tspan x="440.40000000000003" dy="0">routing policy</tspan>
+</text>
+<rect x="579.2" y="145" width="241.6" height="510" rx="18" fill="#FFF1E8" stroke="#B56B3C" stroke-width="2.2"/>
+<text x="700.0" y="188" font-family="'Noto Sans', Arial, Helvetica, sans-serif" font-size="20" font-weight="800" font-style="normal" fill="#B56B3C" text-anchor="middle">INCUMBENT-</text>
+<text x="700.0" y="214" font-family="'Noto Sans', Arial, Helvetica, sans-serif" font-size="20" font-weight="800" font-style="normal" fill="#B56B3C" text-anchor="middle">BUNDLED</text>
+<rect x="597.2" y="260" width="205.6" height="66" rx="10" fill="#FFFFFF" stroke="#B56B3C" stroke-width="1.2"/>
+<text x="700.0" y="288" font-family="'Noto Sans', Arial, Helvetica, sans-serif" font-size="17" font-weight="600" fill="#17212B" text-anchor="middle">
+<tspan x="700.0" dy="0">qualified flows</tspan>
+</text>
+<rect x="597.2" y="342" width="205.6" height="66" rx="10" fill="#FFFFFF" stroke="#B56B3C" stroke-width="1.2"/>
+<text x="700.0" y="370" font-family="'Noto Sans', Arial, Helvetica, sans-serif" font-size="17" font-weight="600" fill="#17212B" text-anchor="middle">
+<tspan x="700.0" dy="0">engine integration</tspan>
+</text>
+<rect x="597.2" y="424" width="205.6" height="66" rx="10" fill="#FFFFFF" stroke="#B56B3C" stroke-width="1.2"/>
+<text x="700.0" y="452" font-family="'Noto Sans', Arial, Helvetica, sans-serif" font-size="17" font-weight="600" fill="#17212B" text-anchor="middle">
+<tspan x="700.0" dy="0">support / trust</tspan>
+</text>
+<rect x="597.2" y="506" width="205.6" height="66" rx="10" fill="#FFFFFF" stroke="#B56B3C" stroke-width="1.2"/>
+<text x="700.0" y="534" font-family="'Noto Sans', Arial, Helvetica, sans-serif" font-size="17" font-weight="600" fill="#17212B" text-anchor="middle">
+<tspan x="700.0" dy="0">native evaluator</tspan>
+<tspan x="700.0" dy="19">access</tspan>
+</text>
+<rect x="838.8000000000001" y="145" width="241.6" height="510" rx="18" fill="#F7FAFC" stroke="#5D6973" stroke-width="2.2"/>
+<text x="959.6" y="188" font-family="'Noto Sans', Arial, Helvetica, sans-serif" font-size="20" font-weight="800" font-style="normal" fill="#5D6973" text-anchor="middle">SHARED /</text>
+<text x="959.6" y="214" font-family="'Noto Sans', Arial, Helvetica, sans-serif" font-size="20" font-weight="800" font-style="normal" fill="#5D6973" text-anchor="middle">OPEN</text>
+<rect x="856.8000000000001" y="260" width="205.6" height="66" rx="10" fill="#FFFFFF" stroke="#5D6973" stroke-width="1.2"/>
+<text x="959.6" y="288" font-family="'Noto Sans', Arial, Helvetica, sans-serif" font-size="17" font-weight="600" fill="#17212B" text-anchor="middle">
+<tspan x="959.6" dy="0">interchange layers</tspan>
+</text>
+<rect x="856.8000000000001" y="342" width="205.6" height="66" rx="10" fill="#FFFFFF" stroke="#5D6973" stroke-width="1.2"/>
+<text x="959.6" y="370" font-family="'Noto Sans', Arial, Helvetica, sans-serif" font-size="17" font-weight="600" fill="#17212B" text-anchor="middle">
+<tspan x="959.6" dy="0">open infrastructure</tspan>
+</text>
+<rect x="856.8000000000001" y="424" width="205.6" height="66" rx="10" fill="#FFFFFF" stroke="#5D6973" stroke-width="1.2"/>
+<text x="959.6" y="452" font-family="'Noto Sans', Arial, Helvetica, sans-serif" font-size="17" font-weight="600" fill="#17212B" text-anchor="middle">
+<tspan x="959.6" dy="0">benchmarks</tspan>
+</text>
+<rect x="856.8000000000001" y="506" width="205.6" height="66" rx="10" fill="#FFFFFF" stroke="#5D6973" stroke-width="1.2"/>
+<text x="959.6" y="534" font-family="'Noto Sans', Arial, Helvetica, sans-serif" font-size="17" font-weight="600" fill="#17212B" text-anchor="middle">
+<tspan x="959.6" dy="0">shared representations</tspan>
+</text>
+<rect x="1098.4" y="145" width="241.6" height="510" rx="18" fill="#F2EEF5" stroke="#6B46C1" stroke-width="2.2"/>
+<text x="1219.2" y="188" font-family="'Noto Sans', Arial, Helvetica, sans-serif" font-size="20" font-weight="800" font-style="normal" fill="#6B46C1" text-anchor="middle">SOVEREIGN /</text>
+<text x="1219.2" y="214" font-family="'Noto Sans', Arial, Helvetica, sans-serif" font-size="20" font-weight="800" font-style="normal" fill="#6B46C1" text-anchor="middle">NATIONAL</text>
+<rect x="1116.4" y="260" width="205.6" height="66" rx="10" fill="#FFFFFF" stroke="#6B46C1" stroke-width="1.2"/>
+<text x="1219.2" y="288" font-family="'Noto Sans', Arial, Helvetica, sans-serif" font-size="17" font-weight="600" fill="#17212B" text-anchor="middle">
+<tspan x="1219.2" dy="0">strategic capability</tspan>
+</text>
+<rect x="1116.4" y="342" width="205.6" height="66" rx="10" fill="#FFFFFF" stroke="#6B46C1" stroke-width="1.2"/>
+<text x="1219.2" y="370" font-family="'Noto Sans', Arial, Helvetica, sans-serif" font-size="17" font-weight="600" fill="#17212B" text-anchor="middle">
+<tspan x="1219.2" dy="0">trusted local stacks</tspan>
+</text>
+<rect x="1116.4" y="424" width="205.6" height="66" rx="10" fill="#FFFFFF" stroke="#6B46C1" stroke-width="1.2"/>
+<text x="1219.2" y="452" font-family="'Noto Sans', Arial, Helvetica, sans-serif" font-size="17" font-weight="600" fill="#17212B" text-anchor="middle">
+<tspan x="1219.2" dy="0">security architecture</tspan>
+</text>
+<rect x="1116.4" y="506" width="205.6" height="66" rx="10" fill="#FFFFFF" stroke="#6B46C1" stroke-width="1.2"/>
+<text x="1219.2" y="534" font-family="'Noto Sans', Arial, Helvetica, sans-serif" font-size="17" font-weight="600" fill="#17212B" text-anchor="middle">
+<tspan x="1219.2" dy="0">national</tspan>
+<tspan x="1219.2" dy="19">infrastructure</tspan>
+</text>
+<rect x="190" y="690" width="1020" height="88" rx="18" fill="#FFFFFF" stroke="#B56B3C" stroke-width="2.5"/>
+<text x="700" y="727" font-family="'Noto Sans', Arial, Helvetica, sans-serif" font-size="21" font-weight="800" font-style="normal" fill="#B56B3C" text-anchor="middle">STRATEGICALLY IMPORTANT BUT NOT SUITABLE FOR EXTERNAL SALE</text>
+<text x="700" y="758" font-family="'Noto Sans', Arial, Helvetica, sans-serif" font-size="18" font-weight="600" font-style="normal" fill="#17212B" text-anchor="middle">is a positive technical-capital category, not a failed-product category.</text>
+</svg>

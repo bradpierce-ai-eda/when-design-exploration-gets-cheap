@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="850" viewBox="0 0 1400 850" role="img" aria-labelledby="fig04-title fig04-desc">
+<title id="fig04-title">Which Constraints Does AI Actually Relax?</title>
+<desc id="fig04-desc">AI can relax some of the constraints that limited an EDA approach. If the limiting factor was expert human effort, then the economics can change substantially. If the limiting factor was QoR, solver complexity, fidelity, process dependence, or physics, then the economics don’t change much.</desc>
+<rect width="1400" height="850" fill="#FFFFFF" />
+<defs>
+<marker id="arrow" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto" markerUnits="strokeWidth"><path d="M0,0 L0,6 L9,3 z" fill="#5D6973" /></marker>
+<marker id="arrowblue" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto" markerUnits="strokeWidth"><path d="M0,0 L0,6 L9,3 z" fill="#2F6B8A" /></marker>
+<linearGradient id="fadeBlue" x1="0" y1="0" x2="0" y2="1"><stop offset="0%" stop-color="#EAF4FA" stop-opacity="0.9" /><stop offset="100%" stop-color="#EAF4FA" stop-opacity="0.15" /></linearGradient>
+</defs>
+<text x="70" y="62" font-family="'Noto Sans', Arial, Helvetica, sans-serif" font-size="34" font-weight="700" fill="#17212B">Which constraints does AI actually relax?</text>
+<line x1="70" y1="82" x2="1330" y2="82" stroke="#AAB3BB" stroke-width="2" />
+<rect x="100" y="315" width="220" height="110" rx="18" fill="#EAF4FA" stroke="#2F6B8A" stroke-width="2" />
+<text x="210.0" y="360" font-family="'Noto Sans', Arial, Helvetica, sans-serif" font-size="22" font-weight="700" font-style="normal" fill="#17212B" text-anchor="middle">PRIOR</text>
+<text x="210.0" y="390" font-family="'Noto Sans', Arial, Helvetica, sans-serif" font-size="22" font-weight="700" font-style="normal" fill="#17212B" text-anchor="middle">APPROACH</text>
+<rect x="370" y="315" width="220" height="110" rx="18" fill="#EAF4FA" stroke="#2F6B8A" stroke-width="2" />
+<text x="480.0" y="360" font-family="'Noto Sans', Arial, Helvetica, sans-serif" font-size="22" font-weight="700" font-style="normal" fill="#17212B" text-anchor="middle">LIMITING</text>
+<text x="480.0" y="390" font-family="'Noto Sans', Arial, Helvetica, sans-serif" font-size="22" font-weight="700" font-style="normal" fill="#17212B" text-anchor="middle">CONSTRAINT</text>
+<rect x="640" y="300" width="250" height="110" rx="18" fill="#EAF4FA" stroke="#2F6B8A" stroke-width="2" />
+<text x="765.0" y="345" font-family="'Noto Sans', Arial, Helvetica, sans-serif" font-size="22" font-weight="700" font-style="normal" fill="#17212B" text-anchor="middle">DOES AI RELAX</text>
+<text x="765.0" y="375" font-family="'Noto Sans', Arial, Helvetica, sans-serif" font-size="22" font-weight="700" font-style="normal" fill="#17212B" text-anchor="middle">THIS CONSTRAINT?</text>
+<rect x="980" y="220" width="220" height="110" rx="18" fill="#EDF5F0" stroke="#5E7E6E" stroke-width="2" />
+<text x="1090.0" y="265" font-family="'Noto Sans', Arial, Helvetica, sans-serif" font-size="19" font-weight="700" font-style="normal" fill="#17212B" text-anchor="middle">MORE PRACTICAL</text>
+<rect x="980" y="445" width="220" height="110" rx="18" fill="#FFF1E8" stroke="#B56B3C" stroke-width="2" />
+<text x="1090.0" y="490" font-family="'Noto Sans', Arial, Helvetica, sans-serif" font-size="22" font-weight="700" font-style="normal" fill="#17212B" text-anchor="middle">LIMIT</text>
+<text x="1090.0" y="520" font-family="'Noto Sans', Arial, Helvetica, sans-serif" font-size="22" font-weight="700" font-style="normal" fill="#17212B" text-anchor="middle">STILL APPLIES</text>
+<line x1="320" y1="370" x2="370" y2="370" stroke="#5D6973" stroke-width="3" marker-end="url(#arrow)" />
+<line x1="590" y1="370" x2="640" y2="355" stroke="#5D6973" stroke-width="3" marker-end="url(#arrow)" />
+<line x1="890" y1="340" x2="980" y2="275" stroke="#5E7E6E" stroke-width="3" marker-end="url(#arrow)" />
+<line x1="890" y1="385" x2="980" y2="500" stroke="#B56B3C" stroke-width="3" marker-end="url(#arrow)" />
+<text x="1010" y="190" font-family="'Noto Sans', Arial, Helvetica, sans-serif" font-size="18" font-weight="700" font-style="normal" fill="#5E7E6E" text-anchor="start">YES: operating cost fell</text>
+<text x="1010" y="425" font-family="'Noto Sans', Arial, Helvetica, sans-serif" font-size="18" font-weight="700" font-style="normal" fill="#B56B3C" text-anchor="start">NO: technical limit still applies</text>
+<rect x="120" y="560" width="350" height="170" rx="16" fill="#EDF5F0" stroke="#5E7E6E" stroke-width="1.8" />
+<text x="295" y="595" font-family="'Noto Sans', Arial, Helvetica, sans-serif" font-size="19" font-weight="700" font-style="normal" fill="#5E7E6E" text-anchor="middle">CONSTRAINTS AI CAN RELAX</text>
+<text x="145" y="630" font-family="'Noto Sans', Arial, Helvetica, sans-serif" font-size="19" font-weight="400" fill="#17212B" text-anchor="start">
+<tspan x="145" dy="0">human authoring • coordination •</tspan>
+<tspan x="145" dy="23.75">interpretation • repetitive search</tspan>
+<tspan x="145" dy="23.75">• API/tool operation</tspan>
+</text>
+<rect x="505" y="560" width="720" height="170" rx="16" fill="#FFF1E8" stroke="#B56B3C" stroke-width="1.8" />
+<text x="865" y="595" font-family="'Noto Sans', Arial, Helvetica, sans-serif" font-size="19" font-weight="700" font-style="normal" fill="#B56B3C" text-anchor="middle">LIMITS AI WON'T REMOVE</text>
+<text x="535" y="630" font-family="'Noto Sans', Arial, Helvetica, sans-serif" font-size="19" font-weight="400" fill="#17212B" text-anchor="start">
+<tspan x="535" dy="0">QoR • semantic loss • solver scaling • fidelity limits •</tspan>
+<tspan x="535" dy="23.75">verification difficulty • process dependence • physics</tspan>
+</text>
+</svg>

@@ -1,0 +1,39 @@
+cff-version: 1.2.0
+message: "If this work is relevant, please cite the canonical Zenodo publication using its DOI."
+title: "When Design Exploration Gets Cheap: Upstream Search, Downstream Truth, and the Migration of Scarcity in Chip Design"
+type: dataset
+authors:
+  - family-names: Pierce
+    given-names: Brad
+    orcid: "https://orcid.org/0009-0009-7427-2969"
+version: "1.0"
+date-released: "2026-10-09"
+doi: "10.5281/zenodo.23256253"
+identifiers:
+  - type: doi
+    value: "10.5281/zenodo.23256253"
+keywords:
+  - electronic design automation
+  - EDA
+  - artificial intelligence
+  - agentic AI
+  - evaluator economics
+  - routing capital
+  - technical capital
+  - semiconductor design
+  - design-space exploration
+url: "https://doi.org/10.5281/zenodo.23256253"
+repository-code: "https://github.com/bradpierce-ai-eda/when-design-exploration-gets-cheap"
+license: CC-BY-NC-4.0
+preferred-citation:
+  type: report
+  title: "When Design Exploration Gets Cheap: Upstream Search, Downstream Truth, and the Migration of Scarcity in Chip Design"
+  authors:
+    - family-names: Pierce
+      given-names: Brad
+      orcid: "https://orcid.org/0009-0009-7427-2969"
+  year: 2026
+  month: 10
+  doi: "10.5281/zenodo.23256253"
+  publisher:
+    name: Zenodo
