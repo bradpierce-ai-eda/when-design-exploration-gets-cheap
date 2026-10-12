@@ -1,5 +1,5 @@
 cff-version: 1.2.0
-message: "If this work is relevant, please cite the canonical Zenodo publication using its DOI."
+message: "The canonical Zenodo publication identified by this DOI is the preferred citation for this work."
 title: "When Design Exploration Gets Cheap: Upstream Search, Downstream Truth, and the Migration of Scarcity in Chip Design"
 type: dataset
 authors:
