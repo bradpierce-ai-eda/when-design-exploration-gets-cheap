@@ -762,7 +762,7 @@ Legal code: https://creativecommons.org/licenses/by-nc/4.0/legalcode
 
     checksum_targets = sorted(
         p for p in repo.rglob("*")
-        if p.is_file() and p.name != "checksums.sha256" and ".git" not in p.parts
+        if p.is_file() and p.name != "checksums.sha256" and ".git" not in p.parts and "__pycache__" not in p.parts and p.suffix not in {".pyc", ".pyo"}
     )
     checksum_lines = [f"{sha256(path)}  {path.relative_to(repo).as_posix()}" for path in checksum_targets]
     write_text(repo / "checksums.sha256", "\n".join(checksum_lines) + "\n")

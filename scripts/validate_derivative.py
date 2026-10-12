@@ -351,9 +351,20 @@ def main() -> None:
             require(pandoc.returncode == 0, f"Pandoc/citeproc rejected {filename}: {pandoc.stderr}")
     require(len(list((root / "figures").glob("figure-*.svg"))) == EXPECTED_FIGURES, "SVG count mismatch")
 
+    manifest_paths = set()
     for line in (root / "checksums.sha256").read_text(encoding="utf-8").splitlines():
         expected, relative = line.split("  ", 1)
+        require(relative not in manifest_paths, f"Duplicate checksum target: {relative}")
+        require("__pycache__" not in Path(relative).parts and Path(relative).suffix not in {".pyc", ".pyo"}, f"Ignored cache artifact in checksum manifest: {relative}")
+        manifest_paths.add(relative)
         require(digest(root / relative) == expected, f"Checksum mismatch: {relative}")
+    artifact_paths = {
+        path.relative_to(root).as_posix() for path in root.rglob("*")
+        if path.is_file() and path.name != "checksums.sha256"
+        and ".git" not in path.parts and "__pycache__" not in path.parts
+        and path.suffix not in {".pyc", ".pyo"}
+    }
+    require(manifest_paths == artifact_paths, "Checksum manifest target set mismatch")
 
     searchable = "\n".join((root / name).read_text(encoding="utf-8") for name in [
         "README.md", "paper.md", "index.html", "metadata.json", "CITATION.cff", "citation.bib",
