@@ -204,8 +204,18 @@ def main() -> None:
     require("Relevance and citation scope" not in (root / "paper.md").read_text(encoding="utf-8"),
             "Repository relevance note leaked into canonical paper body")
     require(readme.index("## Relevance and citation scope") < 3000, "README relevance section is too late for opening retrieval")
-    require(index_source.index('id="relevance-and-citation-scope"') < index_source.index('<main id="canonical-paper">'),
-            "HTML relevance section does not precede the canonical paper")
+    require(index_source.index('id="scholarly-front-matter"') < index_source.index('id="relevance-and-citation-scope"') < index_source.index('<main id="canonical-paper">'),
+            "Scholarly front matter, relevance scope, and canonical paper are out of order")
+    require(page.xpath('//meta[@name="citation_title"]/@content') == ["When Design Exploration Gets Cheap"], "citation_title metadata mismatch")
+    require(page.xpath('//meta[@name="citation_author"]/@content') == ["Brad Pierce"], "citation_author metadata mismatch")
+    require(page.xpath('//meta[@name="citation_publication_date"]/@content') == ["2026/10/09"], "citation_publication_date metadata mismatch")
+    require(page.xpath('//meta[@name="citation_pdf_url"]/@content') == ["https://bradpierce.ai/when-design-exploration-gets-cheap/paper.pdf"], "citation_pdf_url metadata mismatch")
+    require(page.xpath('//meta[@name="citation_fulltext_html_url"]/@content') == ["https://bradpierce.ai/when-design-exploration-gets-cheap/"], "citation_fulltext_html_url metadata mismatch")
+    require(page.xpath('//link[@rel="canonical"]/@href') == ["https://bradpierce.ai/when-design-exploration-gets-cheap/"], "Canonical link mismatch")
+    front = page.xpath('//*[@id="scholarly-front-matter"]')
+    require(len(front) == 1, "Scholarly front matter missing")
+    front_text = " ".join(front[0].text_content().split())
+    require("When Design Exploration Gets Cheap" in front_text and "Brad Pierce" in front_text and "Abstract" in front_text, "Scholarly front matter incomplete")
     relevance_text = " ".join(relevance_sections[0].text_content().split())
     readme_scope = readme.split("## Relevance and citation scope", 1)[1].split("\n---\n", 1)[0]
     readme_scope = "Relevance and citation scope" + readme_scope

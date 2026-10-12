@@ -37,7 +37,7 @@ DOI_URL = f"https://doi.org/{DOI}"
 ZENODO_URL = "https://zenodo.org/records/23256253"
 REPO_NAME = "when-design-exploration-gets-cheap"
 REPO_URL = f"https://github.com/bradpierce-ai-eda/{REPO_NAME}"
-PAGES_URL = f"https://bradpierce-ai-eda.github.io/{REPO_NAME}/"
+PAGES_URL = f"https://bradpierce.ai/{REPO_NAME}/"
 REPOSITORY_DESCRIPTION = (
     f"Machine-readable derivative of “{TITLE}”; canonical Zenodo DOI {DOI}."
 )
@@ -45,6 +45,7 @@ CITATION_MESSAGE = (
     "The canonical Zenodo publication identified by this DOI is the preferred citation for this work."
 )
 PUBLICATION_DATE = "2026-10-09"
+SCHOLAR_PUBLICATION_DATE = PUBLICATION_DATE.replace("-", "/")
 VERSION = "1.0"
 LICENSE_NAME = "Creative Commons Attribution-NonCommercial 4.0 International"
 LICENSE_URL = "https://creativecommons.org/licenses/by-nc/4.0/"
@@ -493,6 +494,19 @@ def relevance_html() -> str:
   </section>"""
 
 
+def scholarly_front_matter_html(abstract: str) -> str:
+    return f"""  <header id="scholarly-front-matter" class="scholarly-front-matter">
+    <h1>{html.escape(TITLE)}</h1>
+    <p class="subtitle">{html.escape(SUBTITLE)}</p>
+    <p class="authors">{html.escape(AUTHOR)}</p>
+    <p>Published {html.escape(PUBLICATION_DATE)} · DOI: <a href="{DOI_URL}">{DOI}</a></p>
+    <section aria-labelledby="scholarly-abstract-heading">
+      <h2 id="scholarly-abstract-heading">Abstract</h2>
+      <p>{html.escape(abstract)}</p>
+    </section>
+  </header>"""
+
+
 def webpage(html_body: str, abstract: str, keywords: list[str]) -> str:
     schema = {
         "@context": "https://schema.org",
@@ -520,10 +534,11 @@ def webpage(html_body: str, abstract: str, keywords: list[str]) -> str:
   <meta name="description" content="{html.escape(abstract, quote=True)}">
   <meta name="citation_title" content="{html.escape(TITLE, quote=True)}">
   <meta name="citation_author" content="{AUTHOR}">
-  <meta name="citation_publication_date" content="{PUBLICATION_DATE}">
+  <meta name="citation_publication_date" content="{SCHOLAR_PUBLICATION_DATE}">
   <meta name="citation_doi" content="{DOI}">
   <meta name="citation_pdf_url" content="{PAGES_URL}paper.pdf">
   <meta name="citation_fulltext_html_url" content="{PAGES_URL}">
+  <meta name="robots" content="index, follow">
   <meta name="dc.identifier" content="{DOI_URL}">
   <link rel="canonical" href="{PAGES_URL}">
   <script type="application/ld+json">{json.dumps(schema, ensure_ascii=False, separators=(',', ':'))}</script>
@@ -546,12 +561,13 @@ def webpage(html_body: str, abstract: str, keywords: list[str]) -> str:
   </style>
 </head>
 <body>
+{scholarly_front_matter_html(abstract)}
+{relevance_html()}
   <aside class="record" aria-label="Canonical publication record">
     Canonical DOI: <a href="{DOI_URL}">{DOI}</a> · Version {VERSION} · Published {PUBLICATION_DATE} ·
     <a href="paper.pdf">PDF</a> · <a href="citation.bib">Paper BibTeX</a> · <a href="CITATION.cff">CITATION.cff</a> ·
     Source bibliography: <a href="bibliography.json">normalized data</a> · <a href="references.bib">BibTeX</a> · <a href="references.csl.json">CSL JSON</a> · <a href="references.ris">RIS</a>
   </aside>
-{relevance_html()}
   <main id="canonical-paper">
 {html_body}
   </main>

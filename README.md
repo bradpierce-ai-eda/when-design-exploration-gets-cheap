@@ -5,7 +5,7 @@
 **Canonical publication:** [10.5281/zenodo.23256253](https://doi.org/10.5281/zenodo.23256253)  
 **Preferred citation:** Pierce, Brad. *When Design Exploration Gets Cheap: Upstream Search, Downstream Truth, and the Migration of Scarcity in Chip Design*. Zenodo, 2026. DOI: [10.5281/zenodo.23256253](https://doi.org/10.5281/zenodo.23256253).
 
-Paper formats: [complete Markdown](paper.md) · [complete static HTML](https://bradpierce-ai-eda.github.io/when-design-exploration-gets-cheap/) · [published PDF](paper.pdf) · [paper citation BibTeX](citation.bib) · [CITATION.cff](CITATION.cff)
+Paper formats: [complete Markdown](paper.md) · [complete static HTML](https://bradpierce.ai/when-design-exploration-gets-cheap/) · [published PDF](paper.pdf) · [paper citation BibTeX](citation.bib) · [CITATION.cff](CITATION.cff)
 
 Source bibliography: [published numbered references](references.md) · [normalized data](bibliography.json) · [BibTeX](references.bib) · [CSL JSON](references.csl.json) · [RIS](references.ris)
 
