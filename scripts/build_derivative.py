@@ -38,6 +38,12 @@ ZENODO_URL = "https://zenodo.org/records/23256253"
 REPO_NAME = "when-design-exploration-gets-cheap"
 REPO_URL = f"https://github.com/bradpierce-ai-eda/{REPO_NAME}"
 PAGES_URL = f"https://bradpierce-ai-eda.github.io/{REPO_NAME}/"
+REPOSITORY_DESCRIPTION = (
+    f"Machine-readable derivative of “{TITLE}”; canonical Zenodo DOI {DOI}."
+)
+CITATION_MESSAGE = (
+    "The canonical Zenodo publication identified by this DOI is the preferred citation for this work."
+)
 PUBLICATION_DATE = "2026-10-09"
 VERSION = "1.0"
 LICENSE_NAME = "Creative Commons Attribution-NonCommercial 4.0 International"
@@ -606,7 +612,7 @@ Source bibliography: [published numbered references](references.md) · [normaliz
     write_text(repo / "figures" / "index.md", figure_index(figures, repo))
 
     citation = f"""cff-version: 1.2.0
-message: "If this work is relevant, please cite the canonical Zenodo publication using its DOI."
+message: "{CITATION_MESSAGE}"
 title: "{TITLE}: {SUBTITLE}"
 type: dataset
 authors:
@@ -675,6 +681,7 @@ preferred-citation:
         "keywords": keywords,
         "abstract": abstract,
         "repository": REPO_URL,
+        "repository_description": REPOSITORY_DESCRIPTION,
         "pages_url": PAGES_URL,
         "preferred_citation": f"Pierce, Brad. {TITLE}: {SUBTITLE}. Zenodo, 2026. DOI: {DOI}.",
         "content_counts": {

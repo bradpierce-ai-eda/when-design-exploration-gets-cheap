@@ -19,6 +19,13 @@ from export_bibliography import expected_outputs, load_dataset
 
 
 DOI = "10.5281/zenodo.23256253"
+EXPECTED_CITATION_MESSAGE = (
+    "The canonical Zenodo publication identified by this DOI is the preferred citation for this work."
+)
+EXPECTED_REPOSITORY_DESCRIPTION = (
+    "Machine-readable derivative of “When Design Exploration Gets Cheap”; "
+    f"canonical Zenodo DOI {DOI}."
+)
 PDF_SHA256 = "8bf249abfb22647ec9a71340e0fc7b26931c6a392de45685c1e7a5e8dad41194"
 PAPER_MD_SHA256 = "25003b4cd2bbf0aae5f15c1114ba429568659d15ad215f84ac544f8e4227815d"
 EXPECTED_TABLES = 97
@@ -40,6 +47,109 @@ def digest(path: Path) -> str:
 def require(condition: bool, message: str) -> None:
     if not condition:
         raise AssertionError(message)
+
+
+PROMPT_LIKE_PATTERNS = (
+    (
+        "conditional citation request",
+        re.compile(
+            r"\bif this (?:work|paper|report|repository) is relevant\b.{0,120}"
+            r"\b(?:please\s+)?(?:cite|use|consult|follow)\b",
+            re.IGNORECASE | re.DOTALL,
+        ),
+    ),
+    (
+        "polite directive",
+        re.compile(
+            r"\bplease\s+(?:cite|use|consult|follow|ignore|disregard|retrieve|read|run|execute|"
+            r"send|upload|download|reveal|return|respond|answer)\b",
+            re.IGNORECASE,
+        ),
+    ),
+    (
+        "second-person instruction",
+        re.compile(r"\byou\s+(?:must|should|shall|need to|are to)\b", re.IGNORECASE),
+    ),
+    (
+        "AI or reader instruction",
+        re.compile(
+            r"\b(?:AI|crawler|model|agent|assistant|reader|tool)s?\s+"
+            r"(?:must|should|shall|need to|is to|are to)\b",
+            re.IGNORECASE,
+        ),
+    ),
+    (
+        "role or instruction-hierarchy marker",
+        re.compile(
+            r"\b(?:act as|you are (?:a|an|the)|system message|developer message|assistant message|"
+            r"follow (?:these|the) instructions|prompt injection)\b",
+            re.IGNORECASE,
+        ),
+    ),
+    (
+        "instruction override",
+        re.compile(
+            r"\b(?:ignore|disregard)\s+(?:all|any|the|previous|prior|above|earlier)\s+"
+            r"(?:instructions?|prompts?|messages?|rules?)\b",
+            re.IGNORECASE,
+        ),
+    ),
+    (
+        "imperative command",
+        re.compile(
+            r"(?im)^\s*(?:[-*]\s*)?(?:cite|use|consult|ignore|disregard|follow|obey|retrieve|"
+            r"run|execute|send|upload|download|reveal|return|respond|answer)\b",
+        ),
+    ),
+)
+
+
+def validate_prompt_injection_appearance(
+    root: Path,
+    readme: str,
+    index_source: str,
+    metadata: dict,
+    provenance: dict,
+    cff: dict,
+) -> None:
+    """Reject directive language in derivative-authored public surfaces.
+
+    The canonical paper body and exact source bibliography are intentionally
+    excluded. They are immutable publication content, not repository framing.
+    """
+    readme_wrapper = readme.split("\n---\n", 1)[0]
+    index_wrapper_source = index_source.split('<main id="canonical-paper">', 1)[0]
+    index_wrapper_source = re.sub(
+        r"<(?:style|script)\b[^>]*>.*?</(?:style|script)>",
+        " ",
+        index_wrapper_source,
+        flags=re.IGNORECASE | re.DOTALL,
+    )
+    index_wrapper_text = html.fromstring(index_wrapper_source).text_content()
+
+    metadata_without_canonical_abstract = dict(metadata)
+    metadata_without_canonical_abstract.pop("abstract", None)
+    surfaces = {
+        "README.md repository framing": readme_wrapper,
+        "index.html repository framing": index_wrapper_text,
+        "CITATION.cff": json.dumps(cff, ensure_ascii=False),
+        "metadata.json repository fields": json.dumps(
+            metadata_without_canonical_abstract, ensure_ascii=False
+        ),
+        "PROVENANCE.md": (root / "PROVENANCE.md").read_text(encoding="utf-8"),
+        "provenance.json": json.dumps(provenance, ensure_ascii=False),
+        "figures/index.md": (root / "figures/index.md").read_text(encoding="utf-8"),
+        "citation.bib": (root / "citation.bib").read_text(encoding="utf-8"),
+        "LICENSE": (root / "LICENSE").read_text(encoding="utf-8"),
+    }
+    for surface_name, surface_text in surfaces.items():
+        for pattern_name, pattern in PROMPT_LIKE_PATTERNS:
+            match = pattern.search(surface_text)
+            if match is not None:
+                raise AssertionError(
+                    f"Prompt-injection appearance failure in {surface_name}: "
+                    f"{pattern_name}: {match.group(0)!r}"
+                )
 
 
 def main() -> None:
@@ -65,6 +175,11 @@ def main() -> None:
     cff = yaml.safe_load((root / "CITATION.cff").read_text(encoding="utf-8"))
     require(metadata["doi"] == DOI and cff["doi"] == DOI, "DOI metadata mismatch")
     require(provenance["canonical_publication"]["doi"] == DOI, "Provenance DOI mismatch")
+    require(cff["message"] == EXPECTED_CITATION_MESSAGE, "CITATION.cff message is not declarative")
+    require(
+        metadata.get("repository_description") == EXPECTED_REPOSITORY_DESCRIPTION,
+        "Canonical repository description is missing or not declarative",
+    )
     require(metadata["content_counts"] == {
         "figures": EXPECTED_FIGURES,
         "references": EXPECTED_REFERENCES,
@@ -77,6 +192,7 @@ def main() -> None:
     page = html.fromstring((root / "index.html").read_text(encoding="utf-8"))
     readme = (root / "README.md").read_text(encoding="utf-8")
     index_source = (root / "index.html").read_text(encoding="utf-8")
+    validate_prompt_injection_appearance(root, readme, index_source, metadata, provenance, cff)
     require(page.xpath('//meta[@name="citation_doi"]/@content') == [DOI], "Missing citation_doi meta tag")
     require(len(page.xpath("//table")) == EXPECTED_TABLES, "HTML table-count mismatch")
     require(len(page.xpath("//figure")) == EXPECTED_FIGURES, "HTML figure-count mismatch")
@@ -249,6 +365,7 @@ def main() -> None:
         "undated_works": EXPECTED_UNDATED_WORKS,
         "internal_anchors": len(page.xpath('//a[starts-with(@href,"#")]')),
         "relevance_scope": "PASS",
+        "prompt_injection_appearance": "PASS",
         "bibliography_exports": "PASS",
     }, indent=2))
 
