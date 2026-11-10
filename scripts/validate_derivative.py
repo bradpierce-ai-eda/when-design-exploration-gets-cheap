@@ -40,6 +40,8 @@ EXPECTED_REUSED_WORKS = 13
 EXPECTED_PAGES = 115
 
 
+from build_derivative import HTML_DISCLOSURE, HTML_PUBLISHED_DISCLOSURE, validate_html_disclosure
+
 def digest(path: Path) -> str:
     return hashlib.sha256(path.read_bytes()).hexdigest()
 
@@ -192,6 +194,7 @@ def main() -> None:
     page = html.fromstring((root / "index.html").read_text(encoding="utf-8"))
     readme = (root / "README.md").read_text(encoding="utf-8")
     index_source = (root / "index.html").read_text(encoding="utf-8")
+    validate_html_disclosure(index_source)
     validate_prompt_injection_appearance(root, readme, index_source, metadata, provenance, cff)
     require(page.xpath('//meta[@name="citation_doi"]/@content') == [DOI], "Missing citation_doi meta tag")
     require(len(page.xpath("//table")) == EXPECTED_TABLES, "HTML table-count mismatch")

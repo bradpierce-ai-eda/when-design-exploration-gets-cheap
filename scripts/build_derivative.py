@@ -118,6 +118,23 @@ NS = {
 BOOKMARK_TO_SLUG: dict[str, str] = {}
 
 
+
+# Author-approved HTML disclosure update, 2026-11-09.
+# The original publication sources remain unchanged.
+HTML_PUBLISHED_DISCLOSURE = 'Brad Pierce developed the central formulation and retains final editorial responsibility. AI assisted in preparing the paper. This collaboration does not imply endorsement by any organization.'
+HTML_DISCLOSURE = 'This report was developed by Brad Pierce with substantial assistance from an AI model. He established the research objectives and editorial direction and retains responsibility for the claims, source attributions, and decisions about publication.'
+HTML_DISCLOSURE_OVERRIDE = {'authorized_on': '2026-11-09', 'scope': 'HTML contribution statement only; the deposited PDF and canonical Markdown remain unchanged.', 'statement': 'This report was developed by Brad Pierce with substantial assistance from an AI model. He established the research objectives and editorial direction and retains responsibility for the claims, source attributions, and decisions about publication.'}
+
+def update_html_disclosure(value):
+    if value.count(HTML_PUBLISHED_DISCLOSURE) != 1 or HTML_DISCLOSURE in value:
+        raise ValueError("Expected exactly one original HTML contribution statement")
+    return value.replace(HTML_PUBLISHED_DISCLOSURE, HTML_DISCLOSURE, 1)
+
+def validate_html_disclosure(value):
+    if value.count(HTML_DISCLOSURE) != 1 or HTML_PUBLISHED_DISCLOSURE in value:
+        raise ValueError("Expected exactly one current HTML contribution statement")
+
+
 def sha256(path: Path) -> str:
     digest = hashlib.sha256()
     with path.open("rb") as stream:
@@ -508,6 +525,7 @@ def scholarly_front_matter_html(abstract: str) -> str:
 
 
 def webpage(html_body: str, abstract: str, keywords: list[str]) -> str:
+    html_body = update_html_disclosure(html_body)
     schema = {
         "@context": "https://schema.org",
         "@type": "ScholarlyArticle",
@@ -709,6 +727,7 @@ preferred-citation:
     write_text(repo / "metadata.json", json.dumps(metadata, ensure_ascii=False, indent=2) + "\n")
 
     provenance = {
+        "html_disclosure_override": HTML_DISCLOSURE_OVERRIDE,
         "derivative_purpose": "AI discovery, comprehension, relevance matching, and citation of the canonical DOI",
         "canonical_publication": {"doi": DOI, "url": DOI_URL, "zenodo_record": ZENODO_URL},
         "sources": {
