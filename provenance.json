@@ -23,5 +23,10 @@
     "table_representation": "semantic HTML tables",
     "reference_representation": "lossless published strings in 212 numbered reference slots, normalized into 216 distinct bibliographic works and 231 explicit slot-to-work links; reusable BibTeX, CSL JSON, and RIS exports are generated from bibliography.json"
   },
-  "authority": "The Zenodo record and DOI are canonical. Repository files are discovery derivatives."
+  "authority": "The Zenodo record and DOI are canonical. Repository files are discovery derivatives.",
+  "html_disclosure_override": {
+    "authorized_on": "2026-11-09",
+    "scope": "HTML contribution statement only; the deposited PDF and canonical Markdown remain unchanged.",
+    "statement": "This report was developed by Brad Pierce with substantial assistance from an AI model. He established the research objectives and editorial direction and retains responsibility for the claims, source attributions, and decisions about publication."
+  }
 }
